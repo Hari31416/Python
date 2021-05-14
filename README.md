@@ -1,1 +1,1 @@
-A reposatory for python codes and notes.
+A repository for python codes and notes.
