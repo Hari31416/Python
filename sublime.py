@@ -1,18 +1,13 @@
-import math
-def prime(num):
-    multiples = []
-    final_num = math.floor(num**0.5)
-    for i in range(2, final_num+1):
-      if num%i ==0:
-        multiples.append(i)
-    return len(multiples) == 1
+from math import floor
 
-def count_primes(num_range):
-    primes = []
-    for m in list(range(2, nu+1, 2)):
-        if prime(m):
-            primes.append(m)
-    return len(primes)
-num_primes = count_primes(140000)
-print(num_primes)
+def is_prime(num):
+    num_range = floor(num**0.5 + 1)
+    divisors = [n for n in range(2, num_range) if num%n==0]
+    return len(divisors) == 0
 
+def return_nth_prime(n):
+    primes = [n for n in range(2, n) if is_prime(n)]
+    return primes[10000]
+
+number = return_nth_prime(105000)
+print(number)
