@@ -1,14 +1,9 @@
-from math import floor
+i = 10
+check = (i%2 == 0 and i%3 == 0 and i%3 == 0 and i%4 == 0 and i%5 == 0 and i%6 == 0 and i%7 == 0 and
+i%8 == 0 and i%9 == 0 and i%10 == 0 and i%10 == 0 and i%11 == 0 and i%12 == 0 and i%13 == 0 and
+i%14 == 0 and i%15 == 0 and i%16 == 0 and i%17 == 0 and i%18 == 0 and i%19 == 0 and i%20 == 0)
+if not check:
+    i =i+1
+else:
+    print(i)
 
-def is_prime(num):
-    #function to check if a number is prime
-    num_range = floor(num**0.5 + 1)
-    divisors = [n for n in range(2, num_range) if num%n==0]
-    return len(divisors) == 0
-
-def return_prime(n):
-    primes = [n for n in range(2, n) if is_prime(n)]
-    return primes[10000]
-
-number = return_prime(105000)
-print(number)
