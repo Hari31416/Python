@@ -78,3 +78,6 @@ def factors(n):
                 factors.append(n/i)
     return factors
 
+
+mylist = list(range(1,100))
+mylist.
