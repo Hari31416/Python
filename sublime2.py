@@ -9,9 +9,9 @@ def is_prime(num):
 
 def return_prime(n):
     primes = [n for n in range(2, n) if is_prime(n)]
-    return primes[10000]
+    return primes[-1]
 
-number = return_prime(105000)
+number = return_prime(305000)
 print(number)
 t1 = time.time()
 print(t1-t0)
