@@ -11,7 +11,8 @@ def return_prime(n):
     primes = [n for n in range(2, n) if is_prime(n)]
     return primes[-1]
 
-number = return_prime(305000)
+number = return_prime(30700)
 print(number)
 t1 = time.time()
 print(t1-t0)
+
