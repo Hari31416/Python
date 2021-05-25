@@ -1,10 +1,11 @@
 from random import choice
+
+
 # define a random walk function with n as number of steps
 def random_walk(n):
 	choices = [1, -1]
 	x = 0
-	position_all = []
-	for number in range (0,n):
+	for number in range(0, n):
 		value = choice(choices)
 		x = x + value
 	return x
