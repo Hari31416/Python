@@ -1,5 +1,6 @@
 {
     "git.ignoreLimitWarning": true,
     "python.pythonPath": "C:\\Users\\harik\\anaconda3\\python.exe",
-    "files.autoSave": "onFocusChange"
+    "files.autoSave": "onFocusChange",
+    "jupyter.jupyterServerType": "local"
 }
