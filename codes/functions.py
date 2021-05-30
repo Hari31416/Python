@@ -16,6 +16,9 @@ def isprime(num):
     return True
 
 
+isprime(97)
+
+
 def return_prime_till_n(n):
     """
     Returns a list of prime numbers till n
