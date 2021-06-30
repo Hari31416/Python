@@ -1,0 +1,1196 @@
+<button class='word'>Abject</button>
+<p class='meaning hidden'>(of something bad) experienced or present to the maximum degree</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Acolyte</button>
+<p class='meaning hidden'>a person assisting a priest in a religious service or procession.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Adamant</button>
+<p class='meaning hidden'>refusing to be persuaded or to change one's mind</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Addendum</button>
+<p class='meaning hidden'>an item of additional material added at the end of a book or other publication</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Adultery</button>
+<p class='meaning hidden'>voluntary sexual intercourse between a married person and a person who is not their spouse</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Aisle</button>
+<p class='meaning hidden'>a passage between rows of seats in a building such as a church or theatre, an aircraft, or train</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Alcove</button>
+<p class='meaning hidden'>a small place in the wall of a room or garden</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Amorous</button>
+<p class='meaning hidden'>showing, feeling, or relating to sexual desire</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Anon?</button>
+<p class='meaning hidden'>soon; shortly.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Antsy</button>
+<p class='meaning hidden'>INFORMAL•NORTH AMERICAN
+agitated, impatient, or restless</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Apostate</button>
+<p class='meaning hidden'>a person who renounces a religious or political belief or principle</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Aptly</button>
+<p class='meaning hidden'>Appropriate Or Suitable In The Circumstances
+Having A Tendency To Do Something</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Ardor</button>
+<p class='meaning hidden'>Great Enthusiasm Or Passion</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Armistice</button>
+<p class='meaning hidden'>noun
+an agreement made by opposing sides in a war to stop fighting for a certain time; a truce.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Articulate</button>
+<p class='meaning hidden'>Having Or Showing The Ability To Speak Fluently And Coherently</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Asphalt</button>
+<p class='meaning hidden'>a mixture of dark bituminous pitch with sand or gravel, used for surfacing roads, flooring, roofing etc.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Astutely</button>
+<p class='meaning hidden'>having or showing an ability to accurately assess situations or people and turn this to one's advantage</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Atrocity</button>
+<p class='meaning hidden'>an extremely wicked or cruel act, typically one involving physical violence or injury</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Attired</button>
+<p class='meaning hidden'>clothes, especially fine or formal ones</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Auditory</button>
+<p class='meaning hidden'>Relating To The Sense Of Hearing</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Auspicious</button>
+<p class='meaning hidden'>conducive to success; favourable</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Austere</button>
+<p class='meaning hidden'>severe or strict in manner or attitude</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Awry</button>
+<p class='meaning hidden'>away from the usual or expected course; amiss</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Balked</button>
+<p class='meaning hidden'>hesitate or be unwilling to accept an idea or undertaking</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Beatific</button>
+<p class='meaning hidden'>Feeling Or Expressing Blissful Happiness</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Beget</button>
+<p class='meaning hidden'>(especially of a man) bring (a child) into existence by the process of reproduction
+
+cause; bring about.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Belabor</button>
+<p class='meaning hidden'>argue or discuss (a subject) in excessive detail
+
+attack (someone) physically or verbally</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Berserk</button>
+<p class='meaning hidden'>out of control with anger or excitement; wild or frenzied.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Bestir</button>
+<p class='meaning hidden'>make a physical or mental effort; exert or rouse oneself</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Bevy</button>
+<p class='meaning hidden'>A Large Group Of People Or Things Of A Particular Kind</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Bilious</button>
+<p class='meaning hidden'>affected by or associated with nausea or vomiting</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Blatant</button>
+<p class='meaning hidden'>(of bad behaviour) done openly and unashamedly</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Blight</button>
+<p class='meaning hidden'>a plant disease, typically one caused by fungi such as mildews, rusts, and smuts</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Bristle</button>
+<p class='meaning hidden'>a short, stiff hair on an animal's skin or a man's face</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Brood</button>
+<p class='meaning hidden'>think deeply about something that makes one unhappy, angry, or worried
+
+a family of birds or other young animals produced at one hatching or birth</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Brusque</button>
+<p class='meaning hidden'>abrupt or offhand in speech or manner</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Bun</button>
+<p class='meaning hidden'>a small cake, typically containing dried fruit
+
+a hairstyle in which the hair is drawn back into a tight coil at the back of the head</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Cacophony</button>
+<p class='meaning hidden'>a harsh discordant mixture of sounds.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Cad</button>
+<p class='meaning hidden'>a man who behaves dishonourably, especially towards a woman</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Cadence</button>
+<p class='meaning hidden'>a sequence of notes or chords comprising the close of a musical phrase</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Cajoled</button>
+<p class='meaning hidden'>persuade (someone) to do something by sustained coaxing or flattery</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Callous</button>
+<p class='meaning hidden'>showing or having an insensitive and cruel disregard for others</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Calumnies</button>
+<p class='meaning hidden'>the making of false and defamatory statements about someone in order to damage their reputation; slander</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Camaraderie</button>
+<p class='meaning hidden'>Mutual Trust And Friendship Among People Who Spend A Lot Of Time Together</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Canine</button>
+<p class='meaning hidden'>relating to or resembling a dog or dogs</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Capricious</button>
+<p class='meaning hidden'>given to sudden and unaccountable changes of mood or behaviour</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Capricious</button>
+<p class='meaning hidden'>given to sudden and unaccountable changes of mood or behaviour</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Carnage</button>
+<p class='meaning hidden'>the killing of a large number of people</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Carnal</button>
+<p class='meaning hidden'>relating to physical, especially sexual, needs and activities</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Carousel</button>
+<p class='meaning hidden'>A Merry-Go-Round At A Fair</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Cartomancy</button>
+<p class='meaning hidden'>Fortune Telling By Interpreting A Random Selection Of Playing Cards</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Cavorting</button>
+<p class='meaning hidden'>jump or dance around excitedly</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Ceded</button>
+<p class='meaning hidden'>give up (power or territory)</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Cerebral</button>
+<p class='meaning hidden'>Intellectual Rather Than Emotional Or Physical</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Cessation</button>
+<p class='meaning hidden'>the fact or process of ending or being brought to an end</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Chaste</button>
+<p class='meaning hidden'>abstaining from extramarital, or from all, sexual intercourse
+
+without unnecessary ornamentation; simple or restrained</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Chattel</button>
+<p class='meaning hidden'>a personal possession</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Chiding</button>
+<p class='meaning hidden'>full of rebuke; critical</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Chisel</button>
+<p class='meaning hidden'>a long-bladed hand tool with a bevelled cutting edge and a handle which is struck with a hammer or mallet, used to cut or shape wood, stone, or metal</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Chivalry</button>
+<p class='meaning hidden'>courteous behaviour, especially that of a man towards women</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Coercion</button>
+<p class='meaning hidden'>The Practice Of Persuading Someone To Do Something By Using Force Or Threats</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Colluding</button>
+<p class='meaning hidden'>cooperate in a secret or unlawful way in order to deceive or gain an advantage over others</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Connoisseur</button>
+<p class='meaning hidden'>an expert judge in matters of taste</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Contortionist</button>
+<p class='meaning hidden'>An Entertainer Who Twists And Bends Their Body Into Strange And Unnatural Positions</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Contrite</button>
+<p class='meaning hidden'>feeling or expressing remorse at the recognition that one has done wrong</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Curt</button>
+<p class='meaning hidden'>rudely brief</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Cynicism</button>
+<p class='meaning hidden'>an inclination to believe that people are motivated purely by self-interest; scepticism</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Decoy</button>
+<p class='meaning hidden'>person or thing used to mislead or lure someone into a trap</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Delectable</button>
+<p class='meaning hidden'>(Of Food Or Drink) Delicious</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Demure</button>
+<p class='meaning hidden'>reserved, modest, and shy (typically used of a woman)</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Destitute</button>
+<p class='meaning hidden'>extremely poor and lacking the means to provide for oneself.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Destrier</button>
+<p class='meaning hidden'>a medieval knight's warhorse.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Devout</button>
+<p class='meaning hidden'>having or showing deep religious feeling or commitment.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Diddle</button>
+<p class='meaning hidden'>cheat or swindle (someone) so as to deprive them of something
+
+pass time aimlessly or unproductively
+
+VULGAR SLANG
+have sex with (someone)</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Disdain</button>
+<p class='meaning hidden'>the feeling that someone or something is unworthy of one's consideration or respect</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Divulge.</button>
+<p class='meaning hidden'>make known (private or sensitive information)</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Dolt"</button>
+<p class='meaning hidden'>a stupid person</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Dour</button>
+<p class='meaning hidden'>Relentlessly Severe, Stern, Or Gloomy In Manner Or Appearance</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Dour</button>
+<p class='meaning hidden'>relentlessly severe, stern, or gloomy in manner or appearance</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Dowager</button>
+<p class='meaning hidden'>a widow with a title or property derived from her late husband</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Drab</button>
+<p class='meaning hidden'>lacking brightness or interest; drearily dull</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Droll</button>
+<p class='meaning hidden'>curious or unusual in a way that provokes dry amusement</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Droll</button>
+<p class='meaning hidden'>Curious Or Unusual In A Way That Provokes Dry Amusement</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Dubious</button>
+<p class='meaning hidden'>hesitating or doubting
+
+not to be relied upon; suspect</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Duress</button>
+<p class='meaning hidden'>threats, violence, constraints, or other action used to coerce someone into doing something against their will or better judgement</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Egomaniacal</button>
+<p class='meaning hidden'>obsessive egotism or self-centredness</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Elicits</button>
+<p class='meaning hidden'>Evoke Or Draw Out (A Reaction, Answer, Or Fact) From Someone</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Eloquent</button>
+<p class='meaning hidden'>fluent or persuasive in speaking or writing</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Emaciated</button>
+<p class='meaning hidden'>abnormally thin or weak, especially because of illness or a lack of food</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Emaciated</button>
+<p class='meaning hidden'>abnormally thin or weak, especially because of illness or a lack of food</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Embargo</button>
+<p class='meaning hidden'>an official ban on trade or other commercial activity with a particular country</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Embellished</button>
+<p class='meaning hidden'>Make (Something) More Attractive By The Addition Of Decorative Details Or Features</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Emulate</button>
+<p class='meaning hidden'>match or surpass (a person or achievement), typically by imitation</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Endearing</button>
+<p class='meaning hidden'>inspiring affection</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Entourage</button>
+<p class='meaning hidden'>a group of people attending or surrounding an important person.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Enunciated</button>
+<p class='meaning hidden'>express (a proposition, theory, etc.) in clear or definite terms</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Espouse</button>
+<p class='meaning hidden'>adopt or support (a cause, belief, or way of life</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Espresso</button>
+<p class='meaning hidden'>a type of strong black coffee made by forcing steam through ground coffee beans</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Euphoria</button>
+<p class='meaning hidden'>a feeling or state of intense excitement and happiness</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Evocation</button>
+<p class='meaning hidden'>the act of bringing or recalling a feeling, memory, or image to the conscious mind</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Evocative</button>
+<p class='meaning hidden'>Bringing Strong Images, Memories, Or Feelings To Mind</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Ewer</button>
+<p class='meaning hidden'>a large jug with a wide mouth</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Exodus</button>
+<p class='meaning hidden'>A Mass Departure Of People</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Exorbitant</button>
+<p class='meaning hidden'>(Of A Price Or Amount Charged) Unreasonably High</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Exsanguinated</button>
+<p class='meaning hidden'>The Action Of Draining A Person, Animal, Or Organ Of Blood</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Exulting</button>
+<p class='meaning hidden'>feel or show triumphant elation or jubilation</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Fables</button>
+<p class='meaning hidden'>a short story, typically with animals as characters, conveying a moral</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Felon?</button>
+<p class='meaning hidden'>cruel; wicked.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Ferocious</button>
+<p class='meaning hidden'>savagely fierce, cruel, or violent</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Fervent</button>
+<p class='meaning hidden'>having or displaying a passionate intensity</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Fickle</button>
+<p class='meaning hidden'>changing frequently, especially as regards one's loyalties or affections</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Fidgeting</button>
+<p class='meaning hidden'>Make Small Movements, Especially Of The Hands And Feet, Through Nervousness Or Impatience</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Filly</button>
+<p class='meaning hidden'>A Young Female Horse, Especially One Less Than Four Years Old</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Fondling</button>
+<p class='meaning hidden'>stroke or caress lovingly or erotically</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Forage</button>
+<p class='meaning hidden'>obtain (food or provisions) by searching</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Formidable</button>
+<p class='meaning hidden'>inspiring fear or respect through being impressively large, powerful, intense, or capable</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Fornication</button>
+<p class='meaning hidden'>sexual intercourse between people not married to each other</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Frivolity</button>
+<p class='meaning hidden'>lack of seriousness; light-heartedness</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Frivolity</button>
+<p class='meaning hidden'>lack of seriousness; light-heartedness</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Frivolous</button>
+<p class='meaning hidden'>Not Having Any Serious Purpose Or Value</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Frivolous</button>
+<p class='meaning hidden'>not having any serious purpose or value
+
+(of a person) carefree and superficial</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Frolics</button>
+<p class='meaning hidden'>play or move about in a cheerful and lively way</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Fumble</button>
+<p class='meaning hidden'>do or handle something clumsily
+
+INFORMAL
+an act of fondling someone for sexual pleasure</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Furtive</button>
+<p class='meaning hidden'>attempting to avoid notice or attention, typically because of guilt or a belief that discovery would lead to trouble</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Glib</button>
+<p class='meaning hidden'>(of words or a speaker) fluent but insincere and shallow</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Goading</button>
+<p class='meaning hidden'>provoke or annoy (someone) so as to stimulate an action or reaction</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Grafted</button>
+<p class='meaning hidden'>combine or integrate (an idea, system, etc.) with another, typically in a way considered inappropriate
+
+transplant (living tissue) as a graft</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Grievance"</button>
+<p class='meaning hidden'>a real or imagined cause for complaint, especially unfair treatment</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Grimacing</button>
+<p class='meaning hidden'>an ugly, twisted expression on a person's face, typically expressing disgust, pain, or wry amusement</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Groggy</button>
+<p class='meaning hidden'>dazed, weak, or unsteady, especially from illness, intoxication, sleep, or a blow</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Grotesque</button>
+<p class='meaning hidden'>comically or repulsively ugly or distorted</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Gullible</button>
+<p class='meaning hidden'>easily persuaded to believe something; credulous</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Harbinger</button>
+<p class='meaning hidden'>a person or thing that announces or signals the approach of another</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Harbingers</button>
+<p class='meaning hidden'>a person or thing that announces or signals the approach of another</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Harlot’S</button>
+<p class='meaning hidden'>a prostitute.
+DEROGATORY•DATED
+a woman who has many casual sexual encounters or relationships.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Hindsight</button>
+<p class='meaning hidden'>understanding of a situation or event only after it has happened or developed</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Horology</button>
+<p class='meaning hidden'>The Study And Measurement Of Time
+The Art Of Making Clocks And Watches</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Hymns</button>
+<p class='meaning hidden'>A Religious Song Or Poem Of Praise To God Or A God</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Ilk</button>
+<p class='meaning hidden'>a type of person or thing similar to one already referred to</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Imbecile</button>
+<p class='meaning hidden'>stupid person</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Imbeciles</button>
+<p class='meaning hidden'>a stupid person</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Immaculate</button>
+<p class='meaning hidden'>perfectly clean, neat, or tidy.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Impasse</button>
+<p class='meaning hidden'>A Situation In Which No Progress Is Possible, Especially Because Of Disagreement; A Deadlock</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Impeccable</button>
+<p class='meaning hidden'>in accordance with the highest standards; faultless.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Implacable</button>
+<p class='meaning hidden'>Unable To Be Stopped; Relentless</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Implacable</button>
+<p class='meaning hidden'>unable to be stopped; relentless</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Incite</button>
+<p class='meaning hidden'>encourage or stir up (violent or unlawful behaviour).</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Indignation</button>
+<p class='meaning hidden'>anger or annoyance provoked by what is perceived as unfair treatment.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Infatuation</button>
+<p class='meaning hidden'>an intense but short-lived passion or admiration for someone or something</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Insinuating …</button>
+<p class='meaning hidden'>hinting at something bad in an indirect and unpleasant way
+
+using subtle manipulation to manoeuvre oneself into a favourable position</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Insolence</button>
+<p class='meaning hidden'>Rude And Disrespectful Behaviour</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Insomnia</button>
+<p class='meaning hidden'>Habitual Sleeplessness; Inability To Sleep</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Instinctual</button>
+<p class='meaning hidden'>relating to or denoting an innate, typically fixed pattern of behaviour; based on instinct</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Janitor</button>
+<p class='meaning hidden'>a caretaker or doorkeeper of a building</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Juxtaposition</button>
+<p class='meaning hidden'>The Fact Of Two Things Being Seen Or Placed Close Together With Contrasting Effect</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Kernel</button>
+<p class='meaning hidden'>the central or most important part of something
+
+the seed and hard husk of a cereal, especially wheat</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Lascivious</button>
+<p class='meaning hidden'>feeling or revealing an overt sexual interest or desire.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Leal</button>
+<p class='meaning hidden'>loyal and honest</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Leering</button>
+<p class='meaning hidden'>looking or gazing in a lascivious or unpleasant way</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Lewd</button>
+<p class='meaning hidden'>crude and offensive in a sexual way</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Lewdness</button>
+<p class='meaning hidden'>crude and offensive in a sexual way</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Liability</button>
+<p class='meaning hidden'>the state of being legally responsible for something</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Lithe</button>
+<p class='meaning hidden'>(especially of a person's body) thin, supple, and graceful</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Livid!</button>
+<p class='meaning hidden'>furiously angry
+
+dark bluish grey in colour</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Ludicrous</button>
+<p class='meaning hidden'>so foolish, unreasonable, or out of place as to be amusing</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Magnate</button>
+<p class='meaning hidden'>a wealthy and influential businessman or businesswoman</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Mallet</button>
+<p class='meaning hidden'>a hammer with a large, usually wooden head</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Matrimony</button>
+<p class='meaning hidden'>the state of being married; marriage</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Meagre</button>
+<p class='meaning hidden'>(of something provided or available) lacking in quantity or quality</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Meek</button>
+<p class='meaning hidden'>quiet, gentle, and easily imposed on; submissive</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Menagerie</button>
+<p class='meaning hidden'>A Collection Of Wild Animals Kept In Captivity For Exhibition</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Mishap’?</button>
+<p class='meaning hidden'>an unlucky accident</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Monopolized</button>
+<p class='meaning hidden'>(Of An Organization Or Group) Obtain Exclusive Possession Or Control Of (A Trade, Commodity, Or Service)</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Morbid</button>
+<p class='meaning hidden'>characterized by an abnormal and unhealthy interest in disturbing and unpleasant subjects, especially death and disease</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Morsel</button>
+<p class='meaning hidden'>a small piece or amount of food; a mouthful</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Mussed</button>
+<p class='meaning hidden'>make (someone's hair or clothes) untidy or messy</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Nibble</button>
+<p class='meaning hidden'>take small bites out of</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Nocturnal</button>
+<p class='meaning hidden'>Done, Occurring, Or Active At Night</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Nuptials</button>
+<p class='meaning hidden'>a wedding</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Oasis</button>
+<p class='meaning hidden'>a fertile spot in a desert, where water is found</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Obdurate</button>
+<p class='meaning hidden'>stubbornly refusing to change one's opinion or course of action</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Obtuse</button>
+<p class='meaning hidden'>annoyingly insensitive or slow to understand, especially deliberately so</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Ostensibly</button>
+<p class='meaning hidden'>As Appears Or Is Stated To Be True, Though Not Necessarily So; Apparently</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Overtures</button>
+<p class='meaning hidden'>an introduction to something more substantial</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Pails</button>
+<p class='meaning hidden'>bucket.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Palpable</button>
+<p class='meaning hidden'>(of a feeling or atmosphere) so intense as to seem almost tangible
+
+able to be touched or felt</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Paragon</button>
+<p class='meaning hidden'>A Person Or Thing Regarded As A Perfect Example Of A Particular Quality</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Paramour</button>
+<p class='meaning hidden'>a lover, especially the illicit partner of a married person</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Pariah</button>
+<p class='meaning hidden'>an outcast.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Parlance</button>
+<p class='meaning hidden'>a particular way of speaking or using words, especially a way common to those with a particular job or interest</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Penchant</button>
+<p class='meaning hidden'>a strong or habitual liking for something or tendency to do something</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Penchant</button>
+<p class='meaning hidden'>a strong or habitual liking for something or tendency to do something</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Penitent’S</button>
+<p class='meaning hidden'>feeling or showing sorrow and regret for having done wrong; repentant</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Pensive</button>
+<p class='meaning hidden'>engaged in, involving, or reflecting deep or serious thought</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Perfidy</button>
+<p class='meaning hidden'>the state of being deceitful and untrustworthy</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Pester</button>
+<p class='meaning hidden'>Trouble Or Annoy (Someone) With Frequent Or Persistent Requests Or Interruptions</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Petty</button>
+<p class='meaning hidden'>unduly concerned with trivial matters, especially in a small-minded or spiteful way
+
+of little importance; trivial.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Piebald</button>
+<p class='meaning hidden'>(of a horse) having irregular patches of two colours, typically black and white</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Pliable</button>
+<p class='meaning hidden'>easily bent; flexible</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Pliant</button>
+<p class='meaning hidden'>Easily Influenced Or Directed; Yielding</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Poaching?</button>
+<p class='meaning hidden'>illegally hunt or catch (game or fish) on land that is not one's own or in contravention of official protection</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Pontificating</button>
+<p class='meaning hidden'>Express One'S Opinions In A Pompous And Dogmatic Way</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Predilections</button>
+<p class='meaning hidden'>A Preference Or Special Liking For Something; A Bias In Favour Of Something</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Primp</button>
+<p class='meaning hidden'>spend time making minor adjustments to one's hair, make-up, or clothes</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Pristine</button>
+<p class='meaning hidden'>clean and fresh as if new</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Privateer</button>
+<p class='meaning hidden'>an armed ship owned and crewed by private individuals holding a government commission and authorized for use in war, especially in the capture of merchant shipping</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Prodigious</button>
+<p class='meaning hidden'>remarkably or impressively great in extent, size, or degree
+
+ARCHAIC
+unnatural or abnormal.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Profane</button>
+<p class='meaning hidden'>not relating to that which is sacred or religious; secular
+
+(of language) blasphemous or obscene</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Prostheses</button>
+<p class='meaning hidden'>an artificial body part, such as a limb, a heart, or a breast implant</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Puddle</button>
+<p class='meaning hidden'>Small Pool Of Liquid, Especially Of Rainwater On The Ground</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Pungent</button>
+<p class='meaning hidden'>(of comment, criticism, or humour) having a sharp and caustic quality
+
+having a sharply strong taste or smell</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Quaint</button>
+<p class='meaning hidden'>attractively unusual or old-fashioned</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Querulous</button>
+<p class='meaning hidden'>Complaining In A Rather Petulant Or Whining Manner</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Rampant</button>
+<p class='meaning hidden'>(especially of something unwelcome) flourishing or spreading unchecked
+
+unrestrained in action or performance</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Raucous</button>
+<p class='meaning hidden'>making or constituting a disturbingly harsh and loud noise</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Rebuke</button>
+<p class='meaning hidden'>Express Sharp Disapproval Or Criticism Of (Someone) Because Of Their Behaviour Or Actions</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Recanted</button>
+<p class='meaning hidden'>say that one no longer holds an opinion or belief, especially one considered heretical</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Recreation</button>
+<p class='meaning hidden'>activity done for enjoyment when one is not working</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Reek</button>
+<p class='meaning hidden'>smell strongly and unpleasantly</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Refrain</button>
+<p class='meaning hidden'>stop oneself from doing something</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Refute</button>
+<p class='meaning hidden'>prove (a statement or theory) to be wrong or false; disprove</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Reimburse</button>
+<p class='meaning hidden'>repay (a sum of money that has been spent or lost)</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Reprisals</button>
+<p class='meaning hidden'>An Act Of Retaliation</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Repugnant</button>
+<p class='meaning hidden'>extremely distasteful; unacceptable</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Resentful</button>
+<p class='meaning hidden'>feeling or expressing bitterness or indignation at having been treated unfairly</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Resilient</button>
+<p class='meaning hidden'>(of a person or animal) able to withstand or recover quickly from difficult conditions</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Respite</button>
+<p class='meaning hidden'>a short period of rest or relief from something difficult or unpleasant</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Revelry</button>
+<p class='meaning hidden'>lively and noisy festivities, especially when these involve drinking a large amount of alcohol</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Revulsion</button>
+<p class='meaning hidden'>a sense of disgust and loathing</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Riposte</button>
+<p class='meaning hidden'>a quick, clever reply to an insult or criticism</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Robust</button>
+<p class='meaning hidden'>strong and healthy; vigorous
+
+(of an object) sturdy in construction</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Robust</button>
+<p class='meaning hidden'>Strong And Healthy; Vigorous
+Sturdy In Construction</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Rudimentary</button>
+<p class='meaning hidden'>Involving Or Limited To Basic Principles</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Rudiments</button>
+<p class='meaning hidden'>the first principles of (a subject)</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Rusticate</button>
+<p class='meaning hidden'>suspend (a student) from a university as a punishment
+
+go to, live in, or spend time in the country</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Sacrilege</button>
+<p class='meaning hidden'>violation or misuse of what is regarded as sacred</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Saucily</button>
+<p class='meaning hidden'>Impertinent or disrespectful, especially in a playful or lively way</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Scapegoat</button>
+<p class='meaning hidden'>a person who is blamed for the wrongdoings, mistakes, or faults of others</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Scourged?</button>
+<p class='meaning hidden'>whip (someone) as a punishment
+
+cause great suffering to</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Sedition</button>
+<p class='meaning hidden'>conduct or speech inciting people to rebel against the authority of a state or monarch</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Seneschal</button>
+<p class='meaning hidden'>a governor or other administrative or judicial officer</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Shrewd</button>
+<p class='meaning hidden'>having or showing sharp powers of judgement; astute</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Simpering</button>
+<p class='meaning hidden'>affectedly coy or ingratiating
+
+smile in an affectedly coy or ingratiating manner</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Slanders</button>
+<p class='meaning hidden'>the action or crime of making a false spoken statement damaging to a person's reputation</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Slime</button>
+<p class='meaning hidden'>an unpleasantly thick and slippery liquid substance</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Sly</button>
+<p class='meaning hidden'>having or showing a cunning and deceitful nature</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Smarm</button>
+<p class='meaning hidden'>a large or dense group of flying insects</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Smirk</button>
+<p class='meaning hidden'>smile in an irritatingly smug, conceited, or silly way.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Smother</button>
+<p class='meaning hidden'>kill (someone) by covering their nose and mouth so that they suffocate
+
+extinguish (a fire) by covering it
+
+suppress (a feeling or action)</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Smug</button>
+<p class='meaning hidden'>having or showing an excessive pride in oneself or one's achievements</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Snug</button>
+<p class='meaning hidden'>comfortable, warm, and cosy; well protected from the weather or cold
+
+very tight or close-fitting</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Sober</button>
+<p class='meaning hidden'>serious, sensible, and solemn</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Sojourn</button>
+<p class='meaning hidden'>stay somewhere temporarily</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Sporadic</button>
+<p class='meaning hidden'>Occurring At Irregular Intervals Or Only In A Few Places; Scattered Or Isolated</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Spurned?</button>
+<p class='meaning hidden'>reject with disdain or contempt</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Sputtered</button>
+<p class='meaning hidden'>make a series of soft explosive or spitting sounds
+
+speak in a series of incoherent bursts as a result of strong emotion</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Sterile</button>
+<p class='meaning hidden'>not able to produce children or young
+
+lacking in imagination, creativity, or excitement; uninspiring or unproductive</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Sublime</button>
+<p class='meaning hidden'>Of Very Great Excellence Or Beauty</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Subterfuge</button>
+<p class='meaning hidden'>deceit used in order to achieve one's goal</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Sullen</button>
+<p class='meaning hidden'>bad-tempered and sulky</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Sumptuous</button>
+<p class='meaning hidden'>splendid and expensive-looking.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Supple</button>
+<p class='meaning hidden'>bending and moving easily and gracefully; flexible</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Swaggers</button>
+<p class='meaning hidden'>walk or behave in a very confident and arrogant or self-important way</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Tantrum</button>
+<p class='meaning hidden'>an uncontrolled outburst of anger and frustration, typically in a young child</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Tarot</button>
+<p class='meaning hidden'>Playing Cards, Traditionally A Pack Of 78 With Five Suits, Used For Fortune-Telling</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Tenuous</button>
+<p class='meaning hidden'>very weak or slight</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Thaumaturge</button>
+<p class='meaning hidden'>worker of wonders and performer of miracles; a magician</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Thrall</button>
+<p class='meaning hidden'>the state of being in someone's power, or of having great power over someone.</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Tirade</button>
+<p class='meaning hidden'>a long, angry speech of criticism or accusation</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Titter</button>
+<p class='meaning hidden'>give a short, half-suppressed laugh; giggle</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Tousled</button>
+<p class='meaning hidden'>(of hair) untidy</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Trepidation</button>
+<p class='meaning hidden'>a feeling of fear or anxiety about something that may happen
+
+ARCHAIC
+trembling movements or motion</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Trite</button>
+<p class='meaning hidden'>(of a remark or idea) lacking originality or freshness</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Tutelage</button>
+<p class='meaning hidden'>protection of or authority over someone or something; guardianship</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Umbrage</button>
+<p class='meaning hidden'>offence or annoyance</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Uncanny</button>
+<p class='meaning hidden'>strange or mysterious, especially in an unsettling way</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Unruly</button>
+<p class='meaning hidden'>disorderly and disruptive and not amenable to discipline or control</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Veritable</button>
+<p class='meaning hidden'>used for emphasis, often to qualify a metaphor</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Volition</button>
+<p class='meaning hidden'>The Faculty Or Power Of Using One'S Will</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Waif</button>
+<p class='meaning hidden'>A Homeless, Neglected, Or Abandoned Person, Especially A Child</p>
+<button class="close hidden">harikesh</button>
+
+<button class='word'>Wroth</button>
+<p class='meaning hidden'>ARCHAIC
+angry</p>
+<button class="close hidden">harikesh</button>
+
