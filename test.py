@@ -62,3 +62,16 @@ def main():  # Wrapper function
 
 if __name__ == "__main__":
     main()
+
+
+def solution(number):
+    if number < 0:
+        return 0
+    multiples = []
+    for n in range(number):
+        if n % 3 == 0 or n % 5 == 0:
+            multiples.append(n)
+    return sum(multiples)
+
+
+solution(10)
