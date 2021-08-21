@@ -75,3 +75,6 @@ def solution(number):
 
 
 solution(10)
+
+# start a python webserver
+# python -m http.server 8080
