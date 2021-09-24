@@ -1,0 +1,5784 @@
+{
+  "playlists": [
+    {
+      "name": "Best of Adele",
+      "lastModifiedDate": "2021-09-06",
+      "items": [
+        {
+          "track": {
+            "trackName": "Hello",
+            "artistName": "Adele",
+            "albumName": "25",
+            "trackUri": "spotify:track:1Yk0cQdMLx5RzzFTYwmuld"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Someone Like You",
+            "artistName": "Adele",
+            "albumName": "21",
+            "trackUri": "spotify:track:3bNv3VuUOKgrf5hu3YcuRo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rolling in the Deep",
+            "artistName": "Adele",
+            "albumName": "21",
+            "trackUri": "spotify:track:4OSBTYWVwsQhGLF9NHvIbR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "When We Were Young",
+            "artistName": "Adele",
+            "albumName": "25",
+            "trackUri": "spotify:track:6O5TrlFWTYvznd9fMC0VvU"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Best of Britney",
+      "lastModifiedDate": "2021-09-04",
+      "items": [
+        {
+          "track": {
+            "trackName": "Oops!...I Did It Again",
+            "artistName": "Britney Spears",
+            "albumName": "Oops!... I Did It Again",
+            "trackUri": "spotify:track:6naxalmIoLFWR0siv8dnQQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Criminal",
+            "artistName": "Britney Spears",
+            "albumName": "Femme Fatale (Deluxe Version)",
+            "trackUri": "spotify:track:6T689Jvh5KrSXyaPtUWZtQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Toxic",
+            "artistName": "Britney Spears",
+            "albumName": "In The Zone",
+            "trackUri": "spotify:track:6I9VzXrHxO9rA9A5euc8Ak"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "...Baby One More Time",
+            "artistName": "Britney Spears",
+            "albumName": "...Baby One More Time (Digital Deluxe Version)",
+            "trackUri": "spotify:track:3MjUtNVVq3C8Fn0MP3zhXa"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Stronger",
+            "artistName": "Britney Spears",
+            "albumName": "Oops!... I Did It Again",
+            "trackUri": "spotify:track:5QhBKPqsnX1uY9fZNaAtZg"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Born to Make You Happy",
+            "artistName": "Britney Spears",
+            "albumName": "...Baby One More Time (Digital Deluxe Version)",
+            "trackUri": "spotify:track:4l1MNtoCiTxBwf6yxD7kFd"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Best of Camila",
+      "lastModifiedDate": "2021-09-03",
+      "items": [
+        {
+          "track": {
+            "trackName": "Shameless",
+            "artistName": "Camila Cabello",
+            "albumName": "Romance",
+            "trackUri": "spotify:track:2ogKhhoMClkFXek7ZgxAhN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Don't Go Yet",
+            "artistName": "Camila Cabello",
+            "albumName": "Don't Go Yet",
+            "trackUri": "spotify:track:1058fW9H3fZA6QjYCdOBad"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Señorita",
+            "artistName": "Shawn Mendes",
+            "albumName": "Shawn Mendes",
+            "trackUri": "spotify:track:6v3KW9xbzN5yKLt9YKDYA2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Havana (feat. Young Thug)",
+            "artistName": "Camila Cabello",
+            "albumName": "Camila",
+            "trackUri": "spotify:track:1rfofaqEpACxVEHIZBJe6W"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Million To One - from the Amazon Original Movie \"Cinderella\"",
+            "artistName": "Camila Cabello",
+            "albumName": "Million To One",
+            "trackUri": "spotify:track:3lzYrD0WcgGFiAFKkB2shE"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Living Proof",
+            "artistName": "Camila Cabello",
+            "albumName": "Living Proof",
+            "trackUri": "spotify:track:1jg9clsGCDqOumfS0X5xm9"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Real Friends",
+            "artistName": "Camila Cabello",
+            "albumName": "Camila",
+            "trackUri": "spotify:track:3iq9nhbI8fcnNamxMft1uv"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Never Be the Same",
+            "artistName": "Camila Cabello",
+            "albumName": "Camila",
+            "trackUri": "spotify:track:4eWQlBRaTjPPUlzacqEeoQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Used to This",
+            "artistName": "Camila Cabello",
+            "albumName": "Romance",
+            "trackUri": "spotify:track:3r73OmpBtQAwMgawxOmlg0"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Best of Gaga",
+      "lastModifiedDate": "2021-08-25",
+      "items": [
+        {
+          "track": {
+            "trackName": "I'll Never Love - Extended Version - Radio Edit",
+            "artistName": "Lady Gaga",
+            "albumName": "A Star Is Born Soundtrack",
+            "trackUri": "spotify:track:54e5nUP7pHqVfaiCsq9FpW"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shallow - Radio Edit",
+            "artistName": "Lady Gaga",
+            "albumName": "A Star Is Born Soundtrack",
+            "trackUri": "spotify:track:6QfS2wq5sSC1xAJCQsTSlj"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Always Remember Us This Way",
+            "artistName": "Lady Gaga",
+            "albumName": "A Star Is Born Soundtrack",
+            "trackUri": "spotify:track:2rbDhOo9Fh61Bbu23T2qCk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rain On Me (with Ariana Grande)",
+            "artistName": "Lady Gaga",
+            "albumName": "Chromatica",
+            "trackUri": "spotify:track:7ju97lgwC2rKQ6wwsf9no9"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bad Romance",
+            "artistName": "Lady Gaga",
+            "albumName": "The Fame Monster",
+            "trackUri": "spotify:track:0SiywuOBRcynK0uKGWdCnn"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Workout 1.0",
+      "lastModifiedDate": "2021-08-15",
+      "items": [
+        {
+          "track": {
+            "trackName": "On My Way",
+            "artistName": "Alan Walker",
+            "albumName": "On My Way",
+            "trackUri": "spotify:track:4n7jnSxVLd8QioibtTDBDq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Spectre",
+            "artistName": "Alan Walker",
+            "albumName": "The Spectre",
+            "trackUri": "spotify:track:2DGa7iaidT5s0qnINlwMjJ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "willow",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:0lx2cLdOt3piJbcaXIV74f"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Bones - with Hozier",
+            "artistName": "Maren Morris",
+            "albumName": "The Bones",
+            "trackUri": "spotify:track:1yTTMcUhL7rtz08Dsgb7Qb"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "There's Nothing Holdin' Me Back",
+            "artistName": "Shawn Mendes",
+            "albumName": "Illuminate",
+            "trackUri": "spotify:track:7JJmb5XwzOO8jgpou264Ml"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shape of You",
+            "artistName": "Ed Sheeran",
+            "albumName": "÷",
+            "trackUri": "spotify:track:7qiZfU4dY1lWllzX7mPBI3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Watermelon Sugar",
+            "artistName": "Harry Styles",
+            "albumName": "Fine Line",
+            "trackUri": "spotify:track:6UelLqGlWMcVH1E5c4H7lY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Don't Go Yet",
+            "artistName": "Camila Cabello",
+            "albumName": "Don't Go Yet",
+            "trackUri": "spotify:track:1058fW9H3fZA6QjYCdOBad"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Temp",
+      "lastModifiedDate": "2021-09-14",
+      "items": [
+        {
+          "track": {
+            "trackName": "Shallow - Radio Edit",
+            "artistName": "Lady Gaga",
+            "albumName": "A Star Is Born Soundtrack",
+            "trackUri": "spotify:track:6QfS2wq5sSC1xAJCQsTSlj"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Thousand Years",
+            "artistName": "Christina Perri",
+            "albumName": "The Twilight Saga: Breaking Dawn - Part 1",
+            "trackUri": "spotify:track:6z5Yh7kOKeLjqIsNdokIpU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Always Remember Us This Way",
+            "artistName": "Lady Gaga",
+            "albumName": "A Star Is Born Soundtrack",
+            "trackUri": "spotify:track:2rbDhOo9Fh61Bbu23T2qCk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Don't Go Yet",
+            "artistName": "Camila Cabello",
+            "albumName": "Don't Go Yet",
+            "trackUri": "spotify:track:1058fW9H3fZA6QjYCdOBad"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shameless",
+            "artistName": "Camila Cabello",
+            "albumName": "Romance",
+            "trackUri": "spotify:track:2ogKhhoMClkFXek7ZgxAhN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Living Proof",
+            "artistName": "Camila Cabello",
+            "albumName": "Living Proof",
+            "trackUri": "spotify:track:1jg9clsGCDqOumfS0X5xm9"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Million To One - from the Amazon Original Movie \"Cinderella\"",
+            "artistName": "Camila Cabello",
+            "albumName": "Million To One",
+            "trackUri": "spotify:track:3lzYrD0WcgGFiAFKkB2shE"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I'll Never Love Again - Extended Version",
+            "artistName": "Lady Gaga",
+            "albumName": "A Star Is Born Soundtrack",
+            "trackUri": "spotify:track:2fbJ5Msx8KoDKpyufH5YsU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Oops!...I Did It Again",
+            "artistName": "Britney Spears",
+            "albumName": "Oops!... I Did It Again",
+            "trackUri": "spotify:track:6naxalmIoLFWR0siv8dnQQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Toxic",
+            "artistName": "Britney Spears",
+            "albumName": "In The Zone",
+            "trackUri": "spotify:track:6I9VzXrHxO9rA9A5euc8Ak"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Top Tracks 14/06/2021 (last 6 months)",
+      "lastModifiedDate": "2021-06-14",
+      "items": [
+        {
+          "track": {
+            "trackName": "willow",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:0lx2cLdOt3piJbcaXIV74f"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Afterglow",
+            "artistName": "Ed Sheeran",
+            "albumName": "Afterglow",
+            "trackUri": "spotify:track:0E4Y1XIbs8GrAT1YqVy6dq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "exile (feat. Bon Iver)",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:4pvb0WLRcMtbPGmtejJJ6y"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "august",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:3hUxzQpSfdDqwM3ZTFQY0K"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Where Were You In The Morning?",
+            "artistName": "Shawn Mendes",
+            "albumName": "Shawn Mendes",
+            "trackUri": "spotify:track:376Gg7Oxo5C5jUWDWpVXeI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "evermore (feat. Bon Iver)",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:3O5osWf1rSoKMwe6E9ZaXP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Bones - with Hozier",
+            "artistName": "Maren Morris",
+            "albumName": "The Bones",
+            "trackUri": "spotify:track:1yTTMcUhL7rtz08Dsgb7Qb"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "champagne problems",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:0sY6ZUTh4yoctD8VIXz339"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Darkside",
+            "artistName": "Alan Walker",
+            "albumName": "Different World",
+            "trackUri": "spotify:track:6SRWhUJcD2YKahCwHavz3X"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Enchanted",
+            "artistName": "Taylor Swift",
+            "albumName": "Speak Now",
+            "trackUri": "spotify:track:04S1pkp1VaIqjg8zZqknR5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shape of You",
+            "artistName": "Ed Sheeran",
+            "albumName": "÷",
+            "trackUri": "spotify:track:7qiZfU4dY1lWllzX7mPBI3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Señorita",
+            "artistName": "Shawn Mendes",
+            "albumName": "Shawn Mendes",
+            "trackUri": "spotify:track:6v3KW9xbzN5yKLt9YKDYA2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Perfect",
+            "artistName": "Ed Sheeran",
+            "albumName": "÷",
+            "trackUri": "spotify:track:0tgVpDi06FyKpA1z0VMD4v"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Untouchable (Taylor’s Version)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:0tQ9vBYpldCuikPsbgOVKA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Faded",
+            "artistName": "Alan Walker",
+            "albumName": "Different World",
+            "trackUri": "spotify:track:698ItKASDavgwZ3WjaWjtz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Delicate",
+            "artistName": "Taylor Swift",
+            "albumName": "reputation",
+            "trackUri": "spotify:track:6NFyWDv5CjfwuzoCkw47Xf"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Levitating",
+            "artistName": "Dua Lipa",
+            "albumName": "Future Nostalgia",
+            "trackUri": "spotify:track:39LLxExYz6ewLAcYrzQQyP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Let's Talk About Love",
+            "artistName": "Céline Dion",
+            "albumName": "Let's Talk About Love",
+            "trackUri": "spotify:track:1gVX2sJy1oFzylg4Ew3F2X"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Anyone",
+            "artistName": "Justin Bieber",
+            "albumName": "Anyone",
+            "trackUri": "spotify:track:31qCy5ZaophVA81wtlwLc4"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I'm Alive",
+            "artistName": "Céline Dion",
+            "albumName": "A New Day Has Come",
+            "trackUri": "spotify:track:2FTZeRHQ4gRPViPMpWL9uX"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Red",
+            "artistName": "Taylor Swift",
+            "albumName": "Red",
+            "trackUri": "spotify:track:7gJtmLyPTwKzhGzMBXtuXH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Settling Down",
+            "artistName": "Miranda Lambert",
+            "albumName": "Wildcard",
+            "trackUri": "spotify:track:53bZYxVbCYm6w1Gx8U64bz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Blank Space",
+            "artistName": "Taylor Swift",
+            "albumName": "1989",
+            "trackUri": "spotify:track:1u8c2t2Cy7UBoG4ArRcF5g"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "cardigan",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:4R2kfaDFhslZEMJqAFNpdd"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "My Heart Will Go On - Love Theme from \"Titanic\"",
+            "artistName": "Céline Dion",
+            "albumName": "Let's Talk About Love",
+            "trackUri": "spotify:track:33LC84JgLvK2KuW43MfaNq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
+            "artistName": "Taylor Swift",
+            "albumName": "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
+            "trackUri": "spotify:track:5pcjystBtalYeqaiXCcgEY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Whole New World",
+            "artistName": "Lea Salonga",
+            "albumName": "Aladdin: Special Edition Soundtrack",
+            "trackUri": "spotify:track:506nvAQgHmkGd13ipZuBwo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Right In Front of You",
+            "artistName": "Céline Dion",
+            "albumName": "A New Day Has Come",
+            "trackUri": "spotify:track:2BoLCHXNjxIiMV7ggkrlDQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "There's Nothing Holdin' Me Back",
+            "artistName": "Shawn Mendes",
+            "albumName": "Illuminate",
+            "trackUri": "spotify:track:7JJmb5XwzOO8jgpou264Ml"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Our Song",
+            "artistName": "Taylor Swift",
+            "albumName": "Taylor Swift",
+            "trackUri": "spotify:track:1j6gmK6u4WNI33lMZ8dC1s"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Teardrops On My Guitar - Radio Single Remix",
+            "artistName": "Taylor Swift",
+            "albumName": "Taylor Swift",
+            "trackUri": "spotify:track:2TF4UtYreqNbQ6Z9AccldU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Love Story",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless",
+            "trackUri": "spotify:track:5hnJCRSo4pxRsaEwT9YusG"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lover",
+            "artistName": "Taylor Swift",
+            "albumName": "Lover",
+            "trackUri": "spotify:track:1dGr1c8CrMLDpV6mPbImSI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fearless",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless",
+            "trackUri": "spotify:track:2okho7vU7Nsq1UZD0kgIMi"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tim McGraw",
+            "artistName": "Taylor Swift",
+            "albumName": "Taylor Swift",
+            "trackUri": "spotify:track:2Fn01AIMyHbha2ceNQeOqw"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:7eResoqEJJAVTkQYSqvO3P"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You Belong With Me",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless",
+            "trackUri": "spotify:track:4kgTdThcDHfuDS2kKxB7Lc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Power of Love",
+            "artistName": "Céline Dion",
+            "albumName": "The Colour Of My Love",
+            "trackUri": "spotify:track:5kK1Iru9ogP3Iy1zsANU1n"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Bones",
+            "artistName": "Maren Morris",
+            "albumName": "GIRL",
+            "trackUri": "spotify:track:7yFhA2fUsL2oIMWlw5DaHQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Watermelon Sugar",
+            "artistName": "Harry Styles",
+            "albumName": "Fine Line",
+            "trackUri": "spotify:track:6UelLqGlWMcVH1E5c4H7lY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mercy",
+            "artistName": "Shawn Mendes",
+            "albumName": "Illuminate",
+            "trackUri": "spotify:track:0AS63m1wHv9n4VVRizK6Hc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "tolerate it",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:0PurA4JVJ8YQgSVopY8fn6"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Think He Knows",
+            "artistName": "Taylor Swift",
+            "albumName": "Lover",
+            "trackUri": "spotify:track:2YWtcWi3a83pdEg3Gif4Pd"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I See the Light - From \"Tangled\" / Soundtrack Version",
+            "artistName": "Mandy Moore",
+            "albumName": "Tangled",
+            "trackUri": "spotify:track:6klpXs2uAjagnZMFkt4qkl"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Style",
+            "artistName": "Taylor Swift",
+            "albumName": "1989",
+            "trackUri": "spotify:track:0ug5NqcwcFR2xrfTkc7k8e"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:4CHpVfAhuxNJ3ibExe6kxO"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tenerife Sea",
+            "artistName": "Ed Sheeran",
+            "albumName": "x",
+            "trackUri": "spotify:track:1HbcclMpw0q2WDWpdGCKdS"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "this is me trying",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:7kt9e9LFSpN1zQtYEl19o1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Don't Start Now",
+            "artistName": "Dua Lipa",
+            "albumName": "Future Nostalgia",
+            "trackUri": "spotify:track:3PfIrDoz19wz7qK7tYeu62"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Surrender",
+            "artistName": "Céline Dion",
+            "albumName": "A New Day Has Come",
+            "trackUri": "spotify:track:67VjdDhTa5jzQxHGe6f26r"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": "Your favorite tracks last 6 months as of 14&#x2F;06&#x2F;2021. Created by statsforspotify.com",
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Top Tracks 14/06/2021 (last 4 weeks)",
+      "lastModifiedDate": "2021-06-14",
+      "items": [
+        {
+          "track": {
+            "trackName": "All Too Well",
+            "artistName": "Taylor Swift",
+            "albumName": "Red",
+            "trackUri": "spotify:track:6GNRkaWUB0Lwc19SdkTgx8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "hoax",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:6MWoRt97mnSTXZhu3ggi9C"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Untouchable (Taylor’s Version)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:0tQ9vBYpldCuikPsbgOVKA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "exile (feat. Bon Iver)",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:4pvb0WLRcMtbPGmtejJJ6y"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "willow",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:0lx2cLdOt3piJbcaXIV74f"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "august",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:3hUxzQpSfdDqwM3ZTFQY0K"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:4CHpVfAhuxNJ3ibExe6kxO"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "My Heart Will Go On - Love Theme from \"Titanic\"",
+            "artistName": "Céline Dion",
+            "albumName": "Let's Talk About Love",
+            "trackUri": "spotify:track:33LC84JgLvK2KuW43MfaNq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
+            "artistName": "Taylor Swift",
+            "albumName": "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
+            "trackUri": "spotify:track:5pcjystBtalYeqaiXCcgEY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Delicate",
+            "artistName": "Taylor Swift",
+            "albumName": "reputation",
+            "trackUri": "spotify:track:6NFyWDv5CjfwuzoCkw47Xf"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "evermore (feat. Bon Iver)",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:3O5osWf1rSoKMwe6E9ZaXP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "betty",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:5kI4eCXXzyuIUXjQra0Cxi"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Enchanted",
+            "artistName": "Taylor Swift",
+            "albumName": "Speak Now",
+            "trackUri": "spotify:track:04S1pkp1VaIqjg8zZqknR5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "champagne problems",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:0sY6ZUTh4yoctD8VIXz339"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Bones - with Hozier",
+            "artistName": "Maren Morris",
+            "albumName": "The Bones",
+            "trackUri": "spotify:track:1yTTMcUhL7rtz08Dsgb7Qb"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Whole New World",
+            "artistName": "Lea Salonga",
+            "albumName": "Aladdin: Special Edition Soundtrack",
+            "trackUri": "spotify:track:506nvAQgHmkGd13ipZuBwo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Watermelon Sugar",
+            "artistName": "Harry Styles",
+            "albumName": "Fine Line",
+            "trackUri": "spotify:track:6UelLqGlWMcVH1E5c4H7lY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fake A Smile",
+            "artistName": "Alan Walker",
+            "albumName": "Fake A Smile",
+            "trackUri": "spotify:track:6rAGFY9D3ah6Lb7fUgbNNH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I'm Alive",
+            "artistName": "Céline Dion",
+            "albumName": "A New Day Has Come",
+            "trackUri": "spotify:track:2FTZeRHQ4gRPViPMpWL9uX"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Señorita",
+            "artistName": "Shawn Mendes",
+            "albumName": "Shawn Mendes",
+            "trackUri": "spotify:track:6v3KW9xbzN5yKLt9YKDYA2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shape of You",
+            "artistName": "Ed Sheeran",
+            "albumName": "÷",
+            "trackUri": "spotify:track:7qiZfU4dY1lWllzX7mPBI3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Our Song",
+            "artistName": "Taylor Swift",
+            "albumName": "Taylor Swift",
+            "trackUri": "spotify:track:1j6gmK6u4WNI33lMZ8dC1s"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lover",
+            "artistName": "Taylor Swift",
+            "albumName": "Lover",
+            "trackUri": "spotify:track:1dGr1c8CrMLDpV6mPbImSI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "cardigan",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:4R2kfaDFhslZEMJqAFNpdd"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Power of Love",
+            "artistName": "Céline Dion",
+            "albumName": "The Colour Of My Love",
+            "trackUri": "spotify:track:5kK1Iru9ogP3Iy1zsANU1n"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Darkside",
+            "artistName": "Alan Walker",
+            "albumName": "Different World",
+            "trackUri": "spotify:track:6SRWhUJcD2YKahCwHavz3X"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "this is me trying",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:7kt9e9LFSpN1zQtYEl19o1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Afterglow",
+            "artistName": "Ed Sheeran",
+            "albumName": "Afterglow",
+            "trackUri": "spotify:track:0E4Y1XIbs8GrAT1YqVy6dq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tim McGraw",
+            "artistName": "Taylor Swift",
+            "albumName": "Taylor Swift",
+            "trackUri": "spotify:track:2Fn01AIMyHbha2ceNQeOqw"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "We Were Happy (Taylor’s Version) (From The Vault)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:34V9RiEPe8MNdU32qJsJa1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:7eResoqEJJAVTkQYSqvO3P"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Bones",
+            "artistName": "Maren Morris",
+            "albumName": "GIRL",
+            "trackUri": "spotify:track:7yFhA2fUsL2oIMWlw5DaHQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Teardrops On My Guitar - Radio Single Remix",
+            "artistName": "Taylor Swift",
+            "albumName": "Taylor Swift",
+            "trackUri": "spotify:track:2TF4UtYreqNbQ6Z9AccldU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I See the Light - From \"Tangled\" / Soundtrack Version",
+            "artistName": "Mandy Moore",
+            "albumName": "Tangled",
+            "trackUri": "spotify:track:6klpXs2uAjagnZMFkt4qkl"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "my tears ricochet",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:1MgV7FIyNxIG7WzMRJV5HC"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Style",
+            "artistName": "Taylor Swift",
+            "albumName": "1989",
+            "trackUri": "spotify:track:0ug5NqcwcFR2xrfTkc7k8e"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You Belong With Me (Taylor’s Version)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:1qrpoAMXodY6895hGKoUpA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Right In Front of You",
+            "artistName": "Céline Dion",
+            "albumName": "A New Day Has Come",
+            "trackUri": "spotify:track:2BoLCHXNjxIiMV7ggkrlDQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Settling Down",
+            "artistName": "Miranda Lambert",
+            "albumName": "Wildcard",
+            "trackUri": "spotify:track:53bZYxVbCYm6w1Gx8U64bz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "invisible string",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:6VsvKPJ4xjVNKpI8VVZ3SV"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Red",
+            "artistName": "Taylor Swift",
+            "albumName": "Red",
+            "trackUri": "spotify:track:7gJtmLyPTwKzhGzMBXtuXH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "mad woman",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:2QDyYdZyhlP2fp79KZX8Bi"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Let's Talk About Love",
+            "artistName": "Céline Dion",
+            "albumName": "Let's Talk About Love",
+            "trackUri": "spotify:track:1gVX2sJy1oFzylg4Ew3F2X"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "the 1",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:0Jlcvv8IykzHaSmj49uNW8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sing Me to Sleep",
+            "artistName": "Alan Walker",
+            "albumName": "Different World",
+            "trackUri": "spotify:track:1tfVpMI8G6EakZU4rEja4w"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Levitating",
+            "artistName": "Dua Lipa",
+            "albumName": "Future Nostalgia",
+            "trackUri": "spotify:track:39LLxExYz6ewLAcYrzQQyP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Don't Start Now",
+            "artistName": "Dua Lipa",
+            "albumName": "Future Nostalgia",
+            "trackUri": "spotify:track:3PfIrDoz19wz7qK7tYeu62"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Think He Knows",
+            "artistName": "Taylor Swift",
+            "albumName": "Lover",
+            "trackUri": "spotify:track:2YWtcWi3a83pdEg3Gif4Pd"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Love Story (Taylor’s Version)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:6YvqWjhGD8mB5QXcbcUKtx"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": "Your favorite tracks last 4 weeks as of 14&#x2F;06&#x2F;2021. Created by statsforspotify.com",
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Fearless_Bests",
+      "lastModifiedDate": "2021-06-05",
+      "items": [
+        {
+          "track": {
+            "trackName": "We Were Happy (Taylor’s Version) (From The Vault)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:34V9RiEPe8MNdU32qJsJa1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Untouchable (Taylor’s Version)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:0tQ9vBYpldCuikPsbgOVKA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:7eResoqEJJAVTkQYSqvO3P"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mr. Perfectly Fine (Taylor’s Version) (From The Vault)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:2CYVETnhM9aytqrazYYwrK"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:4CHpVfAhuxNJ3ibExe6kxO"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Breathe (feat. Colbie Caillat) (Taylor’s Version)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:7HC7R2D8WjXVcUHJyEGjRs"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You Belong With Me (Taylor’s Version)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:1qrpoAMXodY6895hGKoUpA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "White Horse (Taylor’s Version)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:5YL553x8sHderRBDlm3NM3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Hey Stephen (Taylor’s Version)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:550erGcdD9n6PnwxrvYqZT"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Love Story (Taylor’s Version)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:6YvqWjhGD8mB5QXcbcUKtx"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fifteen (Taylor’s Version)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:2nqio0SfWg6gh2eCtfuMa5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fearless (Taylor’s Version)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:77sMIMlNaSURUAXq5coCxE"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Jump Then Fall (Taylor’s Version)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:2m3ObD945KvpE5y9A1eUWm"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Forever & Always (Taylor’s Version)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:1msEuwSBneBKpVCZQcFTsU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
+            "artistName": "Taylor Swift",
+            "albumName": "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
+            "trackUri": "spotify:track:5pcjystBtalYeqaiXCcgEY"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Bests_Justice",
+      "lastModifiedDate": "2021-04-04",
+      "items": [
+        {
+          "track": {
+            "trackName": "2 Much",
+            "artistName": "Justin Bieber",
+            "albumName": "Justice",
+            "trackUri": "spotify:track:1gjmPHYd1SoEmsj8Rd15MC"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Mixed_1",
+      "lastModifiedDate": "2021-06-27",
+      "items": [
+        {
+          "track": {
+            "trackName": "Afterglow",
+            "artistName": "Ed Sheeran",
+            "albumName": "Afterglow",
+            "trackUri": "spotify:track:0E4Y1XIbs8GrAT1YqVy6dq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "My Heart Will Go On - Love Theme from \"Titanic\"",
+            "artistName": "Céline Dion",
+            "albumName": "Let's Talk About Love",
+            "trackUri": "spotify:track:33LC84JgLvK2KuW43MfaNq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Señorita",
+            "artistName": "Shawn Mendes",
+            "albumName": "Shawn Mendes",
+            "trackUri": "spotify:track:6v3KW9xbzN5yKLt9YKDYA2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "willow",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:0lx2cLdOt3piJbcaXIV74f"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "evermore (feat. Bon Iver)",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:3O5osWf1rSoKMwe6E9ZaXP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Surrender",
+            "artistName": "Céline Dion",
+            "albumName": "A New Day Has Come",
+            "trackUri": "spotify:track:67VjdDhTa5jzQxHGe6f26r"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Power of Love",
+            "artistName": "Céline Dion",
+            "albumName": "The Colour Of My Love",
+            "trackUri": "spotify:track:5kK1Iru9ogP3Iy1zsANU1n"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shape of You",
+            "artistName": "Ed Sheeran",
+            "albumName": "÷",
+            "trackUri": "spotify:track:7qiZfU4dY1lWllzX7mPBI3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Perfect",
+            "artistName": "Ed Sheeran",
+            "albumName": "÷",
+            "trackUri": "spotify:track:0tgVpDi06FyKpA1z0VMD4v"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Whole New World",
+            "artistName": "Lea Salonga",
+            "albumName": "Aladdin: Special Edition Soundtrack",
+            "trackUri": "spotify:track:506nvAQgHmkGd13ipZuBwo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Faded",
+            "artistName": "Alan Walker",
+            "albumName": "Different World",
+            "trackUri": "spotify:track:698ItKASDavgwZ3WjaWjtz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Where Were You In The Morning?",
+            "artistName": "Shawn Mendes",
+            "albumName": "Shawn Mendes",
+            "trackUri": "spotify:track:376Gg7Oxo5C5jUWDWpVXeI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Let's Talk About Love",
+            "artistName": "Céline Dion",
+            "albumName": "Let's Talk About Love",
+            "trackUri": "spotify:track:1gVX2sJy1oFzylg4Ew3F2X"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I'm Alive",
+            "artistName": "Céline Dion",
+            "albumName": "A New Day Has Come",
+            "trackUri": "spotify:track:2FTZeRHQ4gRPViPMpWL9uX"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "There's Nothing Holdin' Me Back",
+            "artistName": "Shawn Mendes",
+            "albumName": "Illuminate",
+            "trackUri": "spotify:track:7JJmb5XwzOO8jgpou264Ml"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Bones",
+            "artistName": "Maren Morris",
+            "albumName": "GIRL",
+            "trackUri": "spotify:track:7yFhA2fUsL2oIMWlw5DaHQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Darkside",
+            "artistName": "Alan Walker",
+            "albumName": "Different World",
+            "trackUri": "spotify:track:6SRWhUJcD2YKahCwHavz3X"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Our Song",
+            "artistName": "Taylor Swift",
+            "albumName": "Taylor Swift",
+            "trackUri": "spotify:track:1j6gmK6u4WNI33lMZ8dC1s"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I See the Light - From \"Tangled\" / Soundtrack Version",
+            "artistName": "Mandy Moore",
+            "albumName": "Tangled",
+            "trackUri": "spotify:track:6klpXs2uAjagnZMFkt4qkl"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "champagne problems",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:0sY6ZUTh4yoctD8VIXz339"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Right In Front of You",
+            "artistName": "Céline Dion",
+            "albumName": "A New Day Has Come",
+            "trackUri": "spotify:track:2BoLCHXNjxIiMV7ggkrlDQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Settling Down",
+            "artistName": "Miranda Lambert",
+            "albumName": "Wildcard",
+            "trackUri": "spotify:track:53bZYxVbCYm6w1Gx8U64bz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Bones - with Hozier",
+            "artistName": "Maren Morris",
+            "albumName": "The Bones",
+            "trackUri": "spotify:track:1yTTMcUhL7rtz08Dsgb7Qb"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "august",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:3hUxzQpSfdDqwM3ZTFQY0K"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Levitating",
+            "artistName": "Dua Lipa",
+            "albumName": "Future Nostalgia",
+            "trackUri": "spotify:track:39LLxExYz6ewLAcYrzQQyP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Don't Start Now",
+            "artistName": "Dua Lipa",
+            "albumName": "Future Nostalgia",
+            "trackUri": "spotify:track:3PfIrDoz19wz7qK7tYeu62"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lost You",
+            "artistName": "Tape Machines",
+            "albumName": "Lost You",
+            "trackUri": "spotify:track:57xregURRCrNl7IHUp6Qco"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Watermelon Sugar",
+            "artistName": "Harry Styles",
+            "albumName": "Fine Line",
+            "trackUri": "spotify:track:6UelLqGlWMcVH1E5c4H7lY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
+            "artistName": "Taylor Swift",
+            "albumName": "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
+            "trackUri": "spotify:track:5pcjystBtalYeqaiXCcgEY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "exile (feat. Bon Iver)",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:4pvb0WLRcMtbPGmtejJJ6y"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "cardigan",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:4R2kfaDFhslZEMJqAFNpdd"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Untouchable (Taylor’s Version)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:0tQ9vBYpldCuikPsbgOVKA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:7eResoqEJJAVTkQYSqvO3P"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fake A Smile",
+            "artistName": "Alan Walker",
+            "albumName": "Fake A Smile",
+            "trackUri": "spotify:track:6rAGFY9D3ah6Lb7fUgbNNH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Enchanted",
+            "artistName": "Taylor Swift",
+            "albumName": "Speak Now",
+            "trackUri": "spotify:track:04S1pkp1VaIqjg8zZqknR5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Red",
+            "artistName": "Taylor Swift",
+            "albumName": "Red",
+            "trackUri": "spotify:track:7gJtmLyPTwKzhGzMBXtuXH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "All Too Well",
+            "artistName": "Taylor Swift",
+            "albumName": "Red",
+            "trackUri": "spotify:track:6GNRkaWUB0Lwc19SdkTgx8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bad Habits",
+            "artistName": "Ed Sheeran",
+            "albumName": "Bad Habits",
+            "trackUri": "spotify:track:6PQ88X9TkUIAUIZJHW2upE"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Best of Harry Styles",
+      "lastModifiedDate": "2021-03-20",
+      "items": [
+        {
+          "track": {
+            "trackName": "Watermelon Sugar",
+            "artistName": "Harry Styles",
+            "albumName": "Fine Line",
+            "trackUri": "spotify:track:6UelLqGlWMcVH1E5c4H7lY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Adore You",
+            "artistName": "Harry Styles",
+            "albumName": "Fine Line",
+            "trackUri": "spotify:track:3jjujdWJ72nww5eGnfs2E7"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Best of Maren Morris",
+      "lastModifiedDate": "2021-03-20",
+      "items": [
+        {
+          "track": {
+            "trackName": "A Song for Everything",
+            "artistName": "Maren Morris",
+            "albumName": "GIRL",
+            "trackUri": "spotify:track:59C9WyONT72bKyaystIzjq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Feels",
+            "artistName": "Maren Morris",
+            "albumName": "GIRL",
+            "trackUri": "spotify:track:4c10Mtlt9dPeKvP61sicAs"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Good Woman",
+            "artistName": "Maren Morris",
+            "albumName": "GIRL",
+            "trackUri": "spotify:track:71K52AGlhXq9wAEl7lE5Yv"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Chasing After You (with Maren Morris)",
+            "artistName": "Ryan Hurd",
+            "albumName": "Chasing After You (with Maren Morris)",
+            "trackUri": "spotify:track:1ZIKpMTRPqhwAoVXWY3tXI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Bones",
+            "artistName": "Maren Morris",
+            "albumName": "GIRL",
+            "trackUri": "spotify:track:7yFhA2fUsL2oIMWlw5DaHQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Bones - with Hozier",
+            "artistName": "Maren Morris",
+            "albumName": "The Bones",
+            "trackUri": "spotify:track:1yTTMcUhL7rtz08Dsgb7Qb"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Best of Dua Lipa",
+      "lastModifiedDate": "2021-03-20",
+      "items": [
+        {
+          "track": {
+            "trackName": "Don't Start Now",
+            "artistName": "Dua Lipa",
+            "albumName": "Future Nostalgia",
+            "trackUri": "spotify:track:3PfIrDoz19wz7qK7tYeu62"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Levitating",
+            "artistName": "Dua Lipa",
+            "albumName": "Future Nostalgia",
+            "trackUri": "spotify:track:39LLxExYz6ewLAcYrzQQyP"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Sing Along",
+      "lastModifiedDate": "2021-03-20",
+      "items": [
+        {
+          "track": {
+            "trackName": "I See the Light - From \"Tangled\" / Soundtrack Version",
+            "artistName": "Mandy Moore",
+            "albumName": "Tangled",
+            "trackUri": "spotify:track:6klpXs2uAjagnZMFkt4qkl"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Anyone",
+            "artistName": "Justin Bieber",
+            "albumName": "Anyone",
+            "trackUri": "spotify:track:31qCy5ZaophVA81wtlwLc4"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Let's Talk About Love",
+            "artistName": "Céline Dion",
+            "albumName": "Let's Talk About Love",
+            "trackUri": "spotify:track:1gVX2sJy1oFzylg4Ew3F2X"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Where Were You In The Morning?",
+            "artistName": "Shawn Mendes",
+            "albumName": "Shawn Mendes",
+            "trackUri": "spotify:track:376Gg7Oxo5C5jUWDWpVXeI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Darkside",
+            "artistName": "Alan Walker",
+            "albumName": "Different World",
+            "trackUri": "spotify:track:6SRWhUJcD2YKahCwHavz3X"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Afterglow",
+            "artistName": "Ed Sheeran",
+            "albumName": "Afterglow",
+            "trackUri": "spotify:track:0E4Y1XIbs8GrAT1YqVy6dq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shape of You",
+            "artistName": "Ed Sheeran",
+            "albumName": "÷",
+            "trackUri": "spotify:track:7qiZfU4dY1lWllzX7mPBI3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Perfect",
+            "artistName": "Ed Sheeran",
+            "albumName": "÷",
+            "trackUri": "spotify:track:0tgVpDi06FyKpA1z0VMD4v"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "There's Nothing Holdin' Me Back",
+            "artistName": "Shawn Mendes",
+            "albumName": "Illuminate",
+            "trackUri": "spotify:track:7JJmb5XwzOO8jgpou264Ml"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Whole New World",
+            "artistName": "Lea Salonga",
+            "albumName": "Aladdin: Special Edition Soundtrack",
+            "trackUri": "spotify:track:506nvAQgHmkGd13ipZuBwo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Bones - with Hozier",
+            "artistName": "Maren Morris",
+            "albumName": "The Bones",
+            "trackUri": "spotify:track:1yTTMcUhL7rtz08Dsgb7Qb"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Best of Justin",
+      "lastModifiedDate": "2021-09-04",
+      "items": [
+        {
+          "track": {
+            "trackName": "Anyone",
+            "artistName": "Justin Bieber",
+            "albumName": "Anyone",
+            "trackUri": "spotify:track:31qCy5ZaophVA81wtlwLc4"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mistletoe",
+            "artistName": "Justin Bieber",
+            "albumName": "Under The Mistletoe",
+            "trackUri": "spotify:track:7xapw9Oy21WpfEcib2ErSA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Peaches (feat. Daniel Caesar & Giveon)",
+            "artistName": "Justin Bieber",
+            "albumName": "Justice",
+            "trackUri": "spotify:track:4iJyoBOLtHqaGxP12qzhQI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Stuck with U (with Justin Bieber)",
+            "artistName": "Ariana Grande",
+            "albumName": "Stuck with U",
+            "trackUri": "spotify:track:4HBZA5flZLE435QTztThqH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Love Yourself",
+            "artistName": "Justin Bieber",
+            "albumName": "Purpose",
+            "trackUri": "spotify:track:50kpGaPAhYJ3sGmk6vplg0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Where Are Ü Now (with Justin Bieber)",
+            "artistName": "Jack Ü",
+            "albumName": "Skrillex and Diplo present Jack Ü",
+            "trackUri": "spotify:track:66hayvUbTotekKU3H4ta1f"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sorry",
+            "artistName": "Justin Bieber",
+            "albumName": "Purpose",
+            "trackUri": "spotify:track:09CtPGIpYB4BrO8qb1RGsF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Let Me Love You",
+            "artistName": "DJ Snake",
+            "albumName": "Encore",
+            "trackUri": "spotify:track:0lYBSQXN6rCTvUZvg9S0lU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "What Do You Mean?",
+            "artistName": "Justin Bieber",
+            "albumName": "Purpose",
+            "trackUri": "spotify:track:4B0JvthVoAAuygILe3n4Bs"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Baby",
+            "artistName": "Justin Bieber",
+            "albumName": "My World 2.0",
+            "trackUri": "spotify:track:6epn3r7S14KUqlReYr77hA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Friends (with BloodPop®)",
+            "artistName": "Justin Bieber",
+            "albumName": "Friends (with BloodPop®)",
+            "trackUri": "spotify:track:7iNIg7XDEaYECfWD5dJ9Va"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "All That Matters",
+            "artistName": "Justin Bieber",
+            "albumName": "Journals",
+            "trackUri": "spotify:track:6CLVh9sekZ1p2G8Tfhhj8h"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Company",
+            "artistName": "Justin Bieber",
+            "albumName": "Purpose",
+            "trackUri": "spotify:track:61uyGDPJ06MkxJtHgPmuyO"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "One Less Lonely Girl",
+            "artistName": "Justin Bieber",
+            "albumName": "My World",
+            "trackUri": "spotify:track:69ghzc538EQSVon2Gm3wrr"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Best of Alan Walkar",
+      "lastModifiedDate": "2021-07-16",
+      "items": [
+        {
+          "track": {
+            "trackName": "Tired",
+            "artistName": "Alan Walker",
+            "albumName": "Tired",
+            "trackUri": "spotify:track:3b5Li4QKDVBx1x7fQuu54a"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lily",
+            "artistName": "Alan Walker",
+            "albumName": "Different World",
+            "trackUri": "spotify:track:0lks2Kt9veMOFEAPN0fsqN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sing Me to Sleep",
+            "artistName": "Alan Walker",
+            "albumName": "Different World",
+            "trackUri": "spotify:track:1tfVpMI8G6EakZU4rEja4w"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Spectre",
+            "artistName": "Alan Walker",
+            "albumName": "The Spectre",
+            "trackUri": "spotify:track:2DGa7iaidT5s0qnINlwMjJ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Alone",
+            "artistName": "Alan Walker",
+            "albumName": "Different World",
+            "trackUri": "spotify:track:3LlmKSHR3Rs0Y3KHQLAYDk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Darkside",
+            "artistName": "Alan Walker",
+            "albumName": "Different World",
+            "trackUri": "spotify:track:6SRWhUJcD2YKahCwHavz3X"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Faded",
+            "artistName": "Alan Walker",
+            "albumName": "Different World",
+            "trackUri": "spotify:track:698ItKASDavgwZ3WjaWjtz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fake A Smile",
+            "artistName": "Alan Walker",
+            "albumName": "Fake A Smile",
+            "trackUri": "spotify:track:6rAGFY9D3ah6Lb7fUgbNNH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sorry",
+            "artistName": "Alan Walker",
+            "albumName": "Sorry",
+            "trackUri": "spotify:track:65tQ1ZL4Q5uKsghVoj1O8o"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "On My Way",
+            "artistName": "Alan Walker",
+            "albumName": "On My Way",
+            "trackUri": "spotify:track:4n7jnSxVLd8QioibtTDBDq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Alone, Pt. II",
+            "artistName": "Alan Walker",
+            "albumName": "Alone, Pt. II",
+            "trackUri": "spotify:track:0bMbDctzMmTyK2j74j3nF3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sweet Dreams",
+            "artistName": "Alan Walker",
+            "albumName": "Sweet Dreams",
+            "trackUri": "spotify:track:4uDhts78RdwIDjEqPrYVKp"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Best of Lata Mangeshkar",
+      "lastModifiedDate": "2021-07-28",
+      "items": [
+        {
+          "track": {
+            "trackName": "Rasik Balamaa Hay Dil Kyon Lagayaa Tose, From ''Chori Chori''",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Bollywood Legendary Singers, Lata Mangeshkar, Vol. 1",
+            "trackUri": "spotify:track:3Y0KlgsBRdRgL3ui2TcCvB"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ayegaa Ayegaa Anewaalaa, From ''Mahal''",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Bollywood Legendary Singers, Lata Mangeshkar, Vol. 1",
+            "trackUri": "spotify:track:524Mb6S4EufWajI8V9ypW8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Saagar Kinare - Saagar / Soundtrack Version",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Lata Mangeshkar most loved in 2020",
+            "trackUri": "spotify:track:19nhs2hf1dUu696nCUUqj4"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mere Naseeb Mein - Naseeb / Soundtrack Version",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Lata Mangeshkar most loved in 2020",
+            "trackUri": "spotify:track:3dn0vL89KWIYUXwltJ22kC"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wada Na Tod - From \"Dil Tujhko Diya\"",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Lata Mangeshkar most loved in 2020",
+            "trackUri": "spotify:track:73YTvBoUG34tDnztcdd3iF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Dil Hoom Hoom Kare (From \"Rudaali\") - Female Version",
+            "artistName": "Bhupen Hazarika",
+            "albumName": "MasterWorks - Lata Mangeshkar",
+            "trackUri": "spotify:track:1obzxoRduT5n3fAKsf0Pgi"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Kabhi Khushi Kabhie Gham (From \"Kabhi Khushi Kabhie Gham\")",
+            "artistName": "Jatin-Lalit",
+            "albumName": "MasterWorks - Lata Mangeshkar",
+            "trackUri": "spotify:track:7qBPfVpXI2ORQkdPrx8aB8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Man Kyoon Behka Re Behka Aadhi Raat Ko (From \"Utsav\")",
+            "artistName": "Laxmikant–Pyarelal",
+            "albumName": "MasterWorks - Lata Mangeshkar",
+            "trackUri": "spotify:track:0hHFroswxwaxNPy9wwk6GL"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ye Mulaqat Ek Bahana Hai - From \"Khandaan\"",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "The Golden Melodies, Vol. 2",
+            "trackUri": "spotify:track:2jrAx3ZU9UXe46PepPZuWF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lag Ja Gale Se Phir",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Woh Kaun Thi",
+            "trackUri": "spotify:track:5Y5c5bJK0O7KJDDAYKkppH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Chandni Raat Mein",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Dil-E-Nadaan",
+            "trackUri": "spotify:track:1ZDbxtijCU6KlrkTMqTfDE"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Aaj Phir Jeene Ki Tamanna Hai",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Guide",
+            "trackUri": "spotify:track:5SOz11mekUwr7kQm8dpHqs"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Aajkal Paon Zaamin Par Nahin Padte",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Ghar",
+            "trackUri": "spotify:track:4GQ2SQDXKdBDE8TAQ69jS1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Aaja Piya Tohe Pyar Doon",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Baharon Ke Sapne",
+            "trackUri": "spotify:track:2njC2umOngBCOj14iHR8K8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bhor Bhaye Panghat Pe",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Satyam Shivam Sundaram",
+            "trackUri": "spotify:track:2zIZUisgDGXPD3pvORaMi4"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sawan Ke Jhoole Pade - Sad",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Jurmana",
+            "trackUri": "spotify:track:1YsRE4fuzVsVKfGvdNCB8F"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Teri Bindiya Re",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Abhimaan",
+            "trackUri": "spotify:track:70KrzTE7kTQ41eGHI3JON1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tera Mera Pyar Amar - Lata Mangeshkar",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Asli Naqli",
+            "trackUri": "spotify:track:0Sm3rEToKnYX3vIjDzrQmn"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Zindagi Pyar Ka Geet Hai",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Souten",
+            "trackUri": "spotify:track:5he6mJa7T7DiS8Pjx6djcV"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Main Tere Ishq Mein",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Loafer",
+            "trackUri": "spotify:track:1wHja2c6BNGxMDiNVkO1C5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mujhe Teri Mohabbat Ka Sahara",
+            "artistName": "Mohammed Rafi",
+            "albumName": "Aap Aye Bahar Ayee",
+            "trackUri": "spotify:track:2CDCpj1lFBsf8ruoi8KNWb"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sau Saal Pahle",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Jab Pyar Kisi Se Hota Hai",
+            "trackUri": "spotify:track:2lx6HFF0cVPP4Z4jnbBLN9"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Jhilmil Sitaron Ka Angan Hoga",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Jeevan Mrityu",
+            "trackUri": "spotify:track:7GUTUoxLRI03fjSNdNTpnv"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Loote Koi Man Ka Nagar",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Abhimaan",
+            "trackUri": "spotify:track:6PrR5HyA5bTZZLWQmYhvoL"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Chup Gaye Sare Nazare",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Do Raaste",
+            "trackUri": "spotify:track:6DuEwqeZzkPJlczCKPq1VD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rahen Na Rahen",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Mamta",
+            "trackUri": "spotify:track:5rmxrHEnOf7CRCmCJrBdZt"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tera Saath Hai To - Lata Mangeshkar",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Pyaasa Sawan",
+            "trackUri": "spotify:track:7e7KvikCdIigjhIbTScNqs"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Nainon Mein Badra Chhaye",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Mera Saaya",
+            "trackUri": "spotify:track:6YRgNx6ZouPzJcS5mSOBI5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Beeti Na Bitai Raina",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Parichay",
+            "trackUri": "spotify:track:26XEm7cqIT1uwPkPY36L23"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Rula Ke Gaya",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Jewel Thief",
+            "trackUri": "spotify:track:3JmLCYFRsOjYFcL8WFz2Uh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ruk Ja Raat",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Dil Ek Mandir",
+            "trackUri": "spotify:track:5wKCGoekRSLzEZOckWK542"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ehsan Tera Hoga Mujh Par - Lata Mangeshkar",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Junglee",
+            "trackUri": "spotify:track:5kfrsmxW4UkaQKA1lcnyrJ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Chalo Sajna Jhahan Tak",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Mere Hamdam Mere Dost",
+            "trackUri": "spotify:track:2aDHuYwy5GtEttdFdx6ChT"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tumhin Meri Mandir",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Khandan",
+            "trackUri": "spotify:track:2J86dHEpicClzRxVSN8sDM"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ae Ri Pawan",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Bemisal",
+            "trackUri": "spotify:track:6B5XizQf2ma0vd26l6vHJK"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mausam Hai Ashiqana",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Pakeezah",
+            "trackUri": "spotify:track:5VSjFOxCv36pbWZ7pAU97v"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Ab To Hai Tumse Har Khushi Apni",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Abhimaan",
+            "trackUri": "spotify:track:241wE0Nygl6w8UfwKRRjwQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Karvaten Badalte Rahe",
+            "artistName": "Kishore Kumar",
+            "albumName": "Aap Ki Kasam",
+            "trackUri": "spotify:track:7yJVavhTsIrjM1KleXlpHR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Chalte Chalte Yun Hi Koi",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Pakeezah",
+            "trackUri": "spotify:track:2rCtv5d2xyezYUbwRqBDod"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bahon Mein Chale Aao",
+            "artistName": "Lata Mangeshkar",
+            "albumName": "Anamika",
+            "trackUri": "spotify:track:2IWhu2HrHttIUcw0Omn1Gr"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Kabhi Kabhi Mere Dil Mein Duet",
+            "artistName": "Mukesh",
+            "albumName": "Kabhi Kabhie",
+            "trackUri": "spotify:track:46bHffIYlRKDZJG1Wbv8vi"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Best of Shawn Mendes",
+      "lastModifiedDate": "2021-02-23",
+      "items": [
+        {
+          "track": {
+            "trackName": "Señorita",
+            "artistName": "Shawn Mendes",
+            "albumName": "Shawn Mendes",
+            "trackUri": "spotify:track:6v3KW9xbzN5yKLt9YKDYA2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Perfectly Wrong",
+            "artistName": "Shawn Mendes",
+            "albumName": "Shawn Mendes",
+            "trackUri": "spotify:track:6nat4Z7iRKWVk1qngQqI0Q"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Don't Be A Fool",
+            "artistName": "Shawn Mendes",
+            "albumName": "Illuminate",
+            "trackUri": "spotify:track:7msCKNrI0vZw9H4MIgLnAh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fallin' All In You",
+            "artistName": "Shawn Mendes",
+            "albumName": "Shawn Mendes",
+            "trackUri": "spotify:track:5EYBryPOgIEPB7r5QIy6eG"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mercy",
+            "artistName": "Shawn Mendes",
+            "albumName": "Illuminate",
+            "trackUri": "spotify:track:0AS63m1wHv9n4VVRizK6Hc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Where Were You In The Morning?",
+            "artistName": "Shawn Mendes",
+            "albumName": "Shawn Mendes",
+            "trackUri": "spotify:track:376Gg7Oxo5C5jUWDWpVXeI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "If I Can't Have You",
+            "artistName": "Shawn Mendes",
+            "albumName": "If I Can't Have You",
+            "trackUri": "spotify:track:6LsAAHotRLMOHfCsSfYCsz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Stitches",
+            "artistName": "Shawn Mendes",
+            "albumName": "Handwritten",
+            "trackUri": "spotify:track:3zkWCteF82vJwv0hRLba76"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Little Too Much",
+            "artistName": "Shawn Mendes",
+            "albumName": "Handwritten",
+            "trackUri": "spotify:track:1T7AiFL9ruKKwlONN35Vh0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Nervous",
+            "artistName": "Shawn Mendes",
+            "albumName": "Shawn Mendes",
+            "trackUri": "spotify:track:5wxurz8J6YlyQRNnGN8zXS"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "In My Blood",
+            "artistName": "Shawn Mendes",
+            "albumName": "Shawn Mendes",
+            "trackUri": "spotify:track:2QZ7WLBE8h2y1Y5Fb8RYbH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "There's Nothing Holdin' Me Back",
+            "artistName": "Shawn Mendes",
+            "albumName": "Illuminate",
+            "trackUri": "spotify:track:7JJmb5XwzOO8jgpou264Ml"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Treat You Better",
+            "artistName": "Shawn Mendes",
+            "albumName": "Illuminate",
+            "trackUri": "spotify:track:1rtDwblY1CJ9i490fMzJnc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fallin' All In You",
+            "artistName": "Shawn Mendes",
+            "albumName": "Shawn Mendes",
+            "trackUri": "spotify:track:5I8oEqbk2ZBmQfXCrZbUFb"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Bests of ‘Let's Talk About Love’",
+      "lastModifiedDate": "2021-01-11",
+      "items": [
+        {
+          "track": {
+            "trackName": "Let's Talk About Love",
+            "artistName": "Céline Dion",
+            "albumName": "Let's Talk About Love",
+            "trackUri": "spotify:track:1gVX2sJy1oFzylg4Ew3F2X"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Where Is the Love",
+            "artistName": "Céline Dion",
+            "albumName": "Let's Talk About Love",
+            "trackUri": "spotify:track:5IDjeYet2H8pc0p7EV2Hkz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Us",
+            "artistName": "Céline Dion",
+            "albumName": "Let's Talk About Love",
+            "trackUri": "spotify:track:478lu5QbS9PdeK0jmEJzOY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Miles to Go (Before I Sleep)",
+            "artistName": "Céline Dion",
+            "albumName": "Let's Talk About Love",
+            "trackUri": "spotify:track:3Qq6BnuQjAx9XWY9G699Zj"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "When I Need You",
+            "artistName": "Céline Dion",
+            "albumName": "Let's Talk About Love",
+            "trackUri": "spotify:track:3UechF8u88C4qkP6jkctNS"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Love Is On the Way",
+            "artistName": "Céline Dion",
+            "albumName": "Let's Talk About Love",
+            "trackUri": "spotify:track:542daUuyOAbVEE9RtI1zgN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Immortality (feat. Bee Gees)",
+            "artistName": "Céline Dion",
+            "albumName": "Let's Talk About Love",
+            "trackUri": "spotify:track:0HuNPrWCyZpCx59pu9ON99"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Bests of ‘A New Day Has Come’",
+      "lastModifiedDate": "2021-01-11",
+      "items": [
+        {
+          "track": {
+            "trackName": "A New Day Has Come",
+            "artistName": "Céline Dion",
+            "albumName": "A New Day Has Come",
+            "trackUri": "spotify:track:6LefIBy3hzTN6Yd1m81gpC"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "When the Wrong One Loves You Right",
+            "artistName": "Céline Dion",
+            "albumName": "A New Day Has Come",
+            "trackUri": "spotify:track:4aZiCz1tTjBZzqpT68sMEW"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Greatest Reward",
+            "artistName": "Céline Dion",
+            "albumName": "A New Day Has Come",
+            "trackUri": "spotify:track:5xfgiaYKuvqIEESqkoSzs2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sorry for Love",
+            "artistName": "Céline Dion",
+            "albumName": "A New Day Has Come",
+            "trackUri": "spotify:track:21CY2eITFdWkKFrAZOWRNq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Have You Ever Been In Love",
+            "artistName": "Céline Dion",
+            "albumName": "A New Day Has Come",
+            "trackUri": "spotify:track:6EjH7ihkymLIS2Z235vN21"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Right In Front of You",
+            "artistName": "Céline Dion",
+            "albumName": "A New Day Has Come",
+            "trackUri": "spotify:track:2BoLCHXNjxIiMV7ggkrlDQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I'm Alive",
+            "artistName": "Céline Dion",
+            "albumName": "A New Day Has Come",
+            "trackUri": "spotify:track:2FTZeRHQ4gRPViPMpWL9uX"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Mixed All",
+      "lastModifiedDate": "2021-09-08",
+      "items": [
+        {
+          "track": {
+            "trackName": "Enchanted",
+            "artistName": "Taylor Swift",
+            "albumName": "Speak Now",
+            "trackUri": "spotify:track:04S1pkp1VaIqjg8zZqknR5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Afterglow",
+            "artistName": "Ed Sheeran",
+            "albumName": "Afterglow",
+            "trackUri": "spotify:track:0E4Y1XIbs8GrAT1YqVy6dq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "My Heart Will Go On - Love Theme from \"Titanic\"",
+            "artistName": "Céline Dion",
+            "albumName": "Let's Talk About Love",
+            "trackUri": "spotify:track:33LC84JgLvK2KuW43MfaNq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Señorita",
+            "artistName": "Shawn Mendes",
+            "albumName": "Shawn Mendes",
+            "trackUri": "spotify:track:6v3KW9xbzN5yKLt9YKDYA2"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Red",
+            "artistName": "Taylor Swift",
+            "albumName": "Red",
+            "trackUri": "spotify:track:7gJtmLyPTwKzhGzMBXtuXH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "exile (feat. Bon Iver)",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:4pvb0WLRcMtbPGmtejJJ6y"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "willow",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:0lx2cLdOt3piJbcaXIV74f"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "evermore (feat. Bon Iver)",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:3O5osWf1rSoKMwe6E9ZaXP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Because You Loved Me (Theme from \"Up Close and Personal\")",
+            "artistName": "Céline Dion",
+            "albumName": "Falling into You",
+            "trackUri": "spotify:track:28UMiBhn383n9S7GL4tsxD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Surrender",
+            "artistName": "Céline Dion",
+            "albumName": "A New Day Has Come",
+            "trackUri": "spotify:track:67VjdDhTa5jzQxHGe6f26r"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Power of Love",
+            "artistName": "Céline Dion",
+            "albumName": "The Colour Of My Love",
+            "trackUri": "spotify:track:5kK1Iru9ogP3Iy1zsANU1n"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "It's All Coming Back to Me Now",
+            "artistName": "Céline Dion",
+            "albumName": "Falling into You",
+            "trackUri": "spotify:track:5EQzuYfTZt7B2LqlvTF49l"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Where Does My Heart Beat Now",
+            "artistName": "Céline Dion",
+            "albumName": "Unison",
+            "trackUri": "spotify:track:7vsKlQM1SafffVCcd1NzJn"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shape of You",
+            "artistName": "Ed Sheeran",
+            "albumName": "÷",
+            "trackUri": "spotify:track:7qiZfU4dY1lWllzX7mPBI3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Perfect",
+            "artistName": "Ed Sheeran",
+            "albumName": "÷",
+            "trackUri": "spotify:track:0tgVpDi06FyKpA1z0VMD4v"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Teardrops On My Guitar - Radio Single Remix",
+            "artistName": "Taylor Swift",
+            "albumName": "Taylor Swift",
+            "trackUri": "spotify:track:2TF4UtYreqNbQ6Z9AccldU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tim McGraw",
+            "artistName": "Taylor Swift",
+            "albumName": "Taylor Swift",
+            "trackUri": "spotify:track:2Fn01AIMyHbha2ceNQeOqw"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Whole New World",
+            "artistName": "Lea Salonga",
+            "albumName": "Aladdin: Special Edition Soundtrack",
+            "trackUri": "spotify:track:506nvAQgHmkGd13ipZuBwo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Won't Say (I'm In Love)",
+            "artistName": "Susan Egan",
+            "albumName": "Hercules",
+            "trackUri": "spotify:track:1HSJMLtNeDryJN76Tu5Ahf"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mercy",
+            "artistName": "Shawn Mendes",
+            "albumName": "Illuminate",
+            "trackUri": "spotify:track:0AS63m1wHv9n4VVRizK6Hc"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Faded",
+            "artistName": "Alan Walker",
+            "albumName": "Different World",
+            "trackUri": "spotify:track:698ItKASDavgwZ3WjaWjtz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Where Were You In The Morning?",
+            "artistName": "Shawn Mendes",
+            "albumName": "Shawn Mendes",
+            "trackUri": "spotify:track:376Gg7Oxo5C5jUWDWpVXeI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tenerife Sea",
+            "artistName": "Ed Sheeran",
+            "albumName": "x",
+            "trackUri": "spotify:track:1HbcclMpw0q2WDWpdGCKdS"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Let's Talk About Love",
+            "artistName": "Céline Dion",
+            "albumName": "Let's Talk About Love",
+            "trackUri": "spotify:track:1gVX2sJy1oFzylg4Ew3F2X"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I'm Alive",
+            "artistName": "Céline Dion",
+            "albumName": "A New Day Has Come",
+            "trackUri": "spotify:track:2FTZeRHQ4gRPViPMpWL9uX"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "There's Nothing Holdin' Me Back",
+            "artistName": "Shawn Mendes",
+            "albumName": "Illuminate",
+            "trackUri": "spotify:track:7JJmb5XwzOO8jgpou264Ml"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Anyone",
+            "artistName": "Justin Bieber",
+            "albumName": "Anyone",
+            "trackUri": "spotify:track:31qCy5ZaophVA81wtlwLc4"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Our Song",
+            "artistName": "Taylor Swift",
+            "albumName": "Taylor Swift",
+            "trackUri": "spotify:track:1j6gmK6u4WNI33lMZ8dC1s"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Style",
+            "artistName": "Taylor Swift",
+            "albumName": "1989",
+            "trackUri": "spotify:track:0ug5NqcwcFR2xrfTkc7k8e"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Blank Space",
+            "artistName": "Taylor Swift",
+            "albumName": "1989",
+            "trackUri": "spotify:track:1u8c2t2Cy7UBoG4ArRcF5g"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lover",
+            "artistName": "Taylor Swift",
+            "albumName": "Lover",
+            "trackUri": "spotify:track:1dGr1c8CrMLDpV6mPbImSI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Bones",
+            "artistName": "Maren Morris",
+            "albumName": "GIRL",
+            "trackUri": "spotify:track:7yFhA2fUsL2oIMWlw5DaHQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Delicate",
+            "artistName": "Taylor Swift",
+            "albumName": "reputation",
+            "trackUri": "spotify:track:6NFyWDv5CjfwuzoCkw47Xf"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Darkside",
+            "artistName": "Alan Walker",
+            "albumName": "Different World",
+            "trackUri": "spotify:track:6SRWhUJcD2YKahCwHavz3X"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I See the Light - From \"Tangled\" / Soundtrack Version",
+            "artistName": "Mandy Moore",
+            "albumName": "Tangled",
+            "trackUri": "spotify:track:6klpXs2uAjagnZMFkt4qkl"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Let It Go - From \"Frozen\"/Soundtrack Version",
+            "artistName": "Idina Menzel",
+            "albumName": "Frozen",
+            "trackUri": "spotify:track:0qcr5FMsEO85NAQjrlDRKo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Beauty and the Beast - from the Soundtrack \"Beauty and the Beast\"",
+            "artistName": "Céline Dion",
+            "albumName": "Celine Dion",
+            "trackUri": "spotify:track:7B3UAPLYAbwXVgbHSKEaTw"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "champagne problems",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:0sY6ZUTh4yoctD8VIXz339"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Right In Front of You",
+            "artistName": "Céline Dion",
+            "albumName": "A New Day Has Come",
+            "trackUri": "spotify:track:2BoLCHXNjxIiMV7ggkrlDQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Settling Down",
+            "artistName": "Miranda Lambert",
+            "albumName": "Wildcard",
+            "trackUri": "spotify:track:53bZYxVbCYm6w1Gx8U64bz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bluebird",
+            "artistName": "Miranda Lambert",
+            "albumName": "Wildcard",
+            "trackUri": "spotify:track:0kPeZAyIhIfeZNrtfjJGDB"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Bones - with Hozier",
+            "artistName": "Maren Morris",
+            "albumName": "The Bones",
+            "trackUri": "spotify:track:1yTTMcUhL7rtz08Dsgb7Qb"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "august",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:3hUxzQpSfdDqwM3ZTFQY0K"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Levitating",
+            "artistName": "Dua Lipa",
+            "albumName": "Future Nostalgia",
+            "trackUri": "spotify:track:39LLxExYz6ewLAcYrzQQyP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Don't Start Now",
+            "artistName": "Dua Lipa",
+            "albumName": "Future Nostalgia",
+            "trackUri": "spotify:track:3PfIrDoz19wz7qK7tYeu62"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lost You",
+            "artistName": "Tape Machines",
+            "albumName": "Lost You",
+            "trackUri": "spotify:track:57xregURRCrNl7IHUp6Qco"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Watermelon Sugar",
+            "artistName": "Harry Styles",
+            "albumName": "Fine Line",
+            "trackUri": "spotify:track:6UelLqGlWMcVH1E5c4H7lY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
+            "artistName": "Taylor Swift",
+            "albumName": "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
+            "trackUri": "spotify:track:5pcjystBtalYeqaiXCcgEY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fake A Smile",
+            "artistName": "Alan Walker",
+            "albumName": "Fake A Smile",
+            "trackUri": "spotify:track:6rAGFY9D3ah6Lb7fUgbNNH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "All Too Well",
+            "artistName": "Taylor Swift",
+            "albumName": "Red",
+            "trackUri": "spotify:track:6GNRkaWUB0Lwc19SdkTgx8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Untouchable (Taylor’s Version)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:0tQ9vBYpldCuikPsbgOVKA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:7eResoqEJJAVTkQYSqvO3P"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "How Does A Moment Last Forever",
+            "artistName": "Céline Dion",
+            "albumName": "Beauty and the Beast",
+            "trackUri": "spotify:track:0CJvw1j88DGbvDhqmjJgc8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bad Habits",
+            "artistName": "Ed Sheeran",
+            "albumName": "Bad Habits",
+            "trackUri": "spotify:track:6PQ88X9TkUIAUIZJHW2upE"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Thousand Years",
+            "artistName": "Christina Perri",
+            "albumName": "The Twilight Saga: Breaking Dawn - Part 1",
+            "trackUri": "spotify:track:6z5Yh7kOKeLjqIsNdokIpU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shallow - Radio Edit",
+            "artistName": "Lady Gaga",
+            "albumName": "A Star Is Born Soundtrack",
+            "trackUri": "spotify:track:6QfS2wq5sSC1xAJCQsTSlj"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Wolves",
+            "artistName": "Selena Gomez",
+            "albumName": "Wolves",
+            "trackUri": "spotify:track:0tBbt8CrmxbjRP0pueQkyU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Don't Go Yet",
+            "artistName": "Camila Cabello",
+            "albumName": "Don't Go Yet",
+            "trackUri": "spotify:track:1058fW9H3fZA6QjYCdOBad"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Always Remember Us This Way",
+            "artistName": "Lady Gaga",
+            "albumName": "A Star Is Born Soundtrack",
+            "trackUri": "spotify:track:2rbDhOo9Fh61Bbu23T2qCk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Criminal",
+            "artistName": "Britney Spears",
+            "albumName": "Femme Fatale (Deluxe Version)",
+            "trackUri": "spotify:track:6T689Jvh5KrSXyaPtUWZtQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Your Power",
+            "artistName": "Billie Eilish",
+            "albumName": "Happier Than Ever",
+            "trackUri": "spotify:track:042Sl6Mn83JHyLEqdK7uI0"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Happier Than Ever",
+            "artistName": "Billie Eilish",
+            "albumName": "Happier Than Ever",
+            "trackUri": "spotify:track:4RVwu0g32PAqgUiJoXsdF8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shameless",
+            "artistName": "Camila Cabello",
+            "albumName": "Romance",
+            "trackUri": "spotify:track:2ogKhhoMClkFXek7ZgxAhN"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Living Proof",
+            "artistName": "Camila Cabello",
+            "albumName": "Living Proof",
+            "trackUri": "spotify:track:1jg9clsGCDqOumfS0X5xm9"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Million To One - from the Amazon Original Movie \"Cinderella\"",
+            "artistName": "Camila Cabello",
+            "albumName": "Million To One",
+            "trackUri": "spotify:track:3lzYrD0WcgGFiAFKkB2shE"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I'll Never Love Again - Extended Version",
+            "artistName": "Lady Gaga",
+            "albumName": "A Star Is Born Soundtrack",
+            "trackUri": "spotify:track:2fbJ5Msx8KoDKpyufH5YsU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Oops!...I Did It Again",
+            "artistName": "Britney Spears",
+            "albumName": "Oops!... I Did It Again",
+            "trackUri": "spotify:track:6naxalmIoLFWR0siv8dnQQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Toxic",
+            "artistName": "Britney Spears",
+            "albumName": "In The Zone",
+            "trackUri": "spotify:track:6I9VzXrHxO9rA9A5euc8Ak"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Taylor_Swift_Bests",
+      "lastModifiedDate": "2021-01-08",
+      "items": [
+        {
+          "track": {
+            "trackName": "Tim McGraw",
+            "artistName": "Taylor Swift",
+            "albumName": "Taylor Swift",
+            "trackUri": "spotify:track:2Fn01AIMyHbha2ceNQeOqw"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Teardrops On My Guitar - Radio Single Remix",
+            "artistName": "Taylor Swift",
+            "albumName": "Taylor Swift",
+            "trackUri": "spotify:track:2TF4UtYreqNbQ6Z9AccldU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tied Together with a Smile",
+            "artistName": "Taylor Swift",
+            "albumName": "Taylor Swift",
+            "trackUri": "spotify:track:2zzxwmoOBnXDT0KnJsoIWk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Our Song",
+            "artistName": "Taylor Swift",
+            "albumName": "Taylor Swift",
+            "trackUri": "spotify:track:1j6gmK6u4WNI33lMZ8dC1s"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Invisible",
+            "artistName": "Taylor Swift",
+            "albumName": "Taylor Swift",
+            "trackUri": "spotify:track:1k3PzDNjg38cWqOvL4M9vq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Teardrops on My Guitar - Pop Version",
+            "artistName": "Taylor Swift",
+            "albumName": "Taylor Swift",
+            "trackUri": "spotify:track:1hxLyjC9D9Jpw6EAPKqWv4"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Best of Taylor Swift",
+      "lastModifiedDate": "2021-09-06",
+      "items": [
+        {
+          "track": {
+            "trackName": "Red",
+            "artistName": "Taylor Swift",
+            "albumName": "Red",
+            "trackUri": "spotify:track:7gJtmLyPTwKzhGzMBXtuXH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "willow",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:0lx2cLdOt3piJbcaXIV74f"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Enchanted",
+            "artistName": "Taylor Swift",
+            "albumName": "Speak Now",
+            "trackUri": "spotify:track:04S1pkp1VaIqjg8zZqknR5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "exile (feat. Bon Iver)",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:4pvb0WLRcMtbPGmtejJJ6y"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "this is me trying",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:7kt9e9LFSpN1zQtYEl19o1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "evermore (feat. Bon Iver)",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:3O5osWf1rSoKMwe6E9ZaXP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "cardigan",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:4R2kfaDFhslZEMJqAFNpdd"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "tolerate it",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:0PurA4JVJ8YQgSVopY8fn6"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+            "artistName": "Taylor Swift",
+            "albumName": "Lover",
+            "trackUri": "spotify:track:2Rk4JlNc2TPmZe2af99d45"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tim McGraw",
+            "artistName": "Taylor Swift",
+            "albumName": "Taylor Swift",
+            "trackUri": "spotify:track:2Fn01AIMyHbha2ceNQeOqw"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Blank Space",
+            "artistName": "Taylor Swift",
+            "albumName": "1989",
+            "trackUri": "spotify:track:1u8c2t2Cy7UBoG4ArRcF5g"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "mad woman",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:2QDyYdZyhlP2fp79KZX8Bi"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "invisible string",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:6VsvKPJ4xjVNKpI8VVZ3SV"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Teardrops On My Guitar - Radio Single Remix",
+            "artistName": "Taylor Swift",
+            "albumName": "Taylor Swift",
+            "trackUri": "spotify:track:2TF4UtYreqNbQ6Z9AccldU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "champagne problems",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:0sY6ZUTh4yoctD8VIXz339"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mean",
+            "artistName": "Taylor Swift",
+            "albumName": "Speak Now",
+            "trackUri": "spotify:track:0KztjtD3ytzgYjUKIVfBnW"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "the 1",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:0Jlcvv8IykzHaSmj49uNW8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Delicate",
+            "artistName": "Taylor Swift",
+            "albumName": "reputation",
+            "trackUri": "spotify:track:6NFyWDv5CjfwuzoCkw47Xf"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Style",
+            "artistName": "Taylor Swift",
+            "albumName": "1989",
+            "trackUri": "spotify:track:0ug5NqcwcFR2xrfTkc7k8e"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lover",
+            "artistName": "Taylor Swift",
+            "albumName": "Lover",
+            "trackUri": "spotify:track:1dGr1c8CrMLDpV6mPbImSI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Our Song",
+            "artistName": "Taylor Swift",
+            "albumName": "Taylor Swift",
+            "trackUri": "spotify:track:1j6gmK6u4WNI33lMZ8dC1s"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "august",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:3hUxzQpSfdDqwM3ZTFQY0K"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "betty",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:5kI4eCXXzyuIUXjQra0Cxi"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Fearless (Taylor’s Version)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:77sMIMlNaSURUAXq5coCxE"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Love Story (Taylor’s Version)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:6YvqWjhGD8mB5QXcbcUKtx"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You Belong With Me (Taylor’s Version)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:1qrpoAMXodY6895hGKoUpA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:4CHpVfAhuxNJ3ibExe6kxO"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Untouchable (Taylor’s Version)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:0tQ9vBYpldCuikPsbgOVKA"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "All Too Well",
+            "artistName": "Taylor Swift",
+            "albumName": "Red",
+            "trackUri": "spotify:track:6GNRkaWUB0Lwc19SdkTgx8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "hoax",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:6MWoRt97mnSTXZhu3ggi9C"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "We Were Happy (Taylor’s Version) (From The Vault)",
+            "artistName": "Taylor Swift",
+            "albumName": "Fearless (Taylor's Version)",
+            "trackUri": "spotify:track:34V9RiEPe8MNdU32qJsJa1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Getaway Car",
+            "artistName": "Taylor Swift",
+            "albumName": "reputation",
+            "trackUri": "spotify:track:0VE4kBnHJUgtMf0dy6DRmW"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Knew You Were Trouble.",
+            "artistName": "Taylor Swift",
+            "albumName": "Red",
+            "trackUri": "spotify:track:3lKZf71jeNi14udIFPJ29V"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "We Are Never Ever Getting Back Together",
+            "artistName": "Taylor Swift",
+            "albumName": "Red",
+            "trackUri": "spotify:track:6kISMRfweKSvgHR0urMQFG"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "This Is Why We Can't Have Nice Things",
+            "artistName": "Taylor Swift",
+            "albumName": "reputation",
+            "trackUri": "spotify:track:07NxDD1iKCHbAldceD7QLP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Shake It Off",
+            "artistName": "Taylor Swift",
+            "albumName": "1989",
+            "trackUri": "spotify:track:0cqRj7pUJDkTCEsJkx8snD"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Best of Ed Sheeran",
+      "lastModifiedDate": "2021-07-11",
+      "items": [
+        {
+          "track": {
+            "trackName": "Shape of You",
+            "artistName": "Ed Sheeran",
+            "albumName": "÷",
+            "trackUri": "spotify:track:7qiZfU4dY1lWllzX7mPBI3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Perfect",
+            "artistName": "Ed Sheeran",
+            "albumName": "÷",
+            "trackUri": "spotify:track:0tgVpDi06FyKpA1z0VMD4v"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Thinking out Loud",
+            "artistName": "Ed Sheeran",
+            "albumName": "x",
+            "trackUri": "spotify:track:34gCuhDGsG4bRPIf9bb02f"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Afterglow",
+            "artistName": "Ed Sheeran",
+            "albumName": "Afterglow",
+            "trackUri": "spotify:track:0E4Y1XIbs8GrAT1YqVy6dq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lego House",
+            "artistName": "Ed Sheeran",
+            "albumName": "+",
+            "trackUri": "spotify:track:5ubHAQtKuFfiG4FXfLP804"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Tenerife Sea",
+            "artistName": "Ed Sheeran",
+            "albumName": "x",
+            "trackUri": "spotify:track:1HbcclMpw0q2WDWpdGCKdS"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Autumn Leaves - Deluxe Edition",
+            "artistName": "Ed Sheeran",
+            "albumName": "+",
+            "trackUri": "spotify:track:7iBSkXB0pTvZasOLf0Qxk9"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "One",
+            "artistName": "Ed Sheeran",
+            "albumName": "x",
+            "trackUri": "spotify:track:5TvFfDlVoUWZvfqrhTJzD7"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Photograph",
+            "artistName": "Ed Sheeran",
+            "albumName": "x",
+            "trackUri": "spotify:track:1HNkqx9Ahdgi1Ixy2xkKkL"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The A Team",
+            "artistName": "Ed Sheeran",
+            "albumName": "+",
+            "trackUri": "spotify:track:1VdZ0vKfR5jneCmWIUAMxK"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Bad Habits",
+            "artistName": "Ed Sheeran",
+            "albumName": "Bad Habits",
+            "trackUri": "spotify:track:6PQ88X9TkUIAUIZJHW2upE"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "The Little Mermaid",
+      "lastModifiedDate": "2021-01-07",
+      "items": [
+        {
+          "track": {
+            "trackName": "Main Titles - The Little Mermaid - From \"The Little Mermaid\"/Score",
+            "artistName": "Alan Menken",
+            "albumName": "Little Mermaid",
+            "trackUri": "spotify:track:09HBvmj0dUeQYHGbKJefR5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Kiss the Girl - From \"The Little Mermaid\"/ Soundtrack Version",
+            "artistName": "Samuel E. Wright",
+            "albumName": "Little Mermaid",
+            "trackUri": "spotify:track:4HGIPyqDxSf863tPOwXiLJ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Under the Sea - From \"The Little Mermaid\" / Soundtrack Version",
+            "artistName": "Samuel E. Wright",
+            "albumName": "Little Mermaid",
+            "trackUri": "spotify:track:6oYkwjI1TKP9D0Y9II1GT7"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Part of Your World - From \"The Little Mermaid\" / Soundtrack Version",
+            "artistName": "Jodi Benson",
+            "albumName": "Little Mermaid",
+            "trackUri": "spotify:track:7tUSJY4nsDBJTjd1UXKRsT"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Beauty and the Beast",
+      "lastModifiedDate": "2021-01-07",
+      "items": [
+        {
+          "track": {
+            "trackName": "Beauty and the Beast - From \"Beauty and the Beast\" / Duet",
+            "artistName": "Peabo Bryson",
+            "albumName": "Beauty and the Beast",
+            "trackUri": "spotify:track:1lb36bFPzVYUBER5QatHAY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Something There - From \"Beauty and the Beast\"/Soundtrack Version",
+            "artistName": "Robby Benson",
+            "albumName": "Beauty and the Beast",
+            "trackUri": "spotify:track:6mDxu0xwhv5tn1oMTNUypu"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Belle Reprise - From \"Beauty and the Beast\"/Soundtrack Version",
+            "artistName": "Paige O'Hara",
+            "albumName": "Beauty and the Beast",
+            "trackUri": "spotify:track:34XWBbHC4hsTBDDbIH8g4g"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Belle - From \"Beauty and the Beast\"/Soundtrack Version",
+            "artistName": "Richard White",
+            "albumName": "Beauty and the Beast",
+            "trackUri": "spotify:track:0Q4a3PdGEME9w8Jgqa0Gf3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "How Does A Moment Last Forever",
+            "artistName": "Céline Dion",
+            "albumName": "Beauty and the Beast",
+            "trackUri": "spotify:track:0CJvw1j88DGbvDhqmjJgc8"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Best from Disney",
+      "lastModifiedDate": "2021-08-04",
+      "items": [
+        {
+          "track": {
+            "trackName": "I See the Light - From \"Tangled\" / Soundtrack Version",
+            "artistName": "Mandy Moore",
+            "albumName": "Tangled",
+            "trackUri": "spotify:track:6klpXs2uAjagnZMFkt4qkl"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Won't Say (I'm In Love)",
+            "artistName": "Susan Egan",
+            "albumName": "Hercules",
+            "trackUri": "spotify:track:1HSJMLtNeDryJN76Tu5Ahf"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Go the Distance",
+            "artistName": "Roger Bart",
+            "albumName": "Hercules",
+            "trackUri": "spotify:track:2dHoYvtul7SXjOAkd1b5Rh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Let It Go - From \"Frozen\"/Soundtrack Version",
+            "artistName": "Idina Menzel",
+            "albumName": "Frozen",
+            "trackUri": "spotify:track:0qcr5FMsEO85NAQjrlDRKo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Show Yourself",
+            "artistName": "Idina Menzel",
+            "albumName": "Frozen 2",
+            "trackUri": "spotify:track:5JcHjigKoy1ABWwZhRmIGh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Into the Unknown",
+            "artistName": "Idina Menzel",
+            "albumName": "Frozen 2",
+            "trackUri": "spotify:track:2JJwUreki4qNMcQiwlaojo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "All Is Found",
+            "artistName": "Evan Rachel Wood",
+            "albumName": "Frozen 2",
+            "trackUri": "spotify:track:1KkVYSqXosoiQmJmto0VAw"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Speechless (Full)",
+            "artistName": "Naomi Scott",
+            "albumName": "Aladdin",
+            "trackUri": "spotify:track:0XPsOSYzDJZJArevQNm2AR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Touch The Sky - From \"Brave\"/Soundtrack",
+            "artistName": "Julie Fowlis",
+            "albumName": "Brave",
+            "trackUri": "spotify:track:5yyqx4brn6Bm9U1Rj9ENnz"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "A Whole New World",
+            "artistName": "Lea Salonga",
+            "albumName": "Aladdin: Special Edition Soundtrack",
+            "trackUri": "spotify:track:506nvAQgHmkGd13ipZuBwo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "How Does A Moment Last Forever",
+            "artistName": "Céline Dion",
+            "albumName": "Beauty and the Beast",
+            "trackUri": "spotify:track:0CJvw1j88DGbvDhqmjJgc8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Colors of the Wind - From \"Pocahontas\" / Soundtrack Version",
+            "artistName": "Judy Kuhn",
+            "albumName": "Pocahontas",
+            "trackUri": "spotify:track:1OYOLWqKmhkFIx2KC9ek1a"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Beauty and the Beast - From \"Beauty and the Beast\" / Duet",
+            "artistName": "Peabo Bryson",
+            "albumName": "Beauty and the Beast",
+            "trackUri": "spotify:track:1lb36bFPzVYUBER5QatHAY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You'll Be In My Heart",
+            "artistName": "Phil Collins",
+            "albumName": "Tarzan",
+            "trackUri": "spotify:track:4Y8vb1uy9IjM2V1hqvrAid"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "How Far I'll Go",
+            "artistName": "Auli'i Cravalho",
+            "albumName": "Moana",
+            "trackUri": "spotify:track:1ERshJBUZysordGDZr5B3t"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Hercules",
+      "lastModifiedDate": "2021-01-07",
+      "items": [
+        {
+          "track": {
+            "trackName": "A Star Is Born",
+            "artistName": "Cheryl Freeman",
+            "albumName": "Hercules",
+            "trackUri": "spotify:track:6cLZAx9Q9ZIa0oeLPkSLRM"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Go The Distance (Reprise)",
+            "artistName": "Roger Bart",
+            "albumName": "Hercules",
+            "trackUri": "spotify:track:0NvqetjXrzOkZpX2BSG9Qi"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Go the Distance",
+            "artistName": "Roger Bart",
+            "albumName": "Hercules",
+            "trackUri": "spotify:track:2dHoYvtul7SXjOAkd1b5Rh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Won't Say (I'm In Love)",
+            "artistName": "Susan Egan",
+            "albumName": "Hercules",
+            "trackUri": "spotify:track:1HSJMLtNeDryJN76Tu5Ahf"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Best Of Celine Dion",
+      "lastModifiedDate": "2021-01-30",
+      "items": [
+        {
+          "track": {
+            "trackName": "My Heart Will Go On - Love Theme from \"Titanic\"",
+            "artistName": "Céline Dion",
+            "albumName": "Let's Talk About Love",
+            "trackUri": "spotify:track:33LC84JgLvK2KuW43MfaNq"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Because You Loved Me (Theme from \"Up Close and Personal\")",
+            "artistName": "Céline Dion",
+            "albumName": "Falling into You",
+            "trackUri": "spotify:track:28UMiBhn383n9S7GL4tsxD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Surrender",
+            "artistName": "Céline Dion",
+            "albumName": "A New Day Has Come",
+            "trackUri": "spotify:track:67VjdDhTa5jzQxHGe6f26r"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Power of Love",
+            "artistName": "Céline Dion",
+            "albumName": "The Colour Of My Love",
+            "trackUri": "spotify:track:5kK1Iru9ogP3Iy1zsANU1n"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Falling Into You",
+            "artistName": "Céline Dion",
+            "albumName": "Falling into You",
+            "trackUri": "spotify:track:7KWMxUH7lORLTob6aMpXBU"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "It's All Coming Back to Me Now",
+            "artistName": "Céline Dion",
+            "albumName": "Falling into You",
+            "trackUri": "spotify:track:5EQzuYfTZt7B2LqlvTF49l"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Where Does My Heart Beat Now",
+            "artistName": "Céline Dion",
+            "albumName": "Unison",
+            "trackUri": "spotify:track:7vsKlQM1SafffVCcd1NzJn"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "All By Myself",
+            "artistName": "Céline Dion",
+            "albumName": "Falling into You",
+            "trackUri": "spotify:track:0gsl92EMIScPGV1AU35nuD"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Beauty and the Beast - From \"Beauty and the Beast\" / Duet",
+            "artistName": "Peabo Bryson",
+            "albumName": "Beauty and the Beast",
+            "trackUri": "spotify:track:1lb36bFPzVYUBER5QatHAY"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "How Does A Moment Last Forever",
+            "artistName": "Céline Dion",
+            "albumName": "Beauty and the Beast",
+            "trackUri": "spotify:track:0CJvw1j88DGbvDhqmjJgc8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Immortality (feat. Bee Gees)",
+            "artistName": "Céline Dion",
+            "albumName": "Let's Talk About Love",
+            "trackUri": "spotify:track:0HuNPrWCyZpCx59pu9ON99"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Let's Talk About Love",
+            "artistName": "Céline Dion",
+            "albumName": "Let's Talk About Love",
+            "trackUri": "spotify:track:1gVX2sJy1oFzylg4Ew3F2X"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Right In Front of You",
+            "artistName": "Céline Dion",
+            "albumName": "A New Day Has Come",
+            "trackUri": "spotify:track:2BoLCHXNjxIiMV7ggkrlDQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I'm Alive",
+            "artistName": "Céline Dion",
+            "albumName": "A New Day Has Come",
+            "trackUri": "spotify:track:2FTZeRHQ4gRPViPMpWL9uX"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Tarzan",
+      "lastModifiedDate": "2021-01-07",
+      "items": [
+        {
+          "track": {
+            "trackName": "You'll Be In My Heart",
+            "artistName": "Glenn Close",
+            "albumName": "Tarzan",
+            "trackUri": "spotify:track:7C11GdiguhLd9j7Y6jHFm9"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Two Worlds",
+            "artistName": "Phil Collins",
+            "albumName": "Tarzan",
+            "trackUri": "spotify:track:3icOFPIciIN8FQSyVlpYSF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Son of Man",
+            "artistName": "Phil Collins",
+            "albumName": "Tarzan",
+            "trackUri": "spotify:track:1LhFadk0aWYczltTjIbFlI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Two Worlds Reprise",
+            "artistName": "Phil Collins",
+            "albumName": "Tarzan",
+            "trackUri": "spotify:track:7Iqno05rC9hqCdbLSC6SMm"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Strangers Like Me",
+            "artistName": "Phil Collins",
+            "albumName": "Tarzan",
+            "trackUri": "spotify:track:3T74kgnbHw8JqkYGJKD4Tl"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Two Worlds Finale",
+            "artistName": "Phil Collins",
+            "albumName": "Tarzan",
+            "trackUri": "spotify:track:7jZfg0ULZEzw7w0cUD3N2w"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Frozen",
+      "lastModifiedDate": "2021-01-07",
+      "items": [
+        {
+          "track": {
+            "trackName": "Let It Go - From \"Frozen\"/Soundtrack Version",
+            "artistName": "Idina Menzel",
+            "albumName": "Frozen",
+            "trackUri": "spotify:track:0qcr5FMsEO85NAQjrlDRKo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Show Yourself",
+            "artistName": "Idina Menzel",
+            "albumName": "Frozen 2",
+            "trackUri": "spotify:track:5JcHjigKoy1ABWwZhRmIGh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Into the Unknown",
+            "artistName": "Idina Menzel",
+            "albumName": "Frozen 2",
+            "trackUri": "spotify:track:2JJwUreki4qNMcQiwlaojo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "All Is Found",
+            "artistName": "Evan Rachel Wood",
+            "albumName": "Frozen 2",
+            "trackUri": "spotify:track:1KkVYSqXosoiQmJmto0VAw"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Some Things Never Change",
+            "artistName": "Kristen Bell",
+            "albumName": "Frozen 2",
+            "trackUri": "spotify:track:3tifSIPU9W9AzTriW9tkH6"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Introduction",
+            "artistName": "Christophe Beck",
+            "albumName": "Frozen 2",
+            "trackUri": "spotify:track:3PYgUmM7AzwGG6Qfurk0TP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "For the First Time in Forever - From \"Frozen\"/Soundtrack Version",
+            "artistName": "Kristen Bell",
+            "albumName": "Frozen",
+            "trackUri": "spotify:track:70b5Sq3ePOu3Gqg0hjlOtR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Do You Want to Build a Snowman? - From \"Frozen\"/Soundtrack Version",
+            "artistName": "Kristen Bell",
+            "albumName": "Frozen",
+            "trackUri": "spotify:track:2yi7HZrBOC4bMUSTcs4VK6"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Next Right Thing",
+            "artistName": "Kristen Bell",
+            "albumName": "Frozen 2",
+            "trackUri": "spotify:track:4MJycw2LwmR4tTMtchLw7Q"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Love Is an Open Door - From \"Frozen\"/Soundtrack Version",
+            "artistName": "Kristen Bell",
+            "albumName": "Frozen",
+            "trackUri": "spotify:track:3IPnBzGRMg6BfViFxxa0Gq"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Aladdin",
+      "lastModifiedDate": "2021-01-07",
+      "items": [
+        {
+          "track": {
+            "trackName": "A Whole New World",
+            "artistName": "Lea Salonga",
+            "albumName": "Aladdin: Special Edition Soundtrack",
+            "trackUri": "spotify:track:506nvAQgHmkGd13ipZuBwo"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Speechless (Full)",
+            "artistName": "Naomi Scott",
+            "albumName": "Aladdin",
+            "trackUri": "spotify:track:0XPsOSYzDJZJArevQNm2AR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Arabian Nights (2019)",
+            "artistName": "Will Smith",
+            "albumName": "Aladdin",
+            "trackUri": "spotify:track:6ZxPYutGhjLTrcmvcshCa4"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "One Jump Ahead",
+            "artistName": "Brad Kane",
+            "albumName": "Aladdin: Special Edition Soundtrack",
+            "trackUri": "spotify:track:1dILRjV0gwHAdZ1hHjW5T3"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Arabian Nights",
+            "artistName": "Bruce Adler",
+            "albumName": "Aladdin: Special Edition Soundtrack",
+            "trackUri": "spotify:track:41yc1aa7GGsGJQSE4deiQz"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Reputation_Bests",
+      "lastModifiedDate": "2021-01-07",
+      "items": [
+        {
+          "track": {
+            "trackName": "Getaway Car",
+            "artistName": "Taylor Swift",
+            "albumName": "reputation",
+            "trackUri": "spotify:track:0VE4kBnHJUgtMf0dy6DRmW"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "King Of My Heart",
+            "artistName": "Taylor Swift",
+            "albumName": "reputation",
+            "trackUri": "spotify:track:7HuBDWi18s4aJM8UFnNheH"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Speak_Now_Bests",
+      "lastModifiedDate": "2021-01-07",
+      "items": [
+        {
+          "track": {
+            "trackName": "Haunted",
+            "artistName": "Taylor Swift",
+            "albumName": "Speak Now",
+            "trackUri": "spotify:track:2YjKcFQ1vYFhQPgsmCOjss"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Enchanted",
+            "artistName": "Taylor Swift",
+            "albumName": "Speak Now",
+            "trackUri": "spotify:track:04S1pkp1VaIqjg8zZqknR5"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Innocent",
+            "artistName": "Taylor Swift",
+            "albumName": "Speak Now",
+            "trackUri": "spotify:track:0mTgFzkDgSAF3nJY25XCXG"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Never Grow Up",
+            "artistName": "Taylor Swift",
+            "albumName": "Speak Now",
+            "trackUri": "spotify:track:3JilapcaOXzjR9gtvCY8FO"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Story Of Us",
+            "artistName": "Taylor Swift",
+            "albumName": "Speak Now",
+            "trackUri": "spotify:track:3lXekiVK1ZPZbKconsys73"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Mean",
+            "artistName": "Taylor Swift",
+            "albumName": "Speak Now",
+            "trackUri": "spotify:track:0KztjtD3ytzgYjUKIVfBnW"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "1989_Bests",
+      "lastModifiedDate": "2021-01-07",
+      "items": [
+        {
+          "track": {
+            "trackName": "Clean",
+            "artistName": "Taylor Swift",
+            "albumName": "1989",
+            "trackUri": "spotify:track:2k43eySbfpDVx0PrO99UI8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You Are In Love",
+            "artistName": "Taylor Swift",
+            "albumName": "1989",
+            "trackUri": "spotify:track:2KrOAg6FftbjgSKdd2a4rS"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "This Love",
+            "artistName": "Taylor Swift",
+            "albumName": "1989",
+            "trackUri": "spotify:track:7lTxQZVXlvIX7Z3szSy8Sh"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Wish You Would",
+            "artistName": "Taylor Swift",
+            "albumName": "1989",
+            "trackUri": "spotify:track:5RVJ6VKfwtosA5Q1qeHdjF"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Style",
+            "artistName": "Taylor Swift",
+            "albumName": "1989",
+            "trackUri": "spotify:track:71PmZqBXH0RUETqxpwlV0w"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Blank Space",
+            "artistName": "Taylor Swift",
+            "albumName": "1989",
+            "trackUri": "spotify:track:2ls70nUDfjzm1lSRDuKxmw"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Folklore_Bests",
+      "lastModifiedDate": "2021-05-14",
+      "items": [
+        {
+          "track": {
+            "trackName": "hoax",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:6MWoRt97mnSTXZhu3ggi9C"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "my tears ricochet",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:1MgV7FIyNxIG7WzMRJV5HC"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "this is me trying",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:7kt9e9LFSpN1zQtYEl19o1"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "exile (feat. Bon Iver)",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:4pvb0WLRcMtbPGmtejJJ6y"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "mad woman",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:2QDyYdZyhlP2fp79KZX8Bi"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "the 1",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:0Jlcvv8IykzHaSmj49uNW8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "invisible string",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:6VsvKPJ4xjVNKpI8VVZ3SV"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "cardigan",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:4R2kfaDFhslZEMJqAFNpdd"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "august",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:3hUxzQpSfdDqwM3ZTFQY0K"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "betty",
+            "artistName": "Taylor Swift",
+            "albumName": "folklore",
+            "trackUri": "spotify:track:5kI4eCXXzyuIUXjQra0Cxi"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Lover_Bests",
+      "lastModifiedDate": "2021-01-07",
+      "items": [
+        {
+          "track": {
+            "trackName": "Cruel Summer",
+            "artistName": "Taylor Swift",
+            "albumName": "Lover",
+            "trackUri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Think He Knows",
+            "artistName": "Taylor Swift",
+            "albumName": "Lover",
+            "trackUri": "spotify:track:2YWtcWi3a83pdEg3Gif4Pd"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Death By A Thousand Cuts",
+            "artistName": "Taylor Swift",
+            "albumName": "Lover",
+            "trackUri": "spotify:track:2dgFqt3w9xIQRjhPtwNk3D"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Afterglow",
+            "artistName": "Taylor Swift",
+            "albumName": "Lover",
+            "trackUri": "spotify:track:1SymEzIT3H8UZfibCs3TYi"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Daylight",
+            "artistName": "Taylor Swift",
+            "albumName": "Lover",
+            "trackUri": "spotify:track:1fzAuUVbzlhZ1lJAx9PtY6"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Archer",
+            "artistName": "Taylor Swift",
+            "albumName": "Lover",
+            "trackUri": "spotify:track:3pHkh7d0lzM2AldUtz2x37"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+            "artistName": "Taylor Swift",
+            "albumName": "Lover",
+            "trackUri": "spotify:track:2Rk4JlNc2TPmZe2af99d45"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Lover",
+            "artistName": "Taylor Swift",
+            "albumName": "Lover",
+            "trackUri": "spotify:track:1dGr1c8CrMLDpV6mPbImSI"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "You Need To Calm Down",
+            "artistName": "Taylor Swift",
+            "albumName": "Lover",
+            "trackUri": "spotify:track:6RRNNciQGZEXnqk8SQ9yv5"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Red_Bests",
+      "lastModifiedDate": "2021-01-07",
+      "items": [
+        {
+          "track": {
+            "trackName": "Red",
+            "artistName": "Taylor Swift",
+            "albumName": "Red",
+            "trackUri": "spotify:track:7gJtmLyPTwKzhGzMBXtuXH"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "All Too Well",
+            "artistName": "Taylor Swift",
+            "albumName": "Red",
+            "trackUri": "spotify:track:6GNRkaWUB0Lwc19SdkTgx8"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "I Almost Do",
+            "artistName": "Taylor Swift",
+            "albumName": "Red",
+            "trackUri": "spotify:track:1eyqSYBCTane4rl4vc6PWJ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Moment I Knew",
+            "artistName": "Taylor Swift",
+            "albumName": "Red",
+            "trackUri": "spotify:track:4qTAwKJQ68gmnrnfPD3vlO"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Begin Again",
+            "artistName": "Taylor Swift",
+            "albumName": "Red",
+            "trackUri": "spotify:track:1yG491M3fRfowMdGN5pey4"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Come Back...Be Here",
+            "artistName": "Taylor Swift",
+            "albumName": "Red",
+            "trackUri": "spotify:track:1n8rB9AhxiAvVP1E2c3yOd"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Everything Has Changed",
+            "artistName": "Taylor Swift",
+            "albumName": "Red",
+            "trackUri": "spotify:track:5PjfMmF06QtxTPZBZHdhoZ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Stay Stay Stay",
+            "artistName": "Taylor Swift",
+            "albumName": "Red",
+            "trackUri": "spotify:track:0F2S1QlnMaOfmNHIgmES3k"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "The Last Time",
+            "artistName": "Taylor Swift",
+            "albumName": "Red",
+            "trackUri": "spotify:track:2Tz4JnXZOcjcp8fWfMjBBk"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "We Are Never Ever Getting Back Together",
+            "artistName": "Taylor Swift",
+            "albumName": "Red",
+            "trackUri": "spotify:track:6kISMRfweKSvgHR0urMQFG"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "Sad Beautiful Tragic",
+            "artistName": "Taylor Swift",
+            "albumName": "Red",
+            "trackUri": "spotify:track:70e9zuv2pJc7ON1OUAJ1zl"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    },
+    {
+      "name": "Evermore_Bests",
+      "lastModifiedDate": "2021-01-11",
+      "items": [
+        {
+          "track": {
+            "trackName": "willow",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:0lx2cLdOt3piJbcaXIV74f"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "tolerate it",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:0PurA4JVJ8YQgSVopY8fn6"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "happiness",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:73YUReisjb3A9ActdLLjJQ"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "coney island (feat. The National)",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:3k7ne7VmH43ZPWxPdvPUgR"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "evermore (feat. Bon Iver)",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:3O5osWf1rSoKMwe6E9ZaXP"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "champagne problems",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:0sY6ZUTh4yoctD8VIXz339"
+          },
+          "episode": null,
+          "localTrack": null
+        },
+        {
+          "track": {
+            "trackName": "right where you left me - bonus track",
+            "artistName": "Taylor Swift",
+            "albumName": "evermore",
+            "trackUri": "spotify:track:3zwMVvkBe2qIKDObWgXw4N"
+          },
+          "episode": null,
+          "localTrack": null
+        }
+      ],
+      "description": null,
+      "numberOfFollowers": 0
+    }
+  ]
+}
