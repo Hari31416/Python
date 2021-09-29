@@ -1,0 +1,107 @@
+\documentclass{beamer}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usepackage{bookman}
+\usepackage{csvsimple}
+\usetheme{Madrid}
+\title{Mathematics Presentation}
+\subtitle{Euler's Equation}
+\institute[IITD]{Indian Institute of Technology, Delhi}
+\author{Harikesh Kumar}
+\begin{document}
+\maketitle
+\begin{frame}
+\frametitle{Outline}
+\tableofcontents
+\end{frame}
+\label{Intro}
+\section{Introduction}
+\subsection{Problem Statement}
+\begin{frame}
+\frametitle{Euler's Formula}
+The Euler's formula in which I'm interested in is
+\begin{equation}
+    \label{eq:1}
+        e^{ix} = \cos{x} + i\sin{x}
+\end{equation}
+\onslide<1->
+There are a lot of ways to prove this. Some of them are:
+\begin{itemize}
+\color{blue}
+\item <2-> Using Taylor series expansion
+\item <3-> Using Calculus
+\item <4-> Using Polar Coordinates
+\end{itemize}
+\onslide<5-> Here, I'll use basic arithmatic to prove this.
+\end{frame}
+\subsection{Procedure}
+\begin{frame}
+    \frametitle{Procedure}
+    The recipe, I'll follow is this:
+    \begin{enumerate}
+        \item <1->  I'll show that for a small number $x$, we have: $$ 10^x = 1 + cx$$ where $c$ is a constant.
+        \item <2-> Which, after changing 10 to $e$ gives: $$ e^x = 1+x$$
+        \item <3-> Now, I'll make an assumption that the above relation holds even if $x$ is a complex number. Specifically, $$e^{ix} = 1+ix$$
+        \item <4-> Using this assumption and the rule of complex multiplication, I'll show that we do get Euler's equation \ref{eq:1}.
+    \end{enumerate}
+\end{frame}
+\section{Proof}
+\subsection{Step 1}
+\begin{frame}
+\frametitle{Step 1}
+First, I'll show that for a small number $x$, we have:
+\begin{equation}
+    \label{eq:2}
+    10^x = 1 + 2.3026x
+\end{equation}
+So, how to show this with just arithmatic? What I'll do is that I'll start with 10 and keep taking the square root of it as we already know how to take square root of any number.
+Doing this, I get the following table:
+\end{frame}
+   
+\begin{frame}
+    \frametitle{Step 1}
+    \begin{columns}
+    \column{0.5\textwidth}
+    \begin{table}[]
+        % \caption{Table 1}
+        \tiny
+        \centering
+        \def\arraystretch{1.2}
+        \begin{tabular}{|l|l|l|} \hline
+        $10^x$ & $\frac{10^x-1}{x}$ & x        \\ \hline  \hline
+        10.0                  & 9.0                         & 1        \\ \hline
+        3.16227766    & 4.32455532          & 1/2      \\ \hline
+        1.77827941    & 3.11311764          & 1/4      \\ \hline
+        1.33352143    & 2.66817145          & 1/8      \\ \hline
+        1.15478198    & 2.47651175          & 1/16     \\ \hline
+        1.07460782    & 2.38745050          & 1/32     \\ \hline
+        1.03663292    & 2.34450742          & 1/64     \\ \hline
+        1.01815172    & 2.32342037          & 1/128    \\ \hline
+        1.00903504    & 2.31297147          & 1/256    \\ \hline
+        1.00450736    & 2.30777049          & 1/512    \\ \hline
+        1.00225114    & 2.30517585          & 1/1024   \\ \hline
+        1.00112494    & 2.30387998          & 1/2048   \\ \hline
+        1.00056231    & 2.30323241          & 1/4096   \\ \hline
+        1.00028111    & 2.30290872          & 1/8192   \\ \hline
+        1.00014054    & 2.30274690          & 1/16384  \\ \hline
+        1.00007027    & 2.30266599          & 1/32768  \\ \hline
+        1.00003513    & 2.30262554          & 1/65536  \\ \hline
+        1.00001756    & 2.30260531         & 1/131072 \\ \hline
+        1.00000878    & 2.30259520          & 1/262144 \\ \hline
+        1.00000439    & 2.30259014          & 1/524288 \\ \hline
+        \end{tabular}
+    \end{table}
+    \pause
+    \column{0.5\textwidth}
+    As we can see, as $x$ gets smaller, the value of $\frac{10^x-1}{x}$ goes to a constant value of 2.3026. Which suggests that for a small $x$, we'll have:
+    \begin{equation}
+        \begin{split}
+            &\frac{10^x-1}{x} = 2.3026 \\
+            &10^x = 1 + 2.3026x
+        \end{split}
+    \end{equation}
+    \end{columns}
+\end{frame}
+
+\end{document}
