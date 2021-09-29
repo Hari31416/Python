@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.18)  29 SEP 2021 12:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.18)  29 SEP 2021 22:36
 entering extended mode
 **c:/Users/harik/Desktop/Python/Codes/presentation/LaTeX/ppt.tex
 (c:/Users/harik/Desktop/Python/Codes/presentation/LaTeX/ppt.tex
@@ -587,30 +587,30 @@ Package shellesc Info: Restricted shell escape enabled on input line 77.
 \c@csvcol=\count338
 \csv@out=\write5
 ) (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemeMadrid.sty (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthemewhale.sty) (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthemeorchid.sty) (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnerthemerounded.sty) (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerouterthemeinfolines.sty))
-LaTeX Font Info:    Trying to load font information for OT1+pag on input line 12.
+LaTeX Font Info:    Trying to load font information for OT1+pag on input line 13.
  (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pag.fd
 File: ot1pag.fd 2001/06/04 font definitions for OT1/pag.
 ) (ppt.aux)
 \openout1 = `ppt.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -665,7 +665,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 12.
+Package hyperref Info: Link coloring OFF on input line 13.
  (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
@@ -675,55 +675,55 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count345
 )
-LaTeX Info: Redefining \ref on input line 12.
-LaTeX Info: Redefining \pageref on input line 12.
-LaTeX Info: Redefining \nameref on input line 12.
+LaTeX Info: Redefining \ref on input line 13.
+LaTeX Info: Redefining \pageref on input line 13.
+LaTeX Info: Redefining \nameref on input line 13.
  (ppt.out) (ppt.out)
 \@outlinefile=\write6
 \openout6 = `ppt.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 12.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 13.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 12.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 13.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/pbk/m/n on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 12.
+(Font)                  OT1/cmss/m/n --> OT1/pbk/m/n on input line 13.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/pag/b/n on input line 12.
+(Font)                  OT1/cmr/bx/n --> OT1/pag/b/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/pag/b/n on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 12.
+(Font)                  OT1/cmr/bx/n --> OT1/pag/b/n on input line 13.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/pag/m/n on input line 12.
+(Font)                  OT1/cmss/m/n --> OT1/pag/m/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/pag/m/n on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 12.
+(Font)                  OT1/cmss/bx/n --> OT1/pag/m/n on input line 13.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/pag/m/it on input line 12.
+(Font)                  OT1/cmr/m/it --> OT1/pag/m/it on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/pag/m/it on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 12.
+(Font)                  OT1/cmr/bx/it --> OT1/pag/m/it on input line 13.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 12.
+(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 12.
+(Font)                  OT1/cmtt/m/n --> OT1/pcr/m/n on input line 13.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/pag/m/n --> OT1/pag/b/n on input line 12.
+(Font)                  OT1/pag/m/n --> OT1/pag/b/n on input line 13.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/pag/m/it --> OT1/pag/b/it on input line 12.
+(Font)                  OT1/pag/m/it --> OT1/pag/b/it on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/pbk/b/n on input line 12.
+(Font)                  OT1/cmss/b/n --> OT1/pbk/b/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/pag/b/n --> OT1/pag/b/n on input line 12.
+(Font)                  OT1/pag/b/n --> OT1/pag/b/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/pag/m/n --> OT1/pag/b/n on input line 12.
+(Font)                  OT1/pag/m/n --> OT1/pag/b/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/pag/m/it --> OT1/pag/b/it on input line 12.
+(Font)                  OT1/pag/m/it --> OT1/pag/b/it on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/pcr/m/n --> OT1/pcr/b/n on input line 12.
+(Font)                  OT1/pcr/m/n --> OT1/pcr/b/n on input line 13.
  (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-bibliography-dictionary-English.dict
@@ -741,20 +741,20 @@ Dictionary: translator-theorem-dictionary, Language: English
 {C:/Users/harik/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (ppt.toc) [2
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 37.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 38.
  (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 37.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
  (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `OT1/pag/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/pag/m/sl' tried instead on input line 37.
+(Font)              Font shape `OT1/pag/m/sl' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OT1/pag/m/it' in size <8> not available
-(Font)              Font shape `OT1/pag/m/sl' tried instead on input line 37.
+(Font)              Font shape `OT1/pag/m/sl' tried instead on input line 38.
 LaTeX Font Info:    Font shape `OT1/pag/m/it' in size <6> not available
-(Font)              Font shape `OT1/pag/m/sl' tried instead on input line 37.
+(Font)              Font shape `OT1/pag/m/sl' tried instead on input line 38.
  [3
 
 ] [4
@@ -775,12 +775,104 @@ LaTeX Font Info:    Font shape `OT1/pag/m/it' in size <6> not available
 
 ] [12
 
+] [13
+
 ]
 LaTeX Font Info:    Font shape `OT1/pag/m/it' in size <5> not available
-(Font)              Font shape `OT1/pag/m/sl' tried instead on input line 105.
- [13
+(Font)              Font shape `OT1/pag/m/sl' tried instead on input line 106.
 
-] [14
+Overfull \vbox (5.60167pt too high) detected at line 106
+ []
+
+[14
+
+]
+Overfull \vbox (5.60167pt too high) detected at line 106
+ []
+
+[15
+
+] [16
+
+] [17
+
+] [18
+
+] [19
+
+] [20
+
+]
+LaTeX Font Info:    Font shape `OT1/pag/m/it' in size <10> not available
+(Font)              Font shape `OT1/pag/m/sl' tried instead on input line 197.
+LaTeX Font Info:    Font shape `OT1/pag/m/it' in size <7> not available
+(Font)              Font shape `OT1/pag/m/sl' tried instead on input line 197.
+ [21
+
+] [22
+
+] [23
+
+] [24
+
+] [25
+
+] [26
+
+]
+<img/real.png, id=801, 528.97626pt x 381.425pt>
+File: img/real.png Graphic file (type png)
+<use img/real.png>
+Package pdftex.def Info: img/real.png  used on input line 262.
+(pdftex.def)             Requested size: 239.60298pt x 129.24045pt.
+
+Overfull \vbox (8.05367pt too high) detected at line 262
+ []
+
+[27
+
+ <./img/real.png>]
+File: img/real.png Graphic file (type png)
+<use img/real.png>
+Package pdftex.def Info: img/real.png  used on input line 262.
+(pdftex.def)             Requested size: 239.60298pt x 129.24045pt.
+
+Overfull \vbox (8.05367pt too high) detected at line 262
+ []
+
+[28
+
+]
+<img/imaginary.png, id=858, 531.9875pt x 381.425pt>
+File: img/imaginary.png Graphic file (type png)
+<use img/imaginary.png>
+Package pdftex.def Info: img/imaginary.png  used on input line 274.
+(pdftex.def)             Requested size: 239.60321pt x 142.16101pt.
+ [29
+
+ <./img/imaginary.png>]
+File: img/imaginary.png Graphic file (type png)
+<use img/imaginary.png>
+Package pdftex.def Info: img/imaginary.png  used on input line 274.
+(pdftex.def)             Requested size: 239.60321pt x 142.16101pt.
+ [30
+
+]
+<img/all.png, id=912, 618.31pt x 362.35374pt>
+File: img/all.png Graphic file (type png)
+<use img/all.png>
+Package pdftex.def Info: img/all.png  used on input line 282.
+(pdftex.def)             Requested size: 239.60567pt x 140.41615pt.
+ [31
+
+ <./img/all.png>] [32
+
+]
+LaTeX Font Info:    Font shape `OT1/pag/b/n' in size <10.95> not available
+(Font)              Font shape `OT1/pag/db/n' tried instead on input line 302.
+ [33
+
+] [34
 
 ]
 \tf@nav=\write7
@@ -794,20 +886,20 @@ LaTeX Font Info:    Font shape `OT1/pag/m/it' in size <5> not available
 
  (ppt.aux)
 Package rerunfilecheck Info: File `ppt.out' has not changed.
-(rerunfilecheck)             Checksum: AED67018CAF18F5E420A47C2891E504A;509.
+(rerunfilecheck)             Checksum: B8B713AFC442554EE3BB76509C0DC751;1142.
  ) 
 Here is how much of TeX's memory you used:
- 24629 strings out of 478927
- 484503 string characters out of 2852535
- 773023 words of memory out of 3000000
- 41910 multiletter control sequences out of 15000+600000
- 427397 words of font info for 69 fonts, out of 8000000 for 9000
+ 24806 strings out of 478927
+ 486753 string characters out of 2852535
+ 774287 words of memory out of 3000000
+ 42023 multiletter control sequences out of 15000+600000
+ 437378 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,19n,124p,484b,600s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagk8a.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagko8a.pfb>
-Output written on ppt.pdf (14 pages, 160636 bytes).
+ 128i,19n,124p,484b,625s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagd8a.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagk8a.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagko8a.pfb>
+Output written on ppt.pdf (34 pages, 394177 bytes).
 PDF statistics:
- 478 PDF objects out of 1000 (max. 8388607)
- 37 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1085 PDF objects out of 1200 (max. 8388607)
+ 92 named destinations out of 1000 (max. 500000)
+ 194 words of extra memory for PDF output out of 10000 (max. 10000000)
 
