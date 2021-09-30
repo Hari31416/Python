@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.18)  29 SEP 2021 22:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.18)  30 SEP 2021 09:15
 entering extended mode
 **c:/Users/harik/Desktop/Python/Codes/presentation/LaTeX/ppt.tex
 (c:/Users/harik/Desktop/Python/Codes/presentation/LaTeX/ppt.tex
@@ -817,59 +817,59 @@ LaTeX Font Info:    Font shape `OT1/pag/m/it' in size <7> not available
 
 ] [25
 
-] [26
-
 ]
-<img/real.png, id=801, 528.97626pt x 381.425pt>
+<img/real.png, id=781, 528.97626pt x 381.425pt>
 File: img/real.png Graphic file (type png)
 <use img/real.png>
-Package pdftex.def Info: img/real.png  used on input line 262.
+Package pdftex.def Info: img/real.png  used on input line 261.
 (pdftex.def)             Requested size: 239.60298pt x 129.24045pt.
 
-Overfull \vbox (8.05367pt too high) detected at line 262
+Overfull \vbox (8.05367pt too high) detected at line 261
  []
 
-[27
+[26
 
  <./img/real.png>]
 File: img/real.png Graphic file (type png)
 <use img/real.png>
-Package pdftex.def Info: img/real.png  used on input line 262.
+Package pdftex.def Info: img/real.png  used on input line 261.
 (pdftex.def)             Requested size: 239.60298pt x 129.24045pt.
 
-Overfull \vbox (8.05367pt too high) detected at line 262
+Overfull \vbox (8.05367pt too high) detected at line 261
  []
 
-[28
+[27
 
 ]
-<img/imaginary.png, id=858, 531.9875pt x 381.425pt>
+<img/imaginary.png, id=838, 531.9875pt x 381.425pt>
 File: img/imaginary.png Graphic file (type png)
 <use img/imaginary.png>
-Package pdftex.def Info: img/imaginary.png  used on input line 274.
+Package pdftex.def Info: img/imaginary.png  used on input line 273.
 (pdftex.def)             Requested size: 239.60321pt x 142.16101pt.
- [29
+ [28
 
  <./img/imaginary.png>]
 File: img/imaginary.png Graphic file (type png)
 <use img/imaginary.png>
-Package pdftex.def Info: img/imaginary.png  used on input line 274.
+Package pdftex.def Info: img/imaginary.png  used on input line 273.
 (pdftex.def)             Requested size: 239.60321pt x 142.16101pt.
- [30
+ [29
 
 ]
-<img/all.png, id=912, 618.31pt x 362.35374pt>
+<img/all.png, id=892, 618.31pt x 362.35374pt>
 File: img/all.png Graphic file (type png)
 <use img/all.png>
-Package pdftex.def Info: img/all.png  used on input line 282.
+Package pdftex.def Info: img/all.png  used on input line 281.
 (pdftex.def)             Requested size: 239.60567pt x 140.41615pt.
- [31
+ [30
 
- <./img/all.png>] [32
+ <./img/all.png>] [31
+
+] [32
 
 ]
 LaTeX Font Info:    Font shape `OT1/pag/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/pag/db/n' tried instead on input line 302.
+(Font)              Font shape `OT1/pag/db/n' tried instead on input line 314.
  [33
 
 ] [34
@@ -886,20 +886,20 @@ LaTeX Font Info:    Font shape `OT1/pag/b/n' in size <10.95> not available
 
  (ppt.aux)
 Package rerunfilecheck Info: File `ppt.out' has not changed.
-(rerunfilecheck)             Checksum: B8B713AFC442554EE3BB76509C0DC751;1142.
+(rerunfilecheck)             Checksum: C0D679D2B160C78B04D81B4D7A5B906F;1246.
  ) 
 Here is how much of TeX's memory you used:
- 24806 strings out of 478927
- 486753 string characters out of 2852535
- 774287 words of memory out of 3000000
- 42023 multiletter control sequences out of 15000+600000
+ 24840 strings out of 478927
+ 487674 string characters out of 2852535
+ 774385 words of memory out of 3000000
+ 42056 multiletter control sequences out of 15000+600000
  437378 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,19n,124p,484b,625s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 128i,19n,124p,484b,662s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagd8a.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagk8a.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagko8a.pfb>
-Output written on ppt.pdf (34 pages, 394177 bytes).
+Output written on ppt.pdf (34 pages, 395397 bytes).
 PDF statistics:
- 1085 PDF objects out of 1200 (max. 8388607)
- 92 named destinations out of 1000 (max. 500000)
- 194 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1093 PDF objects out of 1200 (max. 8388607)
+ 93 named destinations out of 1000 (max. 500000)
+ 202 words of extra memory for PDF output out of 10000 (max. 10000000)
 
