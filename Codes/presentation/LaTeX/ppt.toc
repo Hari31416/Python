@@ -6,7 +6,7 @@
 \beamer@subsectionintoc {2}{2}{Step 2}{16}{0}{2}
 \beamer@subsectionintoc {2}{3}{Step 3}{17}{0}{2}
 \beamer@subsectionintoc {2}{4}{Step 4}{19}{0}{2}
-\beamer@subsectionintoc {2}{5}{Result}{31}{0}{2}
-\beamer@sectionintoc {3}{Applications}{32}{0}{3}
-\beamer@sectionintoc {4}{Euler's Identity}{33}{0}{4}
-\beamer@sectionintoc {5}{References and Links}{34}{0}{5}
+\beamer@subsectionintoc {2}{5}{Result}{30}{0}{2}
+\beamer@sectionintoc {3}{Applications}{31}{0}{3}
+\beamer@sectionintoc {4}{Euler's Identity}{38}{0}{4}
+\beamer@sectionintoc {5}{References and Links}{39}{0}{5}

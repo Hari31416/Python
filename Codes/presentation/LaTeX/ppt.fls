@@ -1493,10 +1493,6 @@ INPUT .\img\real.png
 INPUT .\img\real.png
 INPUT .\img\real.png
 INPUT .\img\real.png
-INPUT .\img\real.png
-INPUT .\img\real.png
-INPUT img\real.png
-INPUT .\img\real.png
 INPUT .\img\imaginary.png
 INPUT .\img\imaginary.png
 INPUT img\imaginary.png
@@ -1516,6 +1512,10 @@ INPUT .\img\all.png
 INPUT .\img\all.png
 INPUT .\img\all.png
 INPUT C:\Users\harik\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\avantgar\pagd7t.tfm
+INPUT C:\Users\harik\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\avantgar\pagd7t.tfm
+INPUT C:\Users\harik\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\avantgar\pagd7t.tfm
+INPUT C:\Users\harik\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\avantgar\pagd7t.vf
+INPUT C:\Users\harik\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\avantgar\pagd8r.tfm
 INPUT C:\Users\harik\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\avantgar\pagd7t.vf
 INPUT C:\Users\harik\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\avantgar\pagd8r.tfm
 OUTPUT ppt.nav

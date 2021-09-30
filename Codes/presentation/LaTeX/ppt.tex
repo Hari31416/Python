@@ -5,6 +5,7 @@
 \usepackage{bookman}
 \usepackage{csvsimple}
 \usetheme{Madrid}
+\definecolor{ginger}{rgb}{0.69, 0.4, 0.0}
 % \usecolortheme{seahorse}
 \title{Mathematics Presentation}
 \subtitle{Euler's Equation}
@@ -34,34 +35,32 @@ There are a lot of ways to prove this. Some of them are:
 \item <3-> Using Calculus
 \item <4-> Using Polar Coordinates
 \end{itemize}
-\onslide<5-> Here, I'll use basic arithmatic to prove this.
+\onslide<5-> Here, We'll use basic arithmatic and algebra to prove it.
 \end{frame}
 \subsection{Procedure}
 \begin{frame}
     \frametitle{Procedure}
-    \onslide<1->The recipe, I'll follow is this:
+    \onslide<1->The steps, we'll follow are these:
     \begin{enumerate}
-        \item <2->  I'll show that for a small number $x$, we have: $$ 10^x = 1 + 2.3026x$$
+        \item <2->  We'll show that for a small number $x$, we have: $$ 10^x = 1 + 2.3026x$$
         \item <3-> Which, after changing 10 to $e$ gives: $$ e^x = 1+x$$
-        \item <4-> Now, I'll make an assumption that the above relation holds even if $x$ is a complex number. Specifically, $$e^{ix} = 1+ix$$
-        \item <5-> Using this assumption and the rule of complex multiplication, I'll show that we do get Euler's equation \ref{eq:1}.
+        \item <4-> Now, we'll assume that the above relation holds even if $x$ is a complex number. Specifically, $$e^{ix} = 1+ix$$
+        \item <5-> Using this assumption and the rule of complex multiplication, we'll show that we do get Euler's equation \ref{eq:1}.
     \end{enumerate}
 \end{frame}
 \section{Proof}
 \subsection{Step 1}
 \begin{frame}
 \frametitle{Step 1}
-First, I'll show that for a small number $x$, we have:
+First, we have to show that for a small number $x$, we have:
 \begin{equation}
     \label{eq:2}
     10^x = 1 + 2.3026x
 \end{equation}
-So, how to show this with just arithmatic? What I'll do is that I'll start with 10 and keep taking the square root of it as we already know how to take square root of any number.
-Doing this, I get the following table:
+To get this what we could do is that we'll start with 10 and keep taking the square root of it by usual method. Doing this a number of times will give us the following table.
 \end{frame}
-   
 \begin{frame}
-    \frametitle{Step 1}
+    \frametitle{Step 1 : Cont.}
     \begin{columns}
     \column{0.5\textwidth}
     \begin{table}[]
@@ -95,7 +94,7 @@ Doing this, I get the following table:
     \end{table}
     \pause
     \column{0.5\textwidth}
-    As we can see, as $x$ gets smaller, the value of $\frac{10^x-1}{x}$ goes to a constant value of 2.3026. Which suggests that for a small $x$, we'll have:
+    As we can see, as $x$ gets smaller, the value of $\frac{10^x-1}{x}$ approaches a constant value of 2.3026. Which suggests that for a small $x$, we'll have:
     \begin{equation}
         \begin{split}
             &\frac{10^x-1}{x} = 2.3026 \\
@@ -108,7 +107,7 @@ Doing this, I get the following table:
 \subsection{Step 2}
 \begin{frame}
     \frametitle{Step 2}
-    Here we'll change the base 10 to e. To do this, we know that:
+    Here we'll change the base 10 to e. We know that:
     \begin{equation}
         \begin{split}
             a^b &= e^{\ln{a^b}}\\
@@ -117,7 +116,7 @@ Doing this, I get the following table:
             &= e^{2.3026x} = 1+2.3026x
         \end{split}
     \end{equation}
-Changing $2.3026x$ to $y$ and gives:
+Substituting $2.3026x$ to $y$ gives:
 \begin{equation}
     \label{eq:5}
     e^y = 1 +y
@@ -127,13 +126,13 @@ Changing $2.3026x$ to $y$ and gives:
 \subsection{Step 3}
 \begin{frame}
     \frametitle{Step 3}
-    To proceed further and calculate the complex powers of $e$ we'll make the assumption that for small $y$ the equation \ref{eq:5} is valid even for complex y, say, $ix$. That is:
+    To proceed further and calculate the complex powers of $e$ we'll make an assumption that for small $y$ the equation \ref{eq:5} is valid even for complex number y, say, $ix$. That is:
     \begin{equation}
         \label{eq:6}
         e^{ix} = 1 + ix
     \end{equation}
 \pause
-We'll also need rule to multiply two complex numbers. The rules a straight forward. Let $a+ib$ and $c+id$ be two complex number. Then there multiplication is:
+We'll also need a rule to multiply two complex numbers. The rule is straight forward. Let $a+ib$ and $c+id$ be two complex number. Then there multiplication is:
 \begin{equation*}
     \begin{split}
         (a+ib)\times (c+id) &=ac + a\times id + ib\times c + ib\times id \\
@@ -156,11 +155,11 @@ Using $i^2 = -1$ we get:
         e^{0.00003052i} = 1 + 0.00003052i
     \end{equation}
 \pause
-Now, we'll repeat the step 1 in exact opposite manner. That is, we'll multiply the complex number defined in equation \ref{eq:8} and keep multiplying it to get other complex numbers with greater value of $x$. For example, multiplying the number \ref{eq:8} gives a number equivalent to $e^{\frac{i}{2^{14}}}$. \\ If we keep multiplying, we'll get the following table.
+Now, we'll repeat the step 1 in exact opposite manner. That is, we'll multiply the complex number defined in equation \ref{eq:8} and keep multiplying it to get another complex numbers with greater value of $x$ and continue the process till we get x=1. For example, multiplying the number \ref{eq:8} with itself gives a number equivalent to $e^{\frac{i}{2^{14}}}$. \\ If we keep multiplying, we'll get the following table.
 \end{frame}
 
 \begin{frame}
-    \frametitle{Step 4}
+    \frametitle{Step 4: Cont.}
     \begin{columns}
     \column{0.5\textwidth}
     \begin{table}
@@ -192,17 +191,16 @@ Now, we'll repeat the step 1 in exact opposite manner. That is, we'll multiply t
     \pause
     \column{0.5\textwidth}
     \small
-    The table to the left shows the real and imaginary part of $e^{ix}$ for the given x. First thing that we see from here is that the real part is decreasing and the imaginary part is increasing. In fact, if we keep multiplying the numbers, the real and imaginary part repeat itself without ever getting greater than 1.
+    The table to the left shows the real and imaginary part of $e^{ix}$ for the given x. First thing that we see from here is that the real part is decreasing and the imaginary part is increasing. We can keep multiplying and we'll see that the real and imaginary part are oscillating from -1 to 1.
     \end{columns}
 \end{frame}
 
 \begin{frame}
-    \frametitle{Step 4}
+    \frametitle{Step 4: Cont.}
     \begin{columns}
     \column{0.5\textwidth}
     \small
-    As can be seen by table to the right.
-    Here, this behaviour using $e^{\frac{i}{8}}$ as base number and then calculating $e^{\frac{2i}{8}}$, $e^{\frac{3i}{8}}$ and so on. Note that any number in the form of $e^{\frac{in}{8}}$, where n is an integer can easily be calculated using the table 2.
+    To see this more clearly, we'll use $e^{\frac{i}{8}}$ as the base number and calculate $e^{\frac{2i}{8}}$, $e^{\frac{3i}{8}}$ and so on. Note that any number in the form of $e^{\frac{in}{8}}$, where n is an integer can easily be calculated using the table 2.
     
     \column{0.5\textwidth}
     \begin{table}
@@ -237,7 +235,7 @@ Now, we'll repeat the step 1 in exact opposite manner. That is, we'll multiply t
 \end{frame}
 
 \begin{frame}
-    \frametitle{Step 4}
+    \frametitle{Step 4: Cont.}
     So it turns out that the the complex number $e^{ix}$ is a periodic function. If we continue for even larger value of x, we find that for increasing x, the real part of $e^{ix}$ is decreasing, reaching upto -1 and then start to increase again reaching to value of 1. The exact opposite happens for the virtual part of $e^{ix}$ which is increasing and then start to decrease.
     So, we may write $e^{ix}$ as: 
     \begin{equation}
@@ -245,14 +243,13 @@ Now, we'll repeat the step 1 in exact opposite manner. That is, we'll multiply t
         e^{ix} = f(x) + g(x)i
     \end{equation}
     \pause
-    We already know some functions which behaves the same way the real and imaginary part of $e^{ix}$ does. These functions are $\cos{x}$ and $\sin{x}$ respectively. The only question we need to address is this: Are $f(x)$ and $g(x)$ these familiar functions or some other functions entirely? Again we find that these functions are indeed the same.
+    We already know some functions which behave the same way the real and imaginary part of $e^{ix}$ do. These functions are $\cos{x}$ and $\sin{x}$ respectively. The only question we need to address is this: Are $f(x)$ and $g(x)$ these familiar functions or some other functions entirely? We can show that these functions are indeed the same.
 \end{frame}
 
 \begin{frame}
-    \frametitle{Step 4}
-    This equivalence can be shown by calculating the time period of the functions $f(x)$ and $g(x)$. However, we can also show it by plotting $f(x)$ and $\cos{x}$ on the same graph and $g(x)$ and $\sin{x}$ on the same graph. The above figure \ref{fig:real} is one of them.
+    \frametitle{Step 4: Cont.}
+    This equivalence can be shown by calculating the time period of the functions $f(x)$ and $g(x)$. However, we can also show it by plotting $f(x)$ and $\cos{x}$ on the same graph and $g(x)$ and $\sin{x}$ on the same graph. The figure \ref{fig:real} is one of them.
     We see that $f(x)$ is indeed equivalent to $\sin{x}$.
-    \pause
     \begin{figure}
         \centering
         \includegraphics[width=0.7\textwidth, height=0.5\textheight]{img/real.png}
@@ -261,8 +258,8 @@ Now, we'll repeat the step 1 in exact opposite manner. That is, we'll multiply t
 \end{frame}
 
 \begin{frame}
-    \frametitle{Step 4}
-    The same is done for $g(x)$ and $\sin{x}$.
+    \frametitle{Step 4: Cont.}
+    The same can be done for $g(x)$ and $\sin{x}$.
         \begin{figure}
         \centering
         \includegraphics[width=0.7\textwidth, height=0.55\textheight]{img/imaginary.png}
@@ -272,6 +269,7 @@ Now, we'll repeat the step 1 in exact opposite manner. That is, we'll multiply t
     We can see that $g(x)$ is equivalent to $\sin{x}$.
 \end{frame}
 \begin{frame}
+    \frametitle{Step 4: Cont.}
     Finally I'm plotting the real and imaginary part of $e^{ix}$ together with $\cos{x}$ and $\sin{x}$ on the same axis. The plot shows a perfect fit.
     \begin{figure}
         \centering
@@ -283,7 +281,7 @@ Now, we'll repeat the step 1 in exact opposite manner. That is, we'll multiply t
 \subsection{Result}
 \begin{frame}
     \frametitle{Result}
-    By using simple arithmatic and algebra, we generated the tables and plotted their data. We find that even these elementary method gave us one of the most imporatnt relation in complex numbers, namely the Euler's relation:
+    By using simple arithmatic and algebra, we generated the tables and plotted their data. We find that even these elementary method gave us one of the most important relation in complex numbers, namely the Euler's relation:
     \begin{equation*}
             e^{ix} = \cos{x} + i\sin{x}
     \end{equation*}
@@ -292,25 +290,28 @@ Now, we'll repeat the step 1 in exact opposite manner. That is, we'll multiply t
 \section{Applications}
 \begin{frame}
     \frametitle{Applications}
-    There are a tons of applications of Euler's equation. Here, I've given just a few.
+    \onslide<1-> There are a tons of applications of Euler's equation. Here, I've given just a few.
     \begin{enumerate}
-        \item Writing a complex number in a form which is easier to handle, namely, in the polar form. $$x+iy = re^{i\theta}$$
-        \item Deriving Euler's Identity
-        \item Defining the Hyperbolic Functions $\cosh{x}$ and $\sinh{x}$ 
-        \item Proving De Moivre’s Theorem 
-        \item Complex Logarithm and General Complex Exponential
+        \color{blue}
+        \item <2-> Writing a complex number in a form which is easier to handle, namely, the polar form. $$x+iy = re^{i\theta}$$ 
+        \item <3-> Deriving Euler's Identity 
+        \item <4-> Defining the Hyperbolic Functions $\cosh{x}$ and $\sinh{x}$ 
+        \item <5-> Proving De Moivre’s Theorem 
+        \item <6-> Complex Logarithm and General Complex Exponential
+        \item <7-> Solving Some Physics Problem more Efficiently
     \end{enumerate}
 \end{frame}
 
 \section{Euler's Identity}
 \begin{frame}
     \frametitle{Euler's Identity}
-    It will be a kind of blasphamy to discuss Euler's equation but leave out Euler's identity given by:
+    \color{ginger}
+    It will be a kind of blasphamy to discuss Euler's equation but leave out Euler's identity which is given by:
     \begin{equation}
         \label{el-id}
-        e^{i\pi} + 1 = 0
+       \mathbf{e^{i\pi} + 1 = 0}
     \end{equation}
-The equation \ref{el-id} above is considered as \textbf{the most beautiful equation} in Mathematics. The identity can be proved putting $x=\pi$ into Euler's equation \ref{eq:1} So I'm not proving it here.
+The equation \ref{el-id} above is considered as \textbf{the most beautiful equation} in Mathematics for obvious reasons. The identity can be proved putting $x=\pi$ into Euler's equation \ref{eq:1}.
 \end{frame}
 
 \section{References and Links}
@@ -321,9 +322,10 @@ The equation \ref{el-id} above is considered as \textbf{the most beautiful equat
             \item \href{https://www.feynmanlectures.caltech.edu/I_22.html}{Feynman Lectures on Physics Volume I Chapter 22}
             \item \href{https://mathvault.ca/euler-formula/}{Math Vault}
             \item \href{https://en.wikipedia.org/wiki/Eulers_formula}{Euler's formula: Wikipedia}
-        \end{enumerate}
+        \end{enumerate} \vspace{1cm}
         \item Source Codes \begin{enumerate}
-            \item The Source Code
+            \item \href{https://github.com/Hari31416/Python/tree/main/Codes/presentation}{Github Folder for The Source Codes}
+            \item \href{https://hari31416.github.io/ppt/}{Jupyter Notebook In HTML with all the Tables and Plots}
         \end{enumerate}
     \end{itemize}
 \end{frame}
