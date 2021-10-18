@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/harik/Desktop/Python/Codes/Academics/Algorithms/manim/media/videos/temp/720p30/partial_movie_files/FirstGIF/1342159004_2921962426_456384599.mp4'
+file 'file:C:/Users/harik/Desktop/Python/Codes/Academics/Algorithms/manim/media/videos/temp/720p30/partial_movie_files/FirstGIF/1353618911_479252743_239996219.mp4'
+file 'file:C:/Users/harik/Desktop/Python/Codes/Academics/Algorithms/manim/media/videos/temp/720p30/partial_movie_files/FirstGIF/1353618911_3147662428_1188315457.mp4'
+file 'file:C:/Users/harik/Desktop/Python/Codes/Academics/Algorithms/manim/media/videos/temp/720p30/partial_movie_files/FirstGIF/1353618911_3493041802_354527354.mp4'
