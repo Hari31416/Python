@@ -99,6 +99,7 @@ ent_width = tk.Entry(frm_input, bg=background_color, borderwidth=3)
 ent_width.grid(row=1, column=1, sticky="")
 
 # Buttons
+# Open Button
 btn_open = tk.Button(
     frm_buttons,
     text="Open",
@@ -109,6 +110,7 @@ btn_open = tk.Button(
     command=show_image,
 )
 btn_open.grid(row=0, column=0, sticky="ns", ipadx=5, ipady=5, padx=10, pady=5)
+# Show Resized Image Button
 btn_show = tk.Button(
     frm_buttons,
     text="Resize",
@@ -119,6 +121,7 @@ btn_show = tk.Button(
     command=show_resized_image,
 )
 btn_show.grid(row=1, column=0, sticky="ns", ipadx=5, ipady=5, padx=10, pady=5)
+# Save Resized Image Button
 btn_resize = tk.Button(
     frm_buttons,
     text="Save Resized Image",
@@ -129,6 +132,17 @@ btn_resize = tk.Button(
     command=save_resized_image,
 )
 btn_resize.grid(row=2, column=0, sticky="ns", ipadx=5, ipady=5, padx=10, pady=5)
+# Quit Button
+btn_quit = tk.Button(
+    frm_buttons,
+    text="Quit",
+    font=("Arial", 13),
+    relief=tk.RAISED,
+    borderwidth=5,
+    bg=background_color,
+    command=window.destroy,
+)
+btn_quit.grid(row=3, column=0, sticky="ns", padx=10, pady=5)
 
 # The Image
 lbl_image = tk.Label(frm_image)
