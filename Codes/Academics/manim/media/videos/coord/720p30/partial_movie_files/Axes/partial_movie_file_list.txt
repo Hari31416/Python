@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/harik/Desktop/Python/Codes/Academics/manim/media/videos/coord/720p30/partial_movie_files/Axes/1342159004_3493041802_3502675527.mp4'
+file 'file:C:/Users/harik/Desktop/Python/Codes/Academics/manim/media/videos/coord/720p30/partial_movie_files/Axes/1353618911_2978463162_2916734133.mp4'
+file 'file:C:/Users/harik/Desktop/Python/Codes/Academics/manim/media/videos/coord/720p30/partial_movie_files/Axes/1353618911_367636023_1258060853.mp4'
+file 'file:C:/Users/harik/Desktop/Python/Codes/Academics/manim/media/videos/coord/720p30/partial_movie_files/Axes/1353618911_1334345678_2410933610.mp4'
+file 'file:C:/Users/harik/Desktop/Python/Codes/Academics/manim/media/videos/coord/720p30/partial_movie_files/Axes/1353618911_4101887368_2084287773.mp4'

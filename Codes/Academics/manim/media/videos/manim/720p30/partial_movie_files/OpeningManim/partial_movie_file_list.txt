@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:c:/Users/harik/Desktop/Python/Codes/Academics/manim/media/videos/manim/720p30/partial_movie_files/OpeningManim/1342159004_3681881504_4059817433.mp4'
+file 'file:c:/Users/harik/Desktop/Python/Codes/Academics/manim/media/videos/manim/720p30/partial_movie_files/OpeningManim/1353618911_3493041802_229440709.mp4'
+file 'file:c:/Users/harik/Desktop/Python/Codes/Academics/manim/media/videos/manim/720p30/partial_movie_files/OpeningManim/1353618911_1245844768_279517403.mp4'
+file 'file:c:/Users/harik/Desktop/Python/Codes/Academics/manim/media/videos/manim/720p30/partial_movie_files/OpeningManim/1353618911_3493041802_3798038644.mp4'
+file 'file:c:/Users/harik/Desktop/Python/Codes/Academics/manim/media/videos/manim/720p30/partial_movie_files/OpeningManim/1353618911_3076873427_492237193.mp4'
+file 'file:c:/Users/harik/Desktop/Python/Codes/Academics/manim/media/videos/manim/720p30/partial_movie_files/OpeningManim/1353618911_3493041802_209697901.mp4'
+file 'file:c:/Users/harik/Desktop/Python/Codes/Academics/manim/media/videos/manim/720p30/partial_movie_files/OpeningManim/1353618911_1986601071_3672630292.mp4'
+file 'file:c:/Users/harik/Desktop/Python/Codes/Academics/manim/media/videos/manim/720p30/partial_movie_files/OpeningManim/1353618911_3493041802_4244677155.mp4'
+file 'file:c:/Users/harik/Desktop/Python/Codes/Academics/manim/media/videos/manim/720p30/partial_movie_files/OpeningManim/1353618911_3712726245_3045992927.mp4'
+file 'file:c:/Users/harik/Desktop/Python/Codes/Academics/manim/media/videos/manim/720p30/partial_movie_files/OpeningManim/1353618911_3493041802_405035751.mp4'
