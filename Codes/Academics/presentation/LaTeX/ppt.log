@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.18)  30 SEP 2021 15:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.18)  25 OCT 2021 10:32
 entering extended mode
-**c:/Users/harik/Desktop/Python/Codes/presentation/LaTeX/ppt.tex
-(c:/Users/harik/Desktop/Python/Codes/presentation/LaTeX/ppt.tex
+**c:/Users/harik/Desktop/Python/Codes/Academics/presentation/LaTeX/ppt.tex
+(c:/Users/harik/Desktop/Python/Codes/Academics/presentation/LaTeX/ppt.tex
 LaTeX2e <2021-06-01> patch level 1
 L3 programming layer <2021-08-27> (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamer.cls
 Document Class: beamer 2021/05/26 v3.63 A class for typesetting presentations
@@ -586,11 +586,13 @@ Package shellesc Info: Restricted shell escape enabled on input line 77.
 \c@csvrow=\count337
 \c@csvcol=\count338
 \csv@out=\write5
-) (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemeMadrid.sty (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthemewhale.sty) (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthemeorchid.sty) (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnerthemerounded.sty) (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerouterthemeinfolines.sty))
-LaTeX Font Info:    Trying to load font information for OT1+pag on input line 14.
+) (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerthemeBerkeley.sty (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerouterthemesidebar.sty
+\beamer@sidebarwidth=\dimen297
+\beamer@headheight=\dimen298
+LaTeX Font Info:    Trying to load font information for OT1+pag on input line 18.
  (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pag.fd
 File: ot1pag.fd 2001/06/04 font definitions for OT1/pag.
-) (ppt.aux)
+)) (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnerthemerectangles.sty) (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthemewhale.sty) (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthemeorchid.sty)) (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthemewolverine.sty) (ppt.aux)
 \openout1 = `ppt.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -620,14 +622,14 @@ LaTeX Font Info:    ... okay on input line 14.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(10.95003pt, 342.2953pt, 10.95003pt)
+* h-part:(L,W,R)=(59.22636pt, 290.74263pt, 14.22636pt)
 * v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
 * \paperwidth=364.19536pt
 * \paperheight=273.14662pt
-* \textwidth=342.2953pt
+* \textwidth=290.74263pt
 * \textheight=244.6939pt
-* \oddsidemargin=-61.31996pt
-* \evensidemargin=-61.31996pt
+* \oddsidemargin=-13.04362pt
+* \evensidemargin=-13.04362pt
 * \topmargin=-72.26999pt
 * \headheight=14.22636pt
 * \headsep=0.0pt
@@ -649,13 +651,13 @@ LaTeX Font Info:    ... okay on input line 14.
 (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count339
-\scratchdimen=\dimen297
+\scratchdimen=\dimen299
 \scratchbox=\box81
 \nofMPsegments=\count340
 \nofMParguments=\count341
 \everyMPshowfont=\toks47
 \MPscratchCnt=\count342
-\MPscratchDim=\dimen298
+\MPscratchDim=\dimen300
 \MPnumerator=\count343
 \makeMPintoPDFobject=\count344
 \everyMPtoPDFconversion=\toks48
@@ -736,9 +738,9 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (C:\Users\harik\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (ppt.nav) [1
+) (ppt.nav) [1{C:/Users/harik/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
-{C:/Users/harik/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (ppt.toc) [2
+] (ppt.toc) [2
 
 ]
 LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
@@ -779,15 +781,15 @@ LaTeX Font Info:    Font shape `OT1/pag/m/it' in size <6> not available
 
 ]
 LaTeX Font Info:    Font shape `OT1/pag/m/it' in size <5> not available
-(Font)              Font shape `OT1/pag/m/sl' tried instead on input line 105.
+(Font)              Font shape `OT1/pag/m/sl' tried instead on input line 106.
 
-Overfull \vbox (5.60167pt too high) detected at line 105
+Overfull \vbox (9.99677pt too high) detected at line 106
  []
 
 [14
 
 ]
-Overfull \vbox (5.60167pt too high) detected at line 105
+Overfull \vbox (9.99677pt too high) detected at line 106
  []
 
 [15
@@ -804,52 +806,56 @@ Overfull \vbox (5.60167pt too high) detected at line 105
 
 ]
 LaTeX Font Info:    Font shape `OT1/pag/m/it' in size <10> not available
-(Font)              Font shape `OT1/pag/m/sl' tried instead on input line 196.
+(Font)              Font shape `OT1/pag/m/sl' tried instead on input line 197.
 LaTeX Font Info:    Font shape `OT1/pag/m/it' in size <7> not available
-(Font)              Font shape `OT1/pag/m/sl' tried instead on input line 196.
+(Font)              Font shape `OT1/pag/m/sl' tried instead on input line 197.
  [21
 
 ] [22
 
-] [23
+]
+Overfull \vbox (1.3414pt too high) detected at line 236
+ []
+
+[23
 
 ] [24
 
 ] [25
 
 ]
-<img/real.png, id=781, 528.97626pt x 381.425pt>
+<img/real.png, id=1064, 528.97626pt x 381.425pt>
 File: img/real.png Graphic file (type png)
 <use img/real.png>
-Package pdftex.def Info: img/real.png  used on input line 258.
-(pdftex.def)             Requested size: 239.60298pt x 129.24045pt.
+Package pdftex.def Info: img/real.png  used on input line 259.
+(pdftex.def)             Requested size: 203.51523pt x 112.07124pt.
 
-Overfull \vbox (7.41847pt too high) detected at line 258
+Overfull \vbox (13.46445pt too high) detected at line 259
  []
 
 [26
 
  <./img/real.png>]
-<img/imaginary.png, id=811, 531.9875pt x 381.425pt>
+<img/imaginary.png, id=1106, 531.9875pt x 381.425pt>
 File: img/imaginary.png Graphic file (type png)
 <use img/imaginary.png>
-Package pdftex.def Info: img/imaginary.png  used on input line 270.
-(pdftex.def)             Requested size: 239.60321pt x 142.16101pt.
+Package pdftex.def Info: img/imaginary.png  used on input line 271.
+(pdftex.def)             Requested size: 203.51297pt x 123.2807pt.
  [27
 
  <./img/imaginary.png>]
 File: img/imaginary.png Graphic file (type png)
 <use img/imaginary.png>
-Package pdftex.def Info: img/imaginary.png  used on input line 270.
-(pdftex.def)             Requested size: 239.60321pt x 142.16101pt.
+Package pdftex.def Info: img/imaginary.png  used on input line 271.
+(pdftex.def)             Requested size: 203.51297pt x 123.2807pt.
  [28
 
 ]
-<img/all.png, id=865, 618.31pt x 362.35374pt>
+<img/all.png, id=1184, 618.31pt x 362.35374pt>
 File: img/all.png Graphic file (type png)
 <use img/all.png>
-Package pdftex.def Info: img/all.png  used on input line 279.
-(pdftex.def)             Requested size: 239.60567pt x 140.41615pt.
+Package pdftex.def Info: img/all.png  used on input line 280.
+(pdftex.def)             Requested size: 203.51895pt x 119.26747pt.
  [29
 
  <./img/all.png>] [30
@@ -870,11 +876,11 @@ Package pdftex.def Info: img/all.png  used on input line 279.
 
 ]
 LaTeX Font Info:    Font shape `OT1/pag/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/pag/db/n' tried instead on input line 315.
+(Font)              Font shape `OT1/pag/db/n' tried instead on input line 316.
 LaTeX Font Info:    Font shape `OT1/pag/b/n' in size <8> not available
-(Font)              Font shape `OT1/pag/db/n' tried instead on input line 315.
+(Font)              Font shape `OT1/pag/db/n' tried instead on input line 316.
 LaTeX Font Info:    Font shape `OT1/pag/b/n' in size <6> not available
-(Font)              Font shape `OT1/pag/db/n' tried instead on input line 315.
+(Font)              Font shape `OT1/pag/db/n' tried instead on input line 316.
  [38
 
 ] [39
@@ -894,17 +900,17 @@ Package rerunfilecheck Info: File `ppt.out' has not changed.
 (rerunfilecheck)             Checksum: E1A5857BEC923345567E5550F219C5BF;1246.
  ) 
 Here is how much of TeX's memory you used:
- 24856 strings out of 478927
- 487842 string characters out of 2852535
- 774567 words of memory out of 3000000
- 42061 multiletter control sequences out of 15000+600000
- 439762 words of font info for 88 fonts, out of 8000000 for 9000
+ 24805 strings out of 478927
+ 487122 string characters out of 2852535
+ 779958 words of memory out of 3000000
+ 42005 multiletter control sequences out of 15000+600000
+ 441304 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,19n,124p,487b,662s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 128i,19n,124p,497b,645s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagd8a.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagk8a.pfb><C:/Users/harik/AppData/Local/Programs/MiKTeX/fonts/type1/urw/avantgar/uagko8a.pfb>
-Output written on ppt.pdf (39 pages, 430099 bytes).
+Output written on ppt.pdf (39 pages, 515724 bytes).
 PDF statistics:
- 1229 PDF objects out of 1440 (max. 8388607)
+ 1681 PDF objects out of 1728 (max. 8388607)
  103 named destinations out of 1000 (max. 500000)
- 202 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 154 words of extra memory for PDF output out of 10000 (max. 10000000)
 
