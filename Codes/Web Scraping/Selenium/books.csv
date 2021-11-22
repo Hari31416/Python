@@ -1,0 +1,24 @@
+,Book Name,Author,ISBN 13,ISBN,Number of Pages,Average Rating,Total Number of Ratings,Publication Date,Date Started,Date Completed
+0,Uncle Tom's Cabin,"Stowe, Harriet Beecher",,,438,3.88,210999,1852,not set,not set
+1,Hard Times,"Dickens, Charles",9780321107213,0321107217,353,3.54,62575,1854,not set,not set
+2,Oliver Twist,"Dickens, Charles",,,608,3.87,346486,1838,not set,not set
+3,A Tale of Two Cities,"Dickens, Charles",9780141439600,0141439602,489,3.86,860279,"Nov 26, 1859",not set,not set
+4,"I, Robot (Robot, #0.1)","Asimov, Isaac",9780553803709,0553803700,224,4.21,301975,"Dec 02, 1950",not set,not set
+5,The Time Machine,"Wells, H.G.",,,118,3.9,457906,"May 07, 1895",not set,not set
+6,"The Hobbit, Part One","Tolkien, J.R.R.",9780007926664,,230,4.3,368289,"Sep 21, 1937",not set,not set
+7,A Christmas Carol,"Dickens, Charles",9781561797462,1561797464,104,4.06,670995,"Dec 17, 1843",not set,not set
+8,Emma,"Austen, Jane",9780141439587,0141439580,474,4.02,727372,"Dec 23, 1815",not set,not set
+9,Sense and Sensibility,"Austen, Jane",,,409,4.08,1036753,"Oct 30, 1811",not set,not set
+10,Jane Eyre,"Brontë, Charlotte",9780142437209,0142437204,532,4.13,1783380,"Oct 16, 1847","Jan 04, 2020","Jan 25, 2020"
+11,Wuthering Heights by Emily Brontë,"Spear, Hilda D.",9780333372869,0333372867,96,4.13,24231,unknown,not set,not set
+12,Northanger Abbey,"Austen, Jane",9781593082642,1593082649,260,3.84,333910,1818,not set,not set
+13,Mansfield Park,"Austen, Jane",9780141439808,0141439807,488,3.86,306157,"Jul 01, 1814",not set,not set
+14,Persuasion,"Austen, Jane",9780192802637,0192802631,249,4.14,573693,Dec 1817,not set,not set
+15,Great Expectations,"Dickens, Charles",9780192833594,0192833596,544,3.78,705545,1860,not set,not set
+16,"Foundation (Foundation, #1)","Asimov, Isaac",9780553803716,0553803719,244,4.17,456637,"Aug 30, 1951",not set,Dec 2018
+17,Animal Farm,"Orwell, George",9780451526342,0451526341,141,3.97,3099609,"Aug 17, 1945",not set,not set
+18,Little Women,"Alcott, Louisa May",9780451529305,0451529308,449,4.11,1851790,1869,not set,not set
+19,"Alice's Adventures in Wonderland (Alice's Adventures in Wonderland, #1)","Carroll, Lewis",,,96,3.98,303664,"Nov 26, 1865",not set,not set
+20,"A Study in Scarlet (Sherlock Holmes, #1)","Doyle, Arthur Conan",9781420925531,1420925539,123,4.14,371879,Nov 1887,not set,not set
+21,"The Fellowship of the Ring (The Lord of the Rings, #1)","Tolkien, J.R.R.",9780618346257,0618346252,398,4.37,2520413,"Jul 29, 1954",not set,not set
+22,Pride and Prejudice,"Austen, Jane",,,279,4.27,3400875,"Mar 01, 1813",not set,Jan 2019
