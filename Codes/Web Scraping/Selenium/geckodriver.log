@@ -1049,3 +1049,26 @@ JavaScript error: https://warp.media.net/rtb/resource/adperformance.js?v=35e90bc
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1637766441644	geckodriver	INFO	Listening on 127.0.0.1:50639
+1637766444720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50640" "-no-remote" "-profile" "C:\\Users\\harik\\AppData\\Local\\Temp\\rust_mozprofile6a1bwk"
+1637766445626	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harik\\AppData\\Local\\Temp\\rust_mozprofile6a1bwk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50640/devtools/browser/1df8bc41-12af-4305-8cd1-7c3267eac1bd
+1637766449207	Marionette	INFO	Listening on port 50648
+1637766449579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637766454738	Marionette	INFO	Stopped listening on port 50648
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637766489510	geckodriver	INFO	Listening on 127.0.0.1:54865
+1637766492571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54866" "-no-remote" "-profile" "C:\\Users\\harik\\AppData\\Local\\Temp\\rust_mozprofile8Kbx98"
+1637766492967	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harik\\AppData\\Local\\Temp\\rust_mozprofile8Kbx98\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54866/devtools/browser/e269ebb9-3133-47a4-babb-10a03209c3b2
+1637766495611	Marionette	INFO	Listening on port 54877
+1637766495755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637766528455	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1637766637118	Marionette	INFO	Stopped listening on port 54877
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
