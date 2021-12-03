@@ -21,3 +21,39 @@ JavaScript error: https://www.mohfw.gov.in/, line 2634: TypeError: data[i] is un
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1638329422139	geckodriver	INFO	Listening on 127.0.0.1:64826
+1638329425217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64827" "-no-remote" "-profile" "C:\\Users\\harik\\AppData\\Local\\Temp\\rust_mozprofileSQxzIE"
+1638329426249	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harik\\AppData\\Local\\Temp\\rust_mozprofileSQxzIE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64827/devtools/browser/3ff0c84f-3b0b-4426-bf36-b6d6d1b62815
+1638329429743	Marionette	INFO	Listening on port 64832
+1638329430046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mohfw.gov.in/, line 2632: TypeError: data[i] is undefined
+1638329436650	Marionette	INFO	Stopped listening on port 64832
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638415822254	geckodriver	INFO	Listening on 127.0.0.1:49715
+1638415825333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49716" "-no-remote" "-profile" "C:\\Users\\harik\\AppData\\Local\\Temp\\rust_mozprofileXvuzRg"
+1638415826286	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harik\\AppData\\Local\\Temp\\rust_mozprofileXvuzRg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49716/devtools/browser/82c412e0-2474-4f5a-847c-013287feec5a
+1638415829731	Marionette	INFO	Listening on port 49723
+1638415830276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mohfw.gov.in/, line 2632: TypeError: data[i] is undefined
+1638415836883	Marionette	INFO	Stopped listening on port 49723
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638502307109	geckodriver	INFO	Listening on 127.0.0.1:59827
+1638502310153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59828" "-no-remote" "-profile" "C:\\Users\\harik\\AppData\\Local\\Temp\\rust_mozprofilelmXEtR"
+1638502312433	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\harik\\AppData\\Local\\Temp\\rust_mozprofilelmXEtR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59828/devtools/browser/4170ce92-4bc2-47a7-a7bf-a48c21e8791a
+1638502318055	Marionette	INFO	Listening on port 59835
+1638502318174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.mohfw.gov.in/, line 2632: TypeError: data[i] is undefined
+1638502325204	Marionette	INFO	Stopped listening on port 59835
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
