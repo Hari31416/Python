@@ -4,6 +4,8 @@ import os
 import shutil
 import re
 import sys
+import datetime
+import math
 
 
 class Music:
@@ -124,7 +126,7 @@ class Music:
             if value > min_num:
                 self.valid_folders.append(self.clean_names(key))
 
-    def move_files(self, min_num=3):
+    def move_files(self, min_num=3, by="album"):
         """
         The method which does all the work!
         """
@@ -134,7 +136,7 @@ class Music:
         for folder in self.valid_folders:
             os.makedirs(os.path.join(self.directory, folder), exist_ok=True)
             for file in os.listdir(self.directory):
-                album = self.get_song_param(self.audio_file(file), "album")
+                album = self.get_song_param(self.audio_file(file), by)
                 if album:
                     if self.strict:
                         if album == folder:
@@ -181,9 +183,8 @@ class FileManager(Music):
         """
         Removes the artist name from the song name
         """
-        artist = self.get_song_param(self.audio_file(raw_name), "artist")
         try:
-            pattern = f"{artist.split()[-1]}-"
+            pattern = r"-"
             song_name = raw_name[1 + re.search(pattern, raw_name).start() :]
             song_name = song_name.strip()
         except:
@@ -211,27 +212,36 @@ class FileManager(Music):
         for file in os.listdir(self.directory):
             if file.endswith(".mp3"):
                 old_name = os.path.join(self.directory, file)
-                new_name = os.path.join(self.directory, self.rename_file(file))
-                os.rename(old_name, new_name)
+                try:
+                    new_name = os.path.join(self.directory, self.rename_file(file))
+                    os.rename(old_name, new_name)
+                except:
+                    print("Cannot rename this file as it already exists: ", file)
+                    pass
 
-    def save_file_details_music(self, file_name="index.txt"):
+    def save_file_details_music(self, file_name="index.txt", encoding="utf-8"):
         """
         Saves the contents of the directory to a file
         The name of folder is treated as album name so, use after files are organized
         """
         j = 0
+        file_size = 0
+        today = datetime.date.today().strftime("%d-%m-%Y")
+        file_name = f"{today}_{file_name}"
         with open(os.path.join(self.directory, file_name), "w") as f:
             count = 0
             for folder, sub_folders, files in os.walk(self.directory):
                 count += 1
                 if count == 1:
                     continue
-                folder = folder.split("\\")[-1]
-                f.writelines(f"Album: " + folder + "\n" + "Songs:" + "\n")
+                folder_name = folder.split("\\")[-1]
+                f.writelines(f"Album: " + folder_name + "\n" + "Songs:" + "\n")
                 i = 1
                 for fi in files:
                     try:
                         if fi.endswith(".mp3"):
+                            file = os.path.join(folder, fi)
+                            file_size += os.path.getsize(file) / (1024 * 1024)
                             fi = ".".join(fi.split(".")[:-1])
                             if "-" in fi:
                                 fi = " ".join(fi.split("-")[1:])
@@ -242,30 +252,51 @@ class FileManager(Music):
                         pass
                 f.writelines("\n\n")
             f.writelines("\n" + "Total number of songs: " + str(j - 1))
+            f.writelines(
+                "\n" + "Total size of songs: " + str(math.floor(file_size)) + " MB"
+            )
 
 
 def main(directory):
     """
     The main function
     """
+    just_file_details = input("Do you want to just get the file details? (y/n)")
+    if just_file_details[0].lower() == "y":
+        fm = FileManager(directory)
+        fm.save_file_details_music()
+        print("DONE!!!")
+        return None
+
     print("Initializing...")
     f = FileManager(directory)
     m = Music(directory, strict=True)
 
-    print("Renaming files...")
     # Rename Files
-    f.rename_files_in_directory()
+    rename_ask = input("Want to rename the files? (y/n)")
+    if rename_ask[0].lower() == "y":
+        print("Renaming files...")
+        f.rename_files_in_directory()
 
     print("Organizing files... Step 1/3\nUsing strict mode")
     # Move file usings strict = True
-    m.move_files(min_num=3)
+    by_artist_name = input("Do you want to organize by artist name? (y/n)")
+    if by_artist_name[0].lower() == "y":
+        by = "artist"
+    else:
+        by = "album"
+
+    print("Organizing files... Step 2/3\nUsing non-strict mode")
+    # Move file usings strict = False
+    m = Music(directory, strict=False)
+    m.move_files(min_num=3, by=by)
 
     print("Organizing files... Step 2/3\n Using non-strict mode")
     # Using strict = False
     m = Music(directory, strict=False)
 
     # Even 2 songs in one album gets their seperate folders
-    m.move_files(1)
+    m.move_files(1, by=by)
 
     print("Organizing files... Step 3/3\nMoving all the files to 'others'")
     # Finally, move the files
