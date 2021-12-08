@@ -21,7 +21,7 @@ class Music:
     After instantiating, call `move_files` with a argument `min_num` which is the minimum number of songs
     an album must have to consider it as a valid folder.
 
-    _______________________________________________________________________________________________________
+    _____________________________________________________________________________________
     Best Way to use the class is first instantiate Music with `strict` as True, then calling `move_files`.
     Then change `strict` to False and call `move_all` to move all the files to a single folder.
 
