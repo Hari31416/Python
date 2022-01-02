@@ -55,7 +55,10 @@ class FileOrganizer:
         -------
         None
         """
-        self.directory = directory
+        if os.path.isabs(directory):
+            self.directory = directory
+        else:
+            self.directory = os.path.join(self.directory, directory)
 
     def add_file_kinds(self, kind, formats=[]):
         """

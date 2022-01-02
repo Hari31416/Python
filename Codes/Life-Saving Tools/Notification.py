@@ -123,7 +123,7 @@ class Notification:
             print("Tool not found")
             print(f"Available options are: {', '.join(self.tools)}")
 
-    def send_text(self, message):
+    def send_text(self, message, media=None):
         """
         This function sends a text message.
 
@@ -131,6 +131,9 @@ class Notification:
         ----------
         message : str
             The message to be sent.
+
+        media : str, optional
+            The media to be sent. The default is None.
 
         Returns
         -------
@@ -141,11 +144,26 @@ class Notification:
         client = Client(account_sid, auth_token)
 
         message = client.messages.create(
-            body=message, from_="+12183355935", to="+919838422934"
+            body=message, media_url=media, from_="+12183355935", to="+919838422934"
         )
         print(message.sid)
 
-    def send_whatsapp_text(self, message):
+    def send_whatsapp_text(self, message, media=None):
+        """
+        This function sends a text message.
+
+        Parameters
+        ----------
+        message : str
+            The message to be sent.
+
+        media : str, optional
+            The media to be sent. The default is None.
+
+        Returns
+        -------
+        None
+        """
         account_sid = config("TWILIO_ACCOUNT_SID")
         auth_token = config("TWILIO_AUTH_TOKEN")
         client = Client(account_sid, auth_token)
@@ -153,6 +171,7 @@ class Notification:
         message = client.messages.create(
             from_="whatsapp:+14155238886",
             body=message,
+            media_url=media,
             to="whatsapp:+919838422934",
         )
         print(message.sid)
