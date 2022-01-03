@@ -6,7 +6,10 @@ from tkinter.messagebox import showerror
 
 class ImageResizer:
     def __init__(self):
-        self.background_color = "#98faef"
+        self.background_color = "#d3f4f5"
+        self.img = None
+        self.filepath = ""
+        self.resized_image = ""
         self.window = tk.Tk()
         self.window.title("Simple Image Resizer")
         self.window.configure(background=self.background_color)
@@ -123,26 +126,24 @@ class ImageResizer:
 
     def show_image(self):
         """Opens the file manager to ask for a image then shows it."""
-        global img
-        global filepath
-        filepath = askopenfilename(
+
+        self.filepath = askopenfilename(
             filetypes=[("Image Files", "*.png"), ("All Files", "*.*")]
         )
-        img = Image.open(filepath)
-        img = ImageTk.PhotoImage(img)
-        self.lbl_image.configure(background="red")
-        self.lbl_image.config(image=img)
+        self.img = Image.open(self.filepath)
+        self.img = ImageTk.PhotoImage(self.img)
+        # self.lbl_image.configure(background="red")
+        self.lbl_image.config(image=self.img)
 
     def show_resized_image(self):
         """Shows the resized image"""
-        global resized_img
         try:
-            raw_img = Image.open(filepath)
+            raw_img = Image.open(self.filepath)
             height = int(self.ent_height.get())
             width = int(self.ent_width.get())
-            resized_img = raw_img.resize((width, height))
-            resized_img = ImageTk.PhotoImage(resized_img)
-            self.lbl_image.config(image=resized_img)
+            self.resized_image = raw_img.resize((width, height))
+            self.resized_img = ImageTk.PhotoImage(self.resized_image)
+            self.lbl_image.config(image=self.resized_img)
         except NameError:
             showerror("NO IMAGE", "No image selected!")
         except ValueError:
@@ -153,14 +154,14 @@ class ImageResizer:
     def save_resized_image(self):
         """Saves the resized image"""
         try:
-            pil_image = Image.open(filepath)
+            pil_image = Image.open(self.filepath)
             height = int(self.ent_height.get())
             width = int(self.ent_width.get())
-            resized_image = pil_image.resize((width, height))
+            self.resized_image = pil_image.resize((width, height))
             save_path = asksaveasfilename(
                 filetypes=[("Image Files", "*.png"), ("All Files", "*.*")]
             )
-            resized_image.save(f"{save_path}.png")
+            self.resized_image.save(f"{save_path}.png")
         except NameError:
             showerror("NO IMAGE", "No image selected!")
         except AttributeError:

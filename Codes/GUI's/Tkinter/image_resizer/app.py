@@ -56,7 +56,7 @@ def save_resized_image():
 
 
 # Setting Windows
-background_color = "#98faef"
+background_color = "#d3f4f5"
 window = tk.Tk()
 window.title("Simple Image Resizer")
 window.configure(background=background_color)
