@@ -1,0 +1,18 @@
+:root {
+    --bg-color: #343636;
+    --text-color: #ffffff;
+}
+
+body, #new-item, .list-group-item{
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+.crossed{
+    text-decoration: line-through;
+}
+.checkbox{
+    background-color: var(--bg-color);
+    margin-right: 10px;
+    height: 1.1rem;
+    width: 1.1rem;
+}
