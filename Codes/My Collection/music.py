@@ -25,7 +25,7 @@ class Music:
     Best Way to use the class is first instantiate Music with `strict` as True, then calling `move_files`.
     Then change `strict` to False and call `move_all` to move all the files to a single folder.
 
-    Any remaining files will be placed in a folder called `others` by calling move_all.
+    Any remaining files will be placed in a folder called `others` by calling `move_all`.
     """
 
     def __init__(self, directory, strict=True):
@@ -134,7 +134,11 @@ class Music:
             self.get_valid_folders(min_num)
 
         for folder in self.valid_folders:
-            os.makedirs(os.path.join(self.directory, folder), exist_ok=True)
+            try:
+                os.makedirs(os.path.join(self.directory, folder), exist_ok=True)
+            except NotADirectoryError:
+                print(f"{folder} is not a valid folder name")
+                continue
             for file in os.listdir(self.directory):
                 album = self.get_song_param(self.audio_file(file), by)
                 if album:
@@ -146,10 +150,14 @@ class Music:
                             )
                     else:
                         if folder in album:
-                            shutil.move(
-                                os.path.join(self.directory, file),
-                                os.path.join(self.directory, folder),
-                            )
+                            try:
+                                shutil.move(
+                                    os.path.join(self.directory, file),
+                                    os.path.join(self.directory, folder),
+                                )
+                            except BaseException:
+                                print(f"{file} is already in {folder}")
+                                continue
                 else:
                     pass
 
