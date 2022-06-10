@@ -1,0 +1,63 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+    <py-env>
+        - numpy
+        - matplotlib
+    </py-env>
+    <title>Python REPL in Browser Lite</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-md-offset-1">
+                <h1 class="text-center pt-5 pb-2">Python REPL in Browser</h1>
+                <p class="lead">
+                    Here you can try out Python code in the browser. The REPL runs using Pyscript. The REPL comes with
+                    the libraries: numpy, matplotlib, pillow etc.
+                </p>
+                <div class="muted">If you need more libraries, try <a href="repl.html" target="_blank">this</a> REPL.
+                    This REPL has
+                    scipy and pandas along with numpy, matplotlib, pillow.</div>
+                <p class="muted">It might take some time for the REPL to load. Pyscript needs to download all the
+                    libraries first.
+                <div class="d-md-none">
+                    <py-repl auto-generate="true"></py-repl>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container d-none d-md-block">
+        <div class="row">
+            <div class="col-6">
+                <py-repl auto-generate="true" std-out="output" std-err="errors"></py-repl>
+            </div>
+            <div class="col-6">
+                <div class="row">
+                    <div>
+                        <b>Output</b>
+                        <hr>
+                        <div id="output"></div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div>
+                        <b>Errors and Warnings</b>
+                        <hr>
+                        <div id="errors"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

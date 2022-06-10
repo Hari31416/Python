@@ -11,8 +11,10 @@
     <py-env>
         - numpy
         - matplotlib
-        - paths:
-          - ./data.py
+        - pandas
+        <!-- - paths: -->
+          <!-- - ./data.py -->
+          <!-- - . -->
     </py-env>
     <title>Getting Started With Pyscript</title>
 </head>
@@ -73,18 +75,17 @@
 
     fig, ax = plt.subplots()
     ax.scatter(x, y)
+    fig.savefig("fig.png")
     fig
     </py-script>
     <!-- 5 -->
     <h2>Local Modules</h2>
     <div id="plot"></div>
-    <py-script output="plot">
-    from data import plot_data
-    plot_data(n=10000)
+    <py-script src="data.py">
     </py-script>
 
     <h1>Repel Envirnoment</h1>
-    <py-repl></py-repl>
+    <py-repl auto-generate="true"></py-repl>
     </div>
 </body>
 

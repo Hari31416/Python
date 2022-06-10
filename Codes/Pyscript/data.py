@@ -8,3 +8,5 @@ def plot_data(n):
     fig, ax = plt.subplots()
     ax.scatter(x, y, color="r")
     return fig
+
+plot_data(1000)
