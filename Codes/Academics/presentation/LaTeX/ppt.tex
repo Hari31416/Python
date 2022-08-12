@@ -6,7 +6,7 @@
 \usepackage{csvsimple}
 \usetheme{Berkeley}
 \definecolor{ginger}{rgb}{0.69, 0.4, 0.0}
-\usecolortheme{wolverine}
+% \usecolortheme{wolverine}
 \title{Mathematics Presentation}
 \subtitle{Euler's Equation}
 \institute[IITD]{Indian Institute of Technology, Delhi}
@@ -14,28 +14,28 @@
 \begin{document}
 \maketitle
 \begin{frame}
-\frametitle{Outline}
-\tableofcontents
+    \frametitle{Outline}
+    \tableofcontents
 \end{frame}
 \label{Intro}
 \section{Introduction}
 \subsection{Euler's Equation}
 \begin{frame}
-\frametitle{Euler's Formula}
-The Euler's formula in which I'm interested in is
-\begin{equation}
-    \label{eq:1}
+    \frametitle{Euler's Formula}
+    The Euler's formula in which I'm interested in is
+    \begin{equation}
+        \label{eq:1}
         e^{ix} = \cos{x} + i\sin{x}
-\end{equation}
-\onslide<1->
-There are a lot of ways to prove this. Some of them are:
-\begin{itemize}
-\color{blue}
-\item <2-> Using Taylor series expansion
-\item <3-> Using Calculus
-\item <4-> Using Polar Coordinates
-\end{itemize}
-\onslide<5-> Here, We'll use basic arithmatic and algebra to prove it.
+    \end{equation}
+    \onslide<1->
+    There are a lot of ways to prove this. Some of them are:
+    \begin{itemize}
+        \color{blue}
+        \item <2-> Using Taylor series expansion
+        \item <3-> Using Calculus
+        \item <4-> Using Polar Coordinates
+    \end{itemize}
+    \onslide<5-> Here, We'll use basic arithmatic and algebra to prove it.
 \end{frame}
 \subsection{Procedure}
 \begin{frame}
@@ -51,57 +51,57 @@ There are a lot of ways to prove this. Some of them are:
 \section{Proof}
 \subsection{Step 1}
 \begin{frame}
-\frametitle{Step 1}
-First, we have to show that for a small number $x$, we have:
-\begin{equation}
-    \label{eq:2}
-    10^x = 1 + 2.3026x
-\end{equation}
-To get this what we could do is that we'll start with 10 and keep taking the square root of it by usual method. Doing this a number of times will give us the following table.
+    \frametitle{Step 1}
+    First, we have to show that for a small number $x$, we have:
+    \begin{equation}
+        \label{eq:2}
+        10^x = 1 + 2.3026x
+    \end{equation}
+    To get this what we could do is that we'll start with 10 and keep taking the square root of it by usual method. Doing this a number of times will give us the following table.
 \end{frame}
 \begin{frame}
     \frametitle{Step 1 : Cont.}
     \begin{columns}
-    \column{0.5\textwidth}
-    \begin{table}[]
-        % \caption{Table 1}
-        \tiny
-        \caption{Table 1}
-        \centering
-        \def\arraystretch{1.2}
-        \begin{tabular}{|l|l|l|} \hline
-        $10^x$ & $\frac{10^x-1}{x}$ & x        \\ \hline  \hline
-        10.0                  & 9.0                         & 1        \\ \hline
-        3.16227766    & 4.32455532          & 1/2      \\ \hline
-        1.77827941    & 3.11311764          & 1/4      \\ \hline
-        1.33352143    & 2.66817145          & 1/8      \\ \hline
-        1.15478198    & 2.47651175          & 1/16     \\ \hline
-        1.07460782    & 2.38745050          & 1/32     \\ \hline
-        1.03663292    & 2.34450742          & 1/64     \\ \hline
-        1.01815172    & 2.32342037          & 1/128    \\ \hline
-        1.00903504    & 2.31297147          & 1/256    \\ \hline
-        1.00450736    & 2.30777049          & 1/512    \\ \hline
-        1.00225114    & 2.30517585          & 1/1024   \\ \hline
-        1.00112494    & 2.30387998          & 1/2048   \\ \hline
-        1.00056231    & 2.30323241          & 1/4096   \\ \hline
-        1.00028111    & 2.30290872          & 1/8192   \\ \hline
-        1.00014054    & 2.30274690          & 1/16384  \\ \hline
-        1.00007027    & 2.30266599          & 1/32768  \\ \hline
-        1.00003513    & 2.30262554          & 1/65536  \\ \hline
-        1.00001756    & 2.30260531         & 1/131072 \\ \hline
-        1.00000878    & 2.30259520          & 1/262144 \\ \hline
-        1.00000439    & 2.30259014          & 1/524288 \\ \hline
-        \end{tabular}
-    \end{table}
-    \pause
-    \column{0.5\textwidth}
-    As we can see, as $x$ gets smaller, the value of $\frac{10^x-1}{x}$ approaches a constant value of 2.3026. Which suggests that for a small $x$, we'll have:
-    \begin{equation}
-        \begin{split}
-            &\frac{10^x-1}{x} = 2.3026 \\
-            &10^x = 1 + 2.3026x
-        \end{split}
-    \end{equation}
+        \column{0.5\textwidth}
+        \begin{table}[]
+            % \caption{Table 1}
+            \tiny
+            \caption{Table 1}
+            \centering
+            \def\arraystretch{1.2}
+            \begin{tabular}{|l|l|l|} \hline
+                $10^x$     & $\frac{10^x-1}{x}$ & x        \\ \hline  \hline
+                10.0       & 9.0                & 1        \\ \hline
+                3.16227766 & 4.32455532         & 1/2      \\ \hline
+                1.77827941 & 3.11311764         & 1/4      \\ \hline
+                1.33352143 & 2.66817145         & 1/8      \\ \hline
+                1.15478198 & 2.47651175         & 1/16     \\ \hline
+                1.07460782 & 2.38745050         & 1/32     \\ \hline
+                1.03663292 & 2.34450742         & 1/64     \\ \hline
+                1.01815172 & 2.32342037         & 1/128    \\ \hline
+                1.00903504 & 2.31297147         & 1/256    \\ \hline
+                1.00450736 & 2.30777049         & 1/512    \\ \hline
+                1.00225114 & 2.30517585         & 1/1024   \\ \hline
+                1.00112494 & 2.30387998         & 1/2048   \\ \hline
+                1.00056231 & 2.30323241         & 1/4096   \\ \hline
+                1.00028111 & 2.30290872         & 1/8192   \\ \hline
+                1.00014054 & 2.30274690         & 1/16384  \\ \hline
+                1.00007027 & 2.30266599         & 1/32768  \\ \hline
+                1.00003513 & 2.30262554         & 1/65536  \\ \hline
+                1.00001756 & 2.30260531         & 1/131072 \\ \hline
+                1.00000878 & 2.30259520         & 1/262144 \\ \hline
+                1.00000439 & 2.30259014         & 1/524288 \\ \hline
+            \end{tabular}
+        \end{table}
+        \pause
+        \column{0.5\textwidth}
+        As we can see, as $x$ gets smaller, the value of $\frac{10^x-1}{x}$ approaches a constant value of 2.3026. Which suggests that for a small $x$, we'll have:
+        \begin{equation}
+            \begin{split}
+                &\frac{10^x-1}{x} = 2.3026 \\
+                &10^x = 1 + 2.3026x
+            \end{split}
+        \end{equation}
     \end{columns}
 \end{frame}
 
@@ -117,11 +117,11 @@ To get this what we could do is that we'll start with 10 and keep taking the squ
             &= e^{2.3026x} = 1+2.3026x
         \end{split}
     \end{equation}
-Substituting $2.3026x$ to $y$ gives:
-\begin{equation}
-    \label{eq:5}
-    e^y = 1 +y
-\end{equation}
+    Substituting $2.3026x$ to $y$ gives:
+    \begin{equation}
+        \label{eq:5}
+        e^y = 1 +y
+    \end{equation}
 \end{frame}
 
 \subsection{Step 3}
@@ -132,104 +132,104 @@ Substituting $2.3026x$ to $y$ gives:
         \label{eq:6}
         e^{ix} = 1 + ix
     \end{equation}
-\pause
-We'll also need a rule to multiply two complex numbers. The rule is straight forward. Let $a+ib$ and $c+id$ be two complex number. Then there multiplication is:
-\begin{equation*}
-    \begin{split}
-        (a+ib)\times (c+id) &=ac + a\times id + ib\times c + ib\times id \\
-        &=ac + i(ad+bc) + i^2bd
-    \end{split}
-\end{equation*}
-Using $i^2 = -1$ we get:
-\begin{equation}
-    \label{eq:7}
-    (a+ib)\times (c+id) = (ac-bd) + i(ad+bc)
-\end{equation}
+    \pause
+    We'll also need a rule to multiply two complex numbers. The rule is straight forward. Let $a+ib$ and $c+id$ be two complex number. Then there multiplication is:
+    \begin{equation*}
+        \begin{split}
+            (a+ib)\times (c+id) &=ac + a\times id + ib\times c + ib\times id \\
+            &=ac + i(ad+bc) + i^2bd
+        \end{split}
+    \end{equation*}
+    Using $i^2 = -1$ we get:
+    \begin{equation}
+        \label{eq:7}
+        (a+ib)\times (c+id) = (ac-bd) + i(ad+bc)
+    \end{equation}
 \end{frame}
 
 \subsection{Step 4}
 \begin{frame}
     \frametitle{Step 4}
- Choosing sufficiently small $x$, say $\frac{1}{2^{15}} = 0.00003052$ and the equation \ref{eq:6} We can write:
+    Choosing sufficiently small $x$, say $\frac{1}{2^{15}} = 0.00003052$ and the equation \ref{eq:6} We can write:
     \begin{equation}
         \label{eq:8}
         e^{0.00003052i} = 1 + 0.00003052i
     \end{equation}
-\pause
-Now, we'll repeat the step 1 in exact opposite manner. That is, we'll multiply the complex number defined in equation \ref{eq:8} and keep multiplying it to get another complex numbers with greater value of $x$ and continue the process till we get x=1. For example, multiplying the number \ref{eq:8} with itself gives a number equivalent to $e^{\frac{i}{2^{14}}}$. \\ If we keep multiplying, we'll get the following table.
+    \pause
+    Now, we'll repeat the step 1 in exact opposite manner. That is, we'll multiply the complex number defined in equation \ref{eq:8} and keep multiplying it to get another complex numbers with greater value of $x$ and continue the process till we get x=1. For example, multiplying the number \ref{eq:8} with itself gives a number equivalent to $e^{\frac{i}{2^{14}}}$. \\ If we keep multiplying, we'll get the following table.
 \end{frame}
 
 \begin{frame}
     \frametitle{Step 4: Cont.}
     \begin{columns}
-    \column{0.5\textwidth}
-    \begin{table}
-        \caption{Table 2}
-        % \vspace{0.5cm}
-        \centering
-        \def\arraystretch{1.2}
-        \tiny
-        \begin{tabular}{|l|l|l|l|} \hline
-         x       & Real Part          & Imaginary Part \\ \hline \hline
-        1/32768 & 1.0        & 0.00003051 \\\hline
-        1/16384 & 0.99999999 & 0.00006103 \\\hline
-        1/8192  & 0.99999999 & 0.00012207 \\\hline
-        1/4096  & 0.99999997 & 0.00024414 \\\hline
-        1/2048  & 0.99999988 & 0.00048828 \\\hline
-        1/1024  & 0.99999953 & 0.00097656 \\\hline
-        1/512   & 0.99999812 & 0.00195312 \\\hline
-        1/256   & 0.99999243 & 0.00390624 \\\hline
-        1/128   & 0.99996960 & 0.00781242 \\\hline
-        1/64    & 0.99987817 & 0.01562436 \\\hline
-        1/32    & 0.99951223 & 0.03124492 \\\hline
-        1/16    & 0.99804846 & 0.06245937 \\\hline
-        1/8     & 0.99219955 & 0.12467497 \\\hline
-        1/4     & 0.96891611 & 0.24740490 \\\hline
-        1/2     & 0.87758925 & 0.47942919 \\\hline
-        1       & 0.54031055 & 0.84148382 \\ \hline
-        \end{tabular}
+        \column{0.5\textwidth}
+        \begin{table}
+            \caption{Table 2}
+            % \vspace{0.5cm}
+            \centering
+            \def\arraystretch{1.2}
+            \tiny
+            \begin{tabular}{|l|l|l|l|} \hline
+                x       & Real Part  & Imaginary Part \\ \hline \hline
+                1/32768 & 1.0        & 0.00003051     \\\hline
+                1/16384 & 0.99999999 & 0.00006103     \\\hline
+                1/8192  & 0.99999999 & 0.00012207     \\\hline
+                1/4096  & 0.99999997 & 0.00024414     \\\hline
+                1/2048  & 0.99999988 & 0.00048828     \\\hline
+                1/1024  & 0.99999953 & 0.00097656     \\\hline
+                1/512   & 0.99999812 & 0.00195312     \\\hline
+                1/256   & 0.99999243 & 0.00390624     \\\hline
+                1/128   & 0.99996960 & 0.00781242     \\\hline
+                1/64    & 0.99987817 & 0.01562436     \\\hline
+                1/32    & 0.99951223 & 0.03124492     \\\hline
+                1/16    & 0.99804846 & 0.06245937     \\\hline
+                1/8     & 0.99219955 & 0.12467497     \\\hline
+                1/4     & 0.96891611 & 0.24740490     \\\hline
+                1/2     & 0.87758925 & 0.47942919     \\\hline
+                1       & 0.54031055 & 0.84148382     \\ \hline
+            \end{tabular}
         \end{table}
-    \pause
-    \column{0.5\textwidth}
-    \small
-    The table to the left shows the real and imaginary part of $e^{ix}$ for the given x. First thing that we see from here is that the real part is decreasing and the imaginary part is increasing. We can keep multiplying and we'll see that the real and imaginary part are oscillating from -1 to 1.
+        \pause
+        \column{0.5\textwidth}
+        \small
+        The table to the left shows the real and imaginary part of $e^{ix}$ for the given x. First thing that we see from here is that the real part is decreasing and the imaginary part is increasing. We can keep multiplying and we'll see that the real and imaginary part are oscillating from -1 to 1.
     \end{columns}
 \end{frame}
 
 \begin{frame}
     \frametitle{Step 4: Cont.}
     \begin{columns}
-    \column{0.5\textwidth}
-    \small
-    To see this more clearly, we'll use $e^{\frac{i}{8}}$ as the base number and calculate $e^{\frac{2i}{8}}$, $e^{\frac{3i}{8}}$ and so on. Note that any number in the form of $e^{\frac{in}{8}}$, where n is an integer can easily be calculated using the table 2.
-    
-    \column{0.5\textwidth}
-    \begin{table}
-        \caption{Table 3}
-        \vspace{0.5cm}
-        \centering
-        \def\arraystretch{1.2}
-        \tiny
-        \begin{tabular}{|l|l|l|} \hline
-            x    & Real Part             & Imaginary Part       \\ \hline \hline
-            0    & 1.0                & 0.0  \\ \hline
-            1/8  & 0.99219955  & 0.12467497  \\ \hline
-            1/4  & 0.96891611  & 0.24740490  \\ \hline
-            3/8  & 0.93051294  & 0.36627462  \\ \hline
-            1/2  & 0.87758925  & 0.47942919  \\ \hline
-            5/8  & 0.81097085  & 0.58510285  \\ \hline
-            3/4  & 0.73169724  & 0.68164656  \\ \hline
-            7/8  & 0.64100541  & 0.76755374  \\ \hline
-            1    & 0.54031055  & 0.84148382  \\ \hline
-            9/8  & 0.43118391  & 0.90228308  \\ \hline
-            5/4  & 0.31532837  & 0.94900271  \\ \hline
-            11/8 & 0.19455179  & 0.98091363  \\ \hline
-            3/2  & 0.07073882  & 0.99751781  \\ \hline
-            13/8 & -0.0541784  & 0.99855609  \\ \hline
-            7/4  & -0.1782508  & 0.98401222  \\ \hline
-            15/8 & -0.2995420  & 0.95411307  \\ \hline
-            2    & -0.4161595  & 0.90932517  \\ \hline
-        \end{tabular}
+        \column{0.5\textwidth}
+        \small
+        To see this more clearly, we'll use $e^{\frac{i}{8}}$ as the base number and calculate $e^{\frac{2i}{8}}$, $e^{\frac{3i}{8}}$ and so on. Note that any number in the form of $e^{\frac{in}{8}}$, where n is an integer can easily be calculated using the table 2.
+
+        \column{0.5\textwidth}
+        \begin{table}
+            \caption{Table 3}
+            \vspace{0.5cm}
+            \centering
+            \def\arraystretch{1.2}
+            \tiny
+            \begin{tabular}{|l|l|l|} \hline
+                x    & Real Part  & Imaginary Part \\ \hline \hline
+                0    & 1.0        & 0.0            \\ \hline
+                1/8  & 0.99219955 & 0.12467497     \\ \hline
+                1/4  & 0.96891611 & 0.24740490     \\ \hline
+                3/8  & 0.93051294 & 0.36627462     \\ \hline
+                1/2  & 0.87758925 & 0.47942919     \\ \hline
+                5/8  & 0.81097085 & 0.58510285     \\ \hline
+                3/4  & 0.73169724 & 0.68164656     \\ \hline
+                7/8  & 0.64100541 & 0.76755374     \\ \hline
+                1    & 0.54031055 & 0.84148382     \\ \hline
+                9/8  & 0.43118391 & 0.90228308     \\ \hline
+                5/4  & 0.31532837 & 0.94900271     \\ \hline
+                11/8 & 0.19455179 & 0.98091363     \\ \hline
+                3/2  & 0.07073882 & 0.99751781     \\ \hline
+                13/8 & -0.0541784 & 0.99855609     \\ \hline
+                7/4  & -0.1782508 & 0.98401222     \\ \hline
+                15/8 & -0.2995420 & 0.95411307     \\ \hline
+                2    & -0.4161595 & 0.90932517     \\ \hline
+            \end{tabular}
         \end{table}
 
     \end{columns}
@@ -238,7 +238,7 @@ Now, we'll repeat the step 1 in exact opposite manner. That is, we'll multiply t
 \begin{frame}
     \frametitle{Step 4: Cont.}
     So it turns out that the the complex number $e^{ix}$ is a periodic function. If we continue for even larger value of x, we find that for increasing x, the real part of $e^{ix}$ is decreasing, reaching upto -1 and then start to increase again reaching to value of 1. The exact opposite happens for the virtual part of $e^{ix}$ which is increasing and then start to decrease.
-    So, we may write $e^{ix}$ as: 
+    So, we may write $e^{ix}$ as:
     \begin{equation}
         \label{eq:9}
         e^{ix} = f(x) + g(x)i
@@ -261,7 +261,7 @@ Now, we'll repeat the step 1 in exact opposite manner. That is, we'll multiply t
 \begin{frame}
     \frametitle{Step 4: Cont.}
     The same can be done for $g(x)$ and $\sin{x}$.
-        \begin{figure}
+    \begin{figure}
         \centering
         \includegraphics[width=0.7\textwidth, height=0.55\textheight]{img/imaginary.png}
         \caption{\label{fig:imag}Imaginary Part $g(x)$ of $e^{ix}$ together with $\sin(x)$}
@@ -284,7 +284,7 @@ Now, we'll repeat the step 1 in exact opposite manner. That is, we'll multiply t
     \frametitle{Result}
     By using simple arithmatic and algebra, we generated the tables and plotted their data. We find that even these elementary method gave us one of the most important relation in complex numbers, namely the Euler's relation:
     \begin{equation*}
-            e^{ix} = \cos{x} + i\sin{x}
+        e^{ix} = \cos{x} + i\sin{x}
     \end{equation*}
 \end{frame}
 
@@ -294,10 +294,10 @@ Now, we'll repeat the step 1 in exact opposite manner. That is, we'll multiply t
     \onslide<1-> There are a tons of applications of Euler's equation. Here, I've given just a few.
     \begin{enumerate}
         \color{blue}
-        \item <2-> Writing a complex number in a form which is easier to handle, namely, the polar form. $$x+iy = re^{i\theta}$$ 
-        \item <3-> Deriving Euler's Identity 
-        \item <4-> Defining the Hyperbolic Functions $\cosh{x}$ and $\sinh{x}$ 
-        \item <5-> Proving De Moivre’s Theorem 
+        \item <2-> Writing a complex number in a form which is easier to handle, namely, the polar form. $$x+iy = re^{i\theta}$$
+        \item <3-> Deriving Euler's Identity
+        \item <4-> Defining the Hyperbolic Functions $\cosh{x}$ and $\sinh{x}$
+        \item <5-> Proving De Moivre’s Theorem
         \item <6-> Complex Logarithm and General Complex Exponential
         \item <7-> Solving Some Physics Problem more Efficiently
     \end{enumerate}
@@ -310,9 +310,9 @@ Now, we'll repeat the step 1 in exact opposite manner. That is, we'll multiply t
     It will be a kind of blasphamy to discuss Euler's equation but leave out Euler's identity which is given by:
     \begin{equation}
         \label{el-id}
-       \mathbf{e^{i\pi} + 1 = 0}
+        \mathbf{e^{i\pi} + 1 = 0}
     \end{equation}
-The equation \ref{el-id} above is considered as \textbf{the most beautiful equation} in Mathematics for obvious reasons. The identity can be proved putting $x=\pi$ into Euler's equation \ref{eq:1}.
+    The equation \ref{el-id} above is considered as \textbf{the most beautiful equation} in Mathematics for obvious reasons. The identity can be proved putting $x=\pi$ into Euler's equation \ref{eq:1}.
 \end{frame}
 
 \section{References and Links}
@@ -320,14 +320,14 @@ The equation \ref{el-id} above is considered as \textbf{the most beautiful equat
     \frametitle{References and Links}
     \begin{itemize}
         \item References \begin{enumerate}
-            \item \href{https://www.feynmanlectures.caltech.edu/I_22.html}{Feynman Lectures on Physics Volume I Chapter 22}
-            \item \href{https://mathvault.ca/euler-formula/}{Math Vault}
-            \item \href{https://en.wikipedia.org/wiki/Eulers_formula}{Euler's formula: Wikipedia}
-        \end{enumerate} \vspace{1cm}
+                  \item \href{https://www.feynmanlectures.caltech.edu/I_22.html}{Feynman Lectures on Physics Volume I Chapter 22}
+                  \item \href{https://mathvault.ca/euler-formula/}{Math Vault}
+                  \item \href{https://en.wikipedia.org/wiki/Eulers_formula}{Euler's formula: Wikipedia}
+              \end{enumerate} \vspace{1cm}
         \item Source Codes \begin{enumerate}
-            \item \href{https://github.com/Hari31416/Python/tree/main/Codes/Academics/presentation}{Github Folder for The Source Codes}
-            \item \href{https://hari31416.github.io/ppt/}{Jupyter Notebook In HTML with all the Tables and Plots}
-        \end{enumerate}
+                  \item \href{https://github.com/Hari31416/Python/tree/main/Codes/Academics/presentation}{Github Folder for The Source Codes}
+                  \item \href{https://hari31416.github.io/ppt/}{Jupyter Notebook In HTML with all the Tables and Plots}
+              \end{enumerate}
     \end{itemize}
 \end{frame}
 \end{document}
