@@ -1,0 +1,6 @@
+2023-01-22 13:44:08,592:DEBUG:This will get logged
+2023-01-22 13:44:08,593:DEBUG:This message should go to the log file
+2023-01-22 13:44:08,593:INFO:So should this
+2023-01-22 13:44:08,593:WARNING:And this, too
+2023-01-22 13:44:08,594:ERROR:And non-ASCII stuff, too, like Øresund and Malmö
+2023-01-22 13:44:08,594:CRITICAL:Critical Warning.
